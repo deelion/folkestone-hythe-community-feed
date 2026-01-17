@@ -55,7 +55,7 @@ async function generateFeed() {
   for (const source of rssSources) {
     try {
       const feed = await parser.parseURL(source.rssUrl);
-      const feedItems = feed.items.slice(0, 5);
+      const feedItems = feed.items.slice(0, 20);
 
       feedItems.forEach((item) => {
         items.push({
@@ -96,9 +96,7 @@ async function generateFeed() {
       url: item.link,
       guid: item.link,
       date: item.date,
-      custom_elements: [
-        { organisation: item.organisation }, // <- your CSV name
-      ],
+      custom_elements: [{ organisation: item.organisation }],
     });
   });
 
@@ -128,7 +126,7 @@ function plainText(text, maxLength = 300) {
   // 3. Strip all other HTML
   cleaned = cleaned.replace(/<[^>]*>/g, "");
 
-  // 4. Replace any sequence of whitespace (including line breaks) with a single space
+  // 4. Replace any sequence of whitespace with a single space
   cleaned = cleaned.replace(/[\r\n]+/g, " "); // replace line breaks with a space
   cleaned = cleaned.replace(/\s+/g, " ").trim(); // collapse remaining whitespace
 
