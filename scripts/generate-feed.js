@@ -128,8 +128,9 @@ function plainText(text, maxLength = 300) {
   // 3. Strip all other HTML
   cleaned = cleaned.replace(/<[^>]*>/g, "");
 
-  // 4. Collapse whitespace/newlines
-  cleaned = cleaned.replace(/\s+/g, " ").trim();
+  // 4. Replace any sequence of whitespace (including line breaks) with a single space
+  cleaned = cleaned.replace(/[\r\n]+/g, " "); // replace line breaks with a space
+  cleaned = cleaned.replace(/\s+/g, " ").trim(); // collapse remaining whitespace
 
   // 5. Truncate
   if (cleaned.length > maxLength) {
