@@ -92,10 +92,13 @@ async function generateFeed() {
   latestItems.forEach((item) => {
     feed.item({
       title: item.title,
-      description: truncateText(stripImages(item.description)),
+      description: plainText(item.description),
       url: item.link,
       guid: item.link,
       date: item.date,
+      custom_elements: [
+        { organisation: item.organisation }, // <- your CSV name
+      ],
     });
   });
 
@@ -110,6 +113,31 @@ async function generateFeed() {
 // ----------------------------
 // HELPERS
 // ----------------------------
+
+function plainText(text, maxLength = 300) {
+  if (!text) return "";
+
+  let cleaned = text;
+
+  // 1. Strip images
+  cleaned = cleaned.replace(/<img[^>]*>/g, "");
+
+  // 2. Strip shortcodes
+  cleaned = stripShortcodes(cleaned);
+
+  // 3. Strip all other HTML
+  cleaned = cleaned.replace(/<[^>]*>/g, "");
+
+  // 4. Collapse whitespace/newlines
+  cleaned = cleaned.replace(/\s+/g, " ").trim();
+
+  // 5. Truncate
+  if (cleaned.length > maxLength) {
+    cleaned = cleaned.slice(0, maxLength) + "…";
+  }
+
+  return cleaned;
+}
 
 function parseCSV(text) {
   const rows = [];
