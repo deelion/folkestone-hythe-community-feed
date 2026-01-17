@@ -8,7 +8,7 @@ const RSS = require("rss");
 // ----------------------------
 
 const ORGANISATIONS_CSV_URL =
-  "https://raw.githubusercontent.com/deelion/folkestone-hythe-community-directory/data/organisations.csv";
+  "https://raw.githubusercontent.com/deelion/folkestone-hythe-community-directory/refs/heads/main/data/organisations.csv";
 
 const SITE_URL = "https://folke.world";
 const OUTPUT_PATH = path.join(__dirname, "../public/feed.xml");
