@@ -181,13 +181,10 @@ function parseCSV(text) {
   });
 }
 
-function stripImages(html) {
-  return html.replace(/<img[^>]*>/g, "");
-}
-
-function truncateText(text, maxLength = 300) {
+function stripShortcodes(text) {
   if (!text) return "";
-  return text.length > maxLength ? text.slice(0, maxLength) + "…" : text;
+  // Remove [shortcode ...] or [shortcode]…[/shortcode]
+  return text.replace(/\[\/?[\w-]+(?:[^\]]*)\]/g, "");
 }
 
 // ----------------------------
