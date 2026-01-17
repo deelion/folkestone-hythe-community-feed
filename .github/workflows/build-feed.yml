@@ -31,6 +31,9 @@ jobs:
       - name: Generate feed
         run: npm run build
 
+      - name: Copy feed to root for GitHub Pages
+        run: cp public/feed.xml feed.xml
+
       - name: Commit updated feed.xml
         run: |
           git config user.name "community-feed-bot"
