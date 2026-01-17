@@ -1,0 +1,13 @@
+{
+  "name": "community-feed",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "node scripts/generate-feed.js"
+  },
+  "dependencies": {
+    "rss": "^1.2.2",
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
