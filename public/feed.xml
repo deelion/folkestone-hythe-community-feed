@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 04:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 13:59:32 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Positive steps forward for Folca]]></title>
+            <description><![CDATA[Significant progress continues to be made behind the scenes on the future of the Folca building in Sandgate Road that includes a new medical centre at its heart.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/396/positive-steps-forward-for-folca</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/396/positive-steps-forward-for-folca</guid>
+            <pubDate>Mon, 19 Jan 2026 14:54:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Future of swimming pools under spotlight]]></title>
             <description><![CDATA[Financially supporting the re-opening of Folkestone Sports Centre pool and funding improvements to Hythe Pool are due to be discussed by councillors.]]></description>
@@ -318,14 +326,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/art-fair-2025/</guid>
             <pubDate>Fri, 31 Oct 2025 10:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Support for Folkestone Library community and cultural hub bid ]]></title>
-            <description><![CDATA[Support for a proposal to restore Folkestone’s Central Library in Grace Hill as a community building has been voiced by the district council.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/376/support-for-folkestone-library-community-and-cultural-hub-bid</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/376/support-for-folkestone-library-community-and-cultural-hub-bid</guid>
-            <pubDate>Wed, 29 Oct 2025 16:39:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[The Town Mayor’s Raffle Prize Request 2025]]></title>
