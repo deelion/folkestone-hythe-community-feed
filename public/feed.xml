@@ -4,9 +4,25 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 04:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 14:02:51 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spectacular Anglo-Saxon Sword to go on display at Folkestone Museum]]></title>
+            <description><![CDATA[Finds from a top-secret Anglo-Saxon cemetery in East Kent, including a complete sixth century sword with silver-gilt hilt fittings, will go on display at Folkestone Museum in July 2026. This sword was featured on Digging for Britain last year. It is one of the finest Anglo-Saxon swords ever found in…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</guid>
+            <pubDate>Wed, 21 Jan 2026 11:51:54 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Change the tide with café opportunity]]></title>
+            <description><![CDATA[A new beachside destination at Greatstone is to be known as the Changing Tides Coastal Centre when it opens this year.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/397/change-the-tide-with-caf-opportunity</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/397/change-the-tide-with-caf-opportunity</guid>
+            <pubDate>Wed, 21 Jan 2026 11:50:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Positive steps forward for Folca]]></title>
             <description><![CDATA[Significant progress continues to be made behind the scenes on the future of the Folca building in Sandgate Road that includes a new medical centre at its heart.]]></description>
@@ -240,14 +256,6 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Folca 1 goes on sale]]></title>
-            <description><![CDATA[The Edwardian section of the Folca building in Folkestone has gone on the market.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/377/folca-1-goes-on-sale</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/377/folca-1-goes-on-sale</guid>
-            <pubDate>Wed, 05 Nov 2025 12:44:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
             <title><![CDATA[Past Events + Exhibitions]]></title>
             <description><![CDATA[Christmas-Not-Christmas Design + Art Fair 2025 Fourth Wall&#8217;s Fourth Birthday Party Still Sick Of It Riots Not Diets Returns Still out of CONtext Every Body: A Community Life Drawing Celebration Ageing Without Children Embodied The Body Room The Joy Of Fat We&#8217;ve Been Here Before Who Cares…]]></description>
             <link>https://fourthwallfolkestone.co.uk/past-events/</link>
@@ -318,38 +326,6 @@
             <guid isPermaLink="false">https://gofolkestone.org.uk/small-acts-big-change-how-community-projects-shape-a-town/</guid>
             <pubDate>Wed, 24 Sep 2025 15:18:36 GMT</pubDate>
             <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to Large Format Cameras]]></title>
-            <description><![CDATA[Step into the world of large format photography! We’ll cover the essentials—from camera setup and proper film loading and handling, to mastering light metering for accurate exposures. We&#8217;ll also explore advanced camera movements like tilt, shift, and swing—powerful tools for creative control a…]]></description>
-            <link>https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</guid>
-            <pubDate>Mon, 25 Aug 2025 08:32:08 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[b&w Film Developing]]></title>
-            <description><![CDATA[Take creative control over your photography by learning how to develop black &amp; white film at home. From contrast to grain, home development lets you shape your images exactly how you envision them. Our hands-on class is perfect for beginners and enthusiasts alike &#8211; no prior experience need…]]></description>
-            <link>https://folkeshare.org.uk/2025/08/25/develop-film/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/develop-film/</guid>
-            <pubDate>Mon, 25 Aug 2025 07:35:18 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Been out with the Cambo]]></title>
-            <description><![CDATA[decided to give farge format photography a try since I read so much about it. It&#8217;s quite a steep learning curve with room for improvement but practice makes perfect.]]></description>
-            <link>https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</guid>
-            <pubDate>Sat, 23 Aug 2025 07:52:42 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Developed my first film!]]></title>
-            <description><![CDATA[Always wanted to do that but the cost of buying all the quipment put me off. With Folkeshare I can hire the bits I need at very low cost and don&#8217;t have to store more stuff. They include everything needed apart from the chemistry. For that we have 2 camera shops near by.]]></description>
-            <link>https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</guid>
-            <pubDate>Sat, 23 Aug 2025 07:41:48 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
         </item>
         <item>
             <title><![CDATA[Shuffler Launch at Our Hub]]></title>
@@ -510,14 +486,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/the-diet-drug-dilemma/</guid>
             <pubDate>Sun, 26 Jan 2025 14:19:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Gutenberg Editor]]></title>
-            <description><![CDATA[Of Mountains &amp; Printing Presses The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll noti…]]></description>
-            <link>https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</link>
-            <guid isPermaLink="false">https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</guid>
-            <pubDate>Wed, 18 Sep 2024 18:21:02 GMT</pubDate>
-            <organisation>Treat Me Right CIC</organisation>
         </item>
         <item>
             <title><![CDATA[International Women’s Day 2024]]></title>
