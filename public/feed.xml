@@ -4,24 +4,48 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 13:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 14:02:51 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spectacular Anglo-Saxon Sword to go on display at Folkestone Museum]]></title>
+            <description><![CDATA[Finds from a top-secret Anglo-Saxon cemetery in East Kent, including a complete sixth century sword with silver-gilt hilt fittings, will go on display at Folkestone Museum in July 2026. This sword was featured on Digging for Britain last year. It is one of the finest Anglo-Saxon swords ever found in…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</guid>
+            <pubDate>Wed, 21 Jan 2026 11:51:54 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Change the tide with café opportunity]]></title>
+            <description><![CDATA[A new beachside destination at Greatstone is to be known as the Changing Tides Coastal Centre when it opens this year.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/397/change-the-tide-with-caf-opportunity</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/397/change-the-tide-with-caf-opportunity</guid>
+            <pubDate>Wed, 21 Jan 2026 11:50:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Positive steps forward for Folca]]></title>
+            <description><![CDATA[Significant progress continues to be made behind the scenes on the future of the Folca building in Sandgate Road that includes a new medical centre at its heart.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/396/positive-steps-forward-for-folca</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/396/positive-steps-forward-for-folca</guid>
+            <pubDate>Mon, 19 Jan 2026 14:54:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Future of swimming pools under spotlight]]></title>
+            <description><![CDATA[Financially supporting the re-opening of Folkestone Sports Centre pool and funding improvements to Hythe Pool are due to be discussed by councillors.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/395/future-of-swimming-pools-under-spotlight</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/395/future-of-swimming-pools-under-spotlight</guid>
+            <pubDate>Mon, 19 Jan 2026 11:47:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Recognition for a community of volunteers]]></title>
             <description><![CDATA[Do you know a community hero who dedicates their own time and skills on behalf of others? Well, we want to hear about them.]]></description>
             <link>https://www.folkestone-hythe.gov.uk/news/article/394/recognition-for-a-community-of-volunteers</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/394/recognition-for-a-community-of-volunteers</guid>
             <pubDate>Thu, 15 Jan 2026 12:39:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[January talk: History of the Clifton Hotel]]></title>
-            <description><![CDATA[Visit the event page for full details and to book The post January talk: History of the Clifton Hotel first appeared on New Folkestone Society.]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/january-talk-history-of-the-clifton-hotel/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/january-talk-history-of-the-clifton-hotel/</guid>
-            <pubDate>Mon, 12 Jan 2026 17:33:51 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Storm Goretti: Folkestone & Hythe update]]></title>
@@ -29,7 +53,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/393/storm-goretti-folkestone-hythe-update</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/393/storm-goretti-folkestone-hythe-update</guid>
             <pubDate>Fri, 09 Jan 2026 14:46:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Tangled]]></title>
@@ -45,7 +69,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/392/skill-up-your-business-for-the-new-year-and-beyond</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/392/skill-up-your-business-for-the-new-year-and-beyond</guid>
             <pubDate>Fri, 09 Jan 2026 12:05:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Studio Sale]]></title>
@@ -56,12 +80,20 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
+            <title><![CDATA[Household Support Fund Scheme 2026]]></title>
+            <description><![CDATA[Funded by the Department for Work and Pensions on behalf of the UK government, the Household Support Fund scheme (HSF) supports vulnerable Kent households in need of help with significantly rising living costs. The Government has announced that this current round of HSF funding will be the last. &nb…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/household-support-fund-scheme-2026/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/household-support-fund-scheme-2026/</guid>
+            <pubDate>Tue, 06 Jan 2026 10:21:51 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
             <title><![CDATA[Taking a look at our financial future]]></title>
             <description><![CDATA[Residents have the opportunity to comment on Folkestone & Hythe District Council’s budget strategy for 2026/27.]]></description>
             <link>https://www.folkestone-hythe.gov.uk/news/article/391/taking-a-look-at-our-financial-future</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/391/taking-a-look-at-our-financial-future</guid>
             <pubDate>Mon, 05 Jan 2026 10:17:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Mindful Messy Making 2026]]></title>
@@ -77,15 +109,31 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/390/christmas-is-a-time-for-giving</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/390/christmas-is-a-time-for-giving</guid>
             <pubDate>Thu, 18 Dec 2025 12:09:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Christmas Opening Hours]]></title>
-            <description><![CDATA[The post Christmas Opening Hours appeared first on Folkestone Rainbow Centre.]]></description>
-            <link>https://www.rainbow-centre.org/christmas-opening-hours-3/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/christmas-opening-hours-3/</guid>
-            <pubDate>Thu, 11 Dec 2025 14:17:11 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
+            <title><![CDATA[Proposed Town Council Budget 2026-2027]]></title>
+            <description><![CDATA[&nbsp; Folkestone Town Council (FTC) is committed to improving and enhancing the Town of Folkestone in an environmentally sustainable manner, having regard to the identified needs and wishes of all sections of the community, whilst delivering the Town Council’s vision ‘To revitalise our town of Folk…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/proposed-town-council-budget-2026-2027/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/proposed-town-council-budget-2026-2027/</guid>
+            <pubDate>Mon, 15 Dec 2025 15:05:31 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[The Town Mayor’s Christmas Message 2025]]></title>
+            <description><![CDATA[&nbsp; Firstly, I would love to say Merry Christmas and a Happy New Year to you all. What a year 2025 has been. Whether you&#8217;ve had an amazing year or a more challenging one, as it draws to an end let us all take time to unwind and reflect. For me Christmas is about the food, the festivities, s…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-town-mayors-christmas-message/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayors-christmas-message/</guid>
+            <pubDate>Fri, 12 Dec 2025 10:36:12 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[The Town Mayor’s Year 6 Christmas Carol Concert 2025]]></title>
+            <description><![CDATA[Each year the Town Mayor of Folkestone holds a Christmas Carol Concert for all Year Six Primary School children within Folkestone, held at the St Mary &amp; St Eanswythe Church, The Bayle. This year, the Town Mayor, Cllr Lucy McGirr was delighted to welcome almost 300 children from nine schools with…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/town-mayor-of-folkestones-year-6-christmas-carol-concert-2025/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/town-mayor-of-folkestones-year-6-christmas-carol-concert-2025/</guid>
+            <pubDate>Tue, 09 Dec 2025 15:08:14 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[A new age for youth forum]]></title>
@@ -93,7 +141,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/389/a-new-age-for-youth-forum</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/389/a-new-age-for-youth-forum</guid>
             <pubDate>Mon, 08 Dec 2025 10:26:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Lower Leas Coastal Park project moving forward]]></title>
@@ -101,7 +149,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/388/lower-leas-coastal-park-project-moving-forward</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/388/lower-leas-coastal-park-project-moving-forward</guid>
             <pubDate>Mon, 08 Dec 2025 09:36:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Folkestone - A Brighter Future updates]]></title>
@@ -109,7 +157,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/387/folkestone-a-brighter-future-updates</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/387/folkestone-a-brighter-future-updates</guid>
             <pubDate>Wed, 03 Dec 2025 13:50:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Backing volunteers with right support]]></title>
@@ -117,7 +165,15 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/386/backing-volunteers-with-right-support</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/386/backing-volunteers-with-right-support</guid>
             <pubDate>Tue, 02 Dec 2025 09:11:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[The Town Mayor’s Christmas Card Competition 2025]]></title>
+            <description><![CDATA[The Worshipful Town Mayor of Folkestone, Councillor Lucy McGirr, invited students in year groups 7 and 8 at local secondary schools to design a picture reflecting ‘Festive Folkestone’ for this year’s annual Christmas card, which will be sent out to local businesses and dignitaries, including His Maj…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-town-mayor-of-folkestones-christmas-card-competition-2025/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayor-of-folkestones-christmas-card-competition-2025/</guid>
+            <pubDate>Mon, 01 Dec 2025 09:21:05 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[Councils send proposals for new councils to ministers]]></title>
@@ -125,7 +181,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/385/councils-send-proposals-for-new-councils-to-ministers</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/385/councils-send-proposals-for-new-councils-to-ministers</guid>
             <pubDate>Fri, 28 Nov 2025 13:30:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Talking about what matters to you]]></title>
@@ -133,7 +189,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/384/talking-about-what-matters-to-you</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/384/talking-about-what-matters-to-you</guid>
             <pubDate>Thu, 27 Nov 2025 09:04:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[New edition of Your District Today out now]]></title>
@@ -141,23 +197,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/383/new-edition-of-your-district-today-out-now</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/383/new-edition-of-your-district-today-out-now</guid>
             <pubDate>Wed, 26 Nov 2025 09:17:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[November Talk: 29th Folkestone Fragments]]></title>
-            <description><![CDATA[Visit the Folkestone Fragments Talk Infomation Page for more details. The post November Talk: 29th Folkestone Fragments first appeared on New Folkestone Society.]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/november-talk-29th-folkestone-fragments/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/november-talk-29th-folkestone-fragments/</guid>
-            <pubDate>Mon, 24 Nov 2025 15:00:06 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[The BIG Sleep Out – Your Way]]></title>
-            <description><![CDATA[Brave the BIG Sleep Out &#8211; Your Way and raise money for Rainbow Centre&#8217;s homeless work Our BIG Sleep Out season runs from 1 December 25 until 28 February 26 alongside our Folkestone Churches Winter Shelter service, fundraising for our homeless work. What is the BIG Sleep Out &#8211; Your …]]></description>
-            <link>https://www.rainbow-centre.org/the-big-sleep-out-your-way-25-26/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/the-big-sleep-out-your-way-25-26/</guid>
-            <pubDate>Mon, 24 Nov 2025 13:40:31 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Three unitary option backed by Folkestone & Hythe]]></title>
@@ -165,7 +205,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/382/three-unitary-option-backed-by-folkestone-hythe</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/382/three-unitary-option-backed-by-folkestone-hythe</guid>
             <pubDate>Thu, 20 Nov 2025 09:20:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Launch of Crowdfunder]]></title>
@@ -176,36 +216,12 @@
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
         <item>
-            <title><![CDATA[Matthew’s Volunteering Journey]]></title>
-            <description><![CDATA[published 18/11/25 Article Update Since starting volunteering with us, Matthew has gone from strength to strength and we are so pleased to say he has now secured permanent employment, and he is continuing to volunteer for us too! Huge congratulations Matthew, the Warehouse Team and everyone at Rainb…]]></description>
-            <link>https://www.rainbow-centre.org/matthews-volunteering-journey/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/matthews-volunteering-journey/</guid>
-            <pubDate>Tue, 18 Nov 2025 13:41:29 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Reverse Advent Calendar]]></title>
-            <description><![CDATA[Published 18 November 2025 Can you support us this December by completing a Reverse Advent Calendar? What is Reverse Advent Calendar? Each day you put a present, in the form of a food item, in a box and at the end of the month you donate the box of goodies to Rainbow Centre so we can use these in ou…]]></description>
-            <link>https://www.rainbow-centre.org/reverse-advent-calendar/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/reverse-advent-calendar/</guid>
-            <pubDate>Tue, 18 Nov 2025 12:11:50 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Walk Of Kings 2026]]></title>
-            <description><![CDATA[published 17 November 2025 Why not walk off your Christmas calories by joining our annual sponsored walk, the &#8216;Walk of Kings&#8217;, which takes place on Saturday 3rd January 2026. Walk with your friends, family, dogs or just by yourself, all are welcome at the church, where we will have lunch…]]></description>
-            <link>https://www.rainbow-centre.org/walk-of-kings-2026/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/walk-of-kings-2026/</guid>
-            <pubDate>Mon, 17 Nov 2025 16:04:00 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
             <title><![CDATA[Plan for greener district, now for action]]></title>
             <description><![CDATA[A blueprint for a net zero district by 2041 has been unanimously backed by cabinet members.]]></description>
             <link>https://www.folkestone-hythe.gov.uk/news/article/381/plan-for-greener-district-now-for-action</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/381/plan-for-greener-district-now-for-action</guid>
             <pubDate>Mon, 17 Nov 2025 10:29:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Affordable homes in district taking shape]]></title>
@@ -213,15 +229,15 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/380/affordable-homes-in-district-taking-shape</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/380/affordable-homes-in-district-taking-shape</guid>
             <pubDate>Thu, 13 Nov 2025 14:26:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[November Coffee Afternoon]]></title>
-            <description><![CDATA[Visit the coffee afternoon page for more details. The post November Coffee Afternoon first appeared on New Folkestone Society.]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/november-coffee-afternoon/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/november-coffee-afternoon/</guid>
-            <pubDate>Thu, 13 Nov 2025 10:01:12 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
+            <title><![CDATA[Remembrance in Folkestone 2025]]></title>
+            <description><![CDATA[Each year Remembrance events are held around the Country to ensure that we never forget the cost of peace. It is a time to remember those who sacrificed their lives, the families of those that endured unbearable losses and the resilience of humanity that emerged from the chaos to rebuild and never f…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/remembrance-in-folkestone-2025/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/remembrance-in-folkestone-2025/</guid>
+            <pubDate>Wed, 12 Nov 2025 16:16:04 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[Whole load of heavy lifting for district's coastline]]></title>
@@ -229,7 +245,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/379/whole-load-of-heavy-lifting-for-district-s-coastline</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/379/whole-load-of-heavy-lifting-for-district-s-coastline</guid>
             <pubDate>Wed, 12 Nov 2025 09:50:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Councils reveal draft business cases for new councils]]></title>
@@ -237,15 +253,7 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/378/councils-reveal-draft-business-cases-for-new-councils</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/378/councils-reveal-draft-business-cases-for-new-councils</guid>
             <pubDate>Wed, 05 Nov 2025 17:47:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Folca 1 goes on sale]]></title>
-            <description><![CDATA[The Edwardian section of the Folca building in Folkestone has gone on the market.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/377/folca-1-goes-on-sale</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/377/folca-1-goes-on-sale</guid>
-            <pubDate>Wed, 05 Nov 2025 12:44:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Past Events + Exhibitions]]></title>
@@ -264,44 +272,36 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Support for Folkestone Library community and cultural hub bid ]]></title>
-            <description><![CDATA[Support for a proposal to restore Folkestone’s Central Library in Grace Hill as a community building has been voiced by the district council.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/376/support-for-folkestone-library-community-and-cultural-hub-bid</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/376/support-for-folkestone-library-community-and-cultural-hub-bid</guid>
-            <pubDate>Wed, 29 Oct 2025 16:39:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <title><![CDATA[The Town Mayor’s Raffle Prize Request 2025]]></title>
+            <description><![CDATA[&nbsp; &#8220;As Town Mayor of Folkestone for 2025-26, part of my role is to raise money for local charities. I have held various charity events so far, such as an afternoon tea event and a quiz night. At my charity events we usually hold a raffle, and we would be extremely grateful for donations. T…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-town-mayors-raffle-prize-request-2025/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayors-raffle-prize-request-2025/</guid>
+            <pubDate>Tue, 28 Oct 2025 14:24:12 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Holidays are coming with free Christmas parking]]></title>
-            <description><![CDATA[‘Tis the season for residents, visitors and businesses to enjoy free festive parking in Folkestone, Hythe and the Romney Marsh this December.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/373/holidays-are-coming-with-free-christmas-parking</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/373/holidays-are-coming-with-free-christmas-parking</guid>
-            <pubDate>Mon, 27 Oct 2025 15:09:00 GMT</pubDate>
-            <organisation>FHDC</organisation>
+            <title><![CDATA[Christmas Lights Big Switch On 2025]]></title>
+            <description><![CDATA[&nbsp; Folkestone Town Council invite you to the annual festive parade and Big Switch On event scheduled for Saturday 22 November 2025, Folkestone Town Centre from 1:00pm We are pulling out all the stops to ensure that Folkestone residents have a very Merry Christmas, brimming with festive community…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/christmas-lights-big-switch-on-2025/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/christmas-lights-big-switch-on-2025/</guid>
+            <pubDate>Tue, 28 Oct 2025 12:00:04 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Remembrance 2025]]></title>
-            <description><![CDATA[More information on this page The post Remembrance 2025 first appeared on New Folkestone Society.]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/remembrance-2025/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/remembrance-2025/</guid>
-            <pubDate>Mon, 20 Oct 2025 07:35:37 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
+            <title><![CDATA[The Giving Tree 2025]]></title>
+            <description><![CDATA[Folkestone Town Council is proud to present &nbsp; The Giving Tree &nbsp; Running from 28 October 2025 &#8211; 29 November 2025 &nbsp; Each year families fleeing domestic abuse face upheaval and hardship as they try to rebuild their lives. Rising Sun are a fantastic local Charity committed to helpin…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-giving-tree/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-giving-tree/</guid>
+            <pubDate>Tue, 21 Oct 2025 08:22:56 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Talk: Samuel Plimsoll]]></title>
-            <description><![CDATA[Saturday 25th October 2pm for 2:30 start. Location: The Cornerstone Centre For more details, see the event page The post Talk: Samuel Plimsoll first appeared on New Folkestone Society.]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/talk-samuel-plimsoll/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/talk-samuel-plimsoll/</guid>
-            <pubDate>Thu, 16 Oct 2025 15:38:37 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Afternoon – Legislative Theatre]]></title>
-            <description><![CDATA[The next coffee afternoon will be on 9 October – Legislative Theatre with Matthew Hahn of FPAC. Join us at The Community Room on The Bayle to learn more, and register your interest. As part of Folkestone Fringe: Flint and Clay 2025, FPAC will be inviting local residents to co-create a short piece of…]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/coffee-afternoon-legislative-theatre/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/coffee-afternoon-legislative-theatre/</guid>
-            <pubDate>Wed, 08 Oct 2025 20:21:32 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
+            <title><![CDATA[1RGR Freedom of the Town of Folkestone Parade]]></title>
+            <description><![CDATA[&nbsp; 1RGR Freedom of the Town of Folkestone Parade Post Event Press Release &nbsp; &nbsp; On Sunday 12th October at 9.15am, a ceremonial event and parade were held for The First Battalion, the Royal Gurkha Rifles (1RGR), as they exercised their Freedom of the Town – an honour granted to them by th…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-first-battalion-the-royal-gurkha-rifles-freedom-parade/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-first-battalion-the-royal-gurkha-rifles-freedom-parade/</guid>
+            <pubDate>Fri, 26 Sep 2025 11:55:04 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[How to Get Involved in Folkestone’s Future (Even if You’re Busy)]]></title>
@@ -328,46 +328,6 @@
             <organisation>Go Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Coffee Afternoon – 11th September]]></title>
-            <description><![CDATA[OneFolkestone Community Concept The next coffee afternoon will be&nbsp;September &#8211; 11th &#8211; OneFolkestone with Jon O&#8217;Connor.&nbsp; The OneFolkestone concept was founded at the &#8216;Community 50/50&#8217; event the Society held back in January.&nbsp; Since then, Jon has been hard at…]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/coffee-afternoon-11th-september/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/coffee-afternoon-11th-september/</guid>
-            <pubDate>Wed, 10 Sep 2025 10:17:26 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to Large Format Cameras]]></title>
-            <description><![CDATA[Step into the world of large format photography! We’ll cover the essentials—from camera setup and proper film loading and handling, to mastering light metering for accurate exposures. We&#8217;ll also explore advanced camera movements like tilt, shift, and swing—powerful tools for creative control a…]]></description>
-            <link>https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</guid>
-            <pubDate>Mon, 25 Aug 2025 08:32:08 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[b&w Film Developing]]></title>
-            <description><![CDATA[Take creative control over your photography by learning how to develop black &amp; white film at home. From contrast to grain, home development lets you shape your images exactly how you envision them. Our hands-on class is perfect for beginners and enthusiasts alike &#8211; no prior experience need…]]></description>
-            <link>https://folkeshare.org.uk/2025/08/25/develop-film/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/develop-film/</guid>
-            <pubDate>Mon, 25 Aug 2025 07:35:18 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Been out with the Cambo]]></title>
-            <description><![CDATA[decided to give farge format photography a try since I read so much about it. It&#8217;s quite a steep learning curve with room for improvement but practice makes perfect.]]></description>
-            <link>https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</guid>
-            <pubDate>Sat, 23 Aug 2025 07:52:42 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Developed my first film!]]></title>
-            <description><![CDATA[Always wanted to do that but the cost of buying all the quipment put me off. With Folkeshare I can hire the bits I need at very low cost and don&#8217;t have to store more stuff. They include everything needed apart from the chemistry. For that we have 2 camera shops near by.]]></description>
-            <link>https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</guid>
-            <pubDate>Sat, 23 Aug 2025 07:41:48 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
             <title><![CDATA[Shuffler Launch at Our Hub]]></title>
             <description><![CDATA[We are proud to be one of only three sites in Kent chosen to launch and test the SHUFFLER® — a new portable seated exercise device. The SHUFFLER® was co-designed by an NHS doctor to help improve mobility and stability in a simple, hassle-free way. It is suitable for people of all abilities — includi…]]></description>
             <link>https://rmch.org.uk/uncategorized/shuffler-launch-at-our-hub/</link>
@@ -392,28 +352,12 @@
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
         <item>
-            <title><![CDATA[Folkestone Old Cemetery Tour Review – A Summer Jaunt]]></title>
-            <description><![CDATA[The Great New Folkestone Society Summer Jaunt &#8211; Saturday 26th July Over sixty of us enjoyed a fascinating guided tour of Folkestone Old Cemetery, expertly led by Friends of Folkestone Cemetery guides Rob and Carole Moody, Jan Holben and Margaret Care. Since 2016, as Friends of Folkestone Old C…]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/folkestone-old-cemetery-tour-review-a-summer-jaunt/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/folkestone-old-cemetery-tour-review-a-summer-jaunt/</guid>
-            <pubDate>Sat, 02 Aug 2025 10:22:59 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
             <title><![CDATA[Go Folkestone July NEWS 2025]]></title>
             <description><![CDATA[Dear Go Folkestone Member, Attached please find Go Folkestone July 2025 News. Kind regards Nicola Tolson Membership Secretary]]></description>
             <link>https://gofolkestone.org.uk/go-folkestone-july-news-2025/</link>
             <guid isPermaLink="false">https://gofolkestone.org.uk/go-folkestone-july-news-2025/</guid>
             <pubDate>Tue, 29 Jul 2025 11:02:12 GMT</pubDate>
             <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
-            <description><![CDATA[.fusion-body .fusion-builder-column-0{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-0 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
-            <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</guid>
-            <pubDate>Fri, 25 Jul 2025 14:41:24 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
             <title><![CDATA[Latest News From The Leas Lift]]></title>
@@ -440,36 +384,12 @@
             <organisation>Go Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Historic Annual Meeting highlights need for supported accommodation in Folkestone]]></title>
-            <description><![CDATA[On Friday, 4th July 2025, our charity held a special Annual Meeting, marking forty years since the Rainbow Centre was founded. Key figures from the organisation&#8217;s history shared their reflections on the charity&#8217;s past, while inspiring talks from Emeritus Professor Peter Taylor-Gooby (OBE…]]></description>
-            <link>https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</guid>
-            <pubDate>Wed, 16 Jul 2025 14:56:15 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
             <title><![CDATA[Go Folkestone Summer Magazine July 2025]]></title>
             <description><![CDATA[Dear Go Folkestone Member Attached please find an electronic copy of our increasingly popular Go Folkestone summer magazine. Please do share this with your family, friends and neighbours as we are always looking for new members. Our Editor would like to share some good news with you, straight from t…]]></description>
             <link>https://gofolkestone.org.uk/go-folkestone-summer-magazine-july-2025/</link>
             <guid isPermaLink="false">https://gofolkestone.org.uk/go-folkestone-summer-magazine-july-2025/</guid>
             <pubDate>Tue, 15 Jul 2025 09:06:42 GMT</pubDate>
             <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[A Cemetery Tour with Afternoon Tea]]></title>
-            <description><![CDATA[A guided tour by Friends of Folkestone Old Cemetery. ABOUT THE TOUR With so many Folkestone residents laid to rest in the cemetery, there are naturally many stories to be uncovered.&nbsp; Join us to have a stroll around the cemetery to hear some of these stories, find some well-known local names and…]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/a-cemetery-tour-with-afternoon-tea/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/a-cemetery-tour-with-afternoon-tea/</guid>
-            <pubDate>Wed, 09 Jul 2025 17:52:27 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[A Victorian Super Head, the Recluse of Folkestone and an Alderman with a Vision]]></title>
-            <description><![CDATA[Debby Jones, New Folkestone Society trustee, genealogist and writer gave a talk on 28 June at the Masonic Centre, Grace Hill, on the early history of Folkestone School for Girls and its first headmistress, Miss Ewart. The Freemasons kindly opened their building for us and supplied tea and cake. Folk…]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/a-victorian-super-head-the-recluse-of-folkestone-and-an-alderman-with-a-vision/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/a-victorian-super-head-the-recluse-of-folkestone-and-an-alderman-with-a-vision/</guid>
-            <pubDate>Wed, 09 Jul 2025 17:46:13 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
         </item>
         <item>
             <title><![CDATA[Go Folkestone Agenda – Wednesday 9th July, 2025]]></title>
@@ -480,14 +400,6 @@
             <organisation>Go Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[BREAKING NEWS – BBC Children In Need]]></title>
-            <description><![CDATA[Home-Start Shepway awarded £44,997 by BBC Children in Need Home-Start Shepway in Folkestone and Hythe District has been awarded a grant of £44,997 over three years starting 4th July by BBC Children in Need. This grant will enable us to develop our Three and Thriving Project to support young children…]]></description>
-            <link>https://homestartshepway.org.uk/bbc-children-in-need/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/bbc-children-in-need/</guid>
-            <pubDate>Mon, 07 Jul 2025 09:21:18 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
-        </item>
-        <item>
             <title><![CDATA[Aspects of Folkestone Calendar 2026 – REQUEST FOR PHOTOGRAPHS]]></title>
             <description><![CDATA[Dear Go Folkestone Member Once again, I’m writing to you in the hope that you will have more splendid photographs that you will allow us to reproduce in our next calendar which is of course ASPECTS OF FOLKESTONE 2026, which will be printed next November in time for Christmas. 2026 will be our tenth …]]></description>
             <link>https://gofolkestone.org.uk/aspects-of-folkestone-calendar-2026-request-for-photographs/</link>
@@ -496,52 +408,12 @@
             <organisation>Go Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Ellis’s story]]></title>
-            <description><![CDATA[Homelessness can happen to anyone. Meet Ellis*. At 42 years old he became homeless, living in a tent and unable to afford even basic necessities. Ellis is a skilled carpenter and plasterer. He was in a relationship and had full-time employment. But when he and his partner split up, he turned to alco…]]></description>
-            <link>https://www.rainbow-centre.org/impact-story-ellis/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/impact-story-ellis/</guid>
-            <pubDate>Tue, 27 May 2025 13:08:15 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[The Sports Trust Saves Folkestone Sports Centre]]></title>
-            <description><![CDATA[The Sports Trust is delighted to announce that it has exchanged contracts to acquire the Folkestone Sports Centre. After many months of productive discussions with the Administrator and key stakeholders, it has finalised an agreement and anticipates taking ownership shortly. Dan Hulme, Chief Executi…]]></description>
-            <link>https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</guid>
-            <pubDate>Mon, 19 May 2025 19:26:22 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
-        </item>
-        <item>
             <title><![CDATA[Being a Trustee]]></title>
             <description><![CDATA[by Marion Howard-Healy How did that happen?Having some spare time, I wondered how I could volunteer locally. What to do? The Romney Marsh Community Hub came to mind. After an initial inquiry, I was directed to the website and saw the Hub was looking for Trustees. Thinking my business skills might be…]]></description>
             <link>https://rmch.org.uk/uncategorized/being-a-trustee/</link>
             <guid isPermaLink="false">https://rmch.org.uk/uncategorized/being-a-trustee/</guid>
             <pubDate>Wed, 30 Apr 2025 16:02:48 GMT</pubDate>
             <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Hamlet Hotel Planning Application Accepted]]></title>
-            <description><![CDATA[19th March 2025 The Rainbow Centre is pleased to announce that yesterday, Folkestone and Hythe District Council, gave the green light for the conversion of a Folkestone hotel into accommodation for local people experiencing homelessness. Dr Peter Le Feuvre, the Chair of Trustees, confirmed that the …]]></description>
-            <link>https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</guid>
-            <pubDate>Wed, 19 Mar 2025 12:48:29 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Musical Walkabout]]></title>
-            <description><![CDATA[The Musical Walkabout were able to run its Coastal Project through the summer of 2024 with the help of funds from RDHCT. The Walkabout works with people with dementia, their carers and health and social care professionals to enjoy music as a weekly event. The group sing songs in the Lower Leas Coast…]]></description>
-            <link>https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</guid>
-            <pubDate>Wed, 19 Feb 2025 09:59:07 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
-        </item>
-        <item>
-            <title><![CDATA[40 Challenges Fundraiser]]></title>
-            <description><![CDATA[This year the Rainbow Centre marks 40 years supporting the most vulnerable in our community. We want to raise 40K to help fund our vital services. Can you, or someone you know, help by taking one of our fun 40 Challenges? These fundraising activities are for individuals, the whole family or groups o…]]></description>
-            <link>https://www.rainbow-centre.org/40-challenges-for-40-years/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/40-challenges-for-40-years/</guid>
-            <pubDate>Wed, 12 Feb 2025 16:13:40 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
         </item>
         <item>
             <title><![CDATA[Volunteering Opportunities]]></title>
@@ -616,187 +488,140 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Hawkinge School Police Mini Cadets donate to the Winter Shelter]]></title>
-            <description><![CDATA[Little people have the biggest hearts. And this was proved beyond doubt when, on a busy December day at the Rainbow Centre, a surprise delivery arrived. No. Not Father Christmas. It was Kent Police PCSO’s Samantha Maxwell and PCSO Georgia Sutcliffe, with PCSO Janet Rumley, bearing gifts for our Wint…]]></description>
-            <link>https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</guid>
-            <pubDate>Wed, 18 Dec 2024 09:46:00 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
+            <title><![CDATA[International Women’s Day 2024]]></title>
+            <description><![CDATA[For International Women&#8217;s Day we&#8217;re looking at women in archaeology, with a very particular link with Folkestone. This just happens happens to coincide with the centenary year of the excavation of East Wear Bay&#8217;s Roman Villa too! Samuel (centre) and Rosalind (centre-right) Winbolt …]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2024/03/08/international-womens-day-2024/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2024/03/08/international-womens-day-2024/</guid>
+            <pubDate>Fri, 08 Mar 2024 09:59:35 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[Home-Start Shepway celebrates after receiving £226,365 of National Lottery funding.]]></title>
-            <link>https://homestartshepway.org.uk/nlpegrant/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/nlpegrant/</guid>
-            <pubDate>Fri, 14 Jun 2024 11:19:46 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[Samuel Plimsoll’s 200th Birthday]]></title>
+            <description><![CDATA[Born today on 10th February 1824… Have you ever worried about being on a sinking ship? Most of us have imagined ourselves aboard a boat the moment it is swallowed by the waves. Before 1876, this was much more of a risk for British sailors than it is now. Without proper safety legislation, so-called …]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2024/02/10/samuel-plimsolls-200th-birthday/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2024/02/10/samuel-plimsolls-200th-birthday/</guid>
+            <pubDate>Sat, 10 Feb 2024 10:10:23 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[Leas Cliff Hall Charity Partner – £ 960.47 raised]]></title>
-            <link>https://homestartshepway.org.uk/leas-cliff-hall-charity-partner-960-47-raised/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/leas-cliff-hall-charity-partner-960-47-raised/</guid>
-            <pubDate>Wed, 01 May 2024 11:08:39 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[5th November, Monthly Talk – The History of the Kent Coalfield]]></title>
+            <description><![CDATA[Most friends of the Museum will know our Curator, Darran Cowd. However what many of you may not know is that his actual specialism is industrial and engineering heritage, having worked in several national museums including the RAF Museum and National Coal Mining Museum for England. It was from the l…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2022/10/14/monthly-talk-the-history-of-the-kent-coalfield/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2022/10/14/monthly-talk-the-history-of-the-kent-coalfield/</guid>
+            <pubDate>Fri, 14 Oct 2022 08:54:50 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[2024 Newsletter]]></title>
-            <description><![CDATA[Here&#8217;s our 2024 Newsletter which gives a run down of what we have been doing in 2023, up to May 2024 and our plans for the rest of 2024. ENJOY!! .fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper …]]></description>
-            <link>https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</guid>
-            <pubDate>Thu, 04 Apr 2024 22:47:16 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
+            <title><![CDATA[1st October 2022 – A Schoolgirl’s War – A Talk Hosted by Friends of Folkestone Museum]]></title>
+            <description><![CDATA[Mary Smith is the former Headteacher of Maidstone Grammar School for Girls and will be giving a talk about &#8216;A Schoolgirl’s War&#8217;. This tells the story of school life during WW2 and features the recently discovered and exquisite artwork of wartime school art teacher Helen Keen, who set out…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2022/09/21/a-schoolgirls-war/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2022/09/21/a-schoolgirls-war/</guid>
+            <pubDate>Wed, 21 Sep 2022 07:43:51 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[Annual sandcastle competition organised by local charity]]></title>
-            <description><![CDATA[Did you know that Folkestone&rsquo;s Sunny Sands Sandcastle Competition that has run almost annually since 2010 is actually organised by a local charity? The Church Street Project, which uses sand tray play as part of its creative therapies for children, decided to run this event in order to raise m…]]></description>
-            <link>https://rdhct.org.uk/healthand-wellbeing/annual-sandcastle-competition-organised-by-local-charity/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/healthand-wellbeing/annual-sandcastle-competition-organised-by-local-charity/</guid>
-            <pubDate>Mon, 04 Mar 2024 13:15:41 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
+            <title><![CDATA[Sandgate Safari Sale: Sabina has a new dress!]]></title>
+            <description><![CDATA[Through the generosity of those who either bought from the stall or ‘Went up the Tower’ at Ullyett Cottage during the Sandgate Safari Sale, Sabina now has a new dress. With the funds raised Commat (the Commonwealth Medical Trust) was able to buy a treadle sewing machine for the women in the remote v…]]></description>
+            <link>https://sandgatesociety.com/2021/09/19/3764/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2021/09/19/3764/</guid>
+            <pubDate>Sun, 19 Sep 2021 08:59:36 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Safer Streets Success]]></title>
-            <link>https://homestartshepway.org.uk/safer-streets-success/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/safer-streets-success/</guid>
-            <pubDate>Tue, 07 Nov 2023 11:34:17 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[The Mystery of the Bronze Age Sword]]></title>
+            <description><![CDATA[Can you help Folkestone Museum solve an archaeological mystery? In 1951 a Bronze Age sword was dredged from the sea, about 36.5 metres (40 yards) from the shoreline off the site of the Roman villa at East Wear Bay. The finder, a local fisherman by the name of Mr H. Brice, was advised that the find m…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2021/08/03/the-mystery-of-the-bronze-age-sword/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2021/08/03/the-mystery-of-the-bronze-age-sword/</guid>
+            <pubDate>Tue, 03 Aug 2021 09:30:04 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[Volunteer Opportunities]]></title>
-            <description><![CDATA[You can just come along to the events and activities that we arrange, but why not volunteer to help us make it all happen: Come Litter Picking with us &#8211; Have a sociable meander around Hythe making it look nicer. Come Gleaning with us &#8211; Have a sociable day picking fruit/veg and bringing i…]]></description>
-            <link>https://hytheenvironmental.community/volunteer-opportunities/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/volunteer-opportunities/</guid>
-            <pubDate>Sat, 14 Oct 2023 09:57:18 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
+            <title><![CDATA[SANDGATE SALE SAFARI]]></title>
+            <description><![CDATA[Is your garage full of lockdown clear outs?&nbsp; Do you have bags of stuff cluttering up your house just waiting to find a good new home?&nbsp; If the answer is YES then why not take part in the Sandgate Sale Safari on Sunday 6th June, 11:00am – 4:00pm organised by the Sandgate Society, with money …]]></description>
+            <link>https://sandgatesociety.com/2021/04/21/sandgate-sale-safari/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2021/04/21/sandgate-sale-safari/</guid>
+            <pubDate>Wed, 21 Apr 2021 16:25:11 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Black Maternal Mental Health Week]]></title>
-            <link>https://homestartshepway.org.uk/black-maternal-mental-health-week/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/black-maternal-mental-health-week/</guid>
-            <pubDate>Fri, 01 Sep 2023 12:48:47 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[Community Wall of Fame]]></title>
+            <description><![CDATA[These are challenging times but it is heartening to hear more and more stories of people stepping up to help others in so many different ways. The Sandgate Society is therefore seeking nominations for those people who you feel have enriched our local community with their selfless actions. The societ…]]></description>
+            <link>https://sandgatesociety.com/2021/02/11/community-wall-of-fame/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2021/02/11/community-wall-of-fame/</guid>
+            <pubDate>Thu, 11 Feb 2021 15:33:11 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[18th Folkestone Half Marathon to take place in September]]></title>
-            <description><![CDATA[Runners from across Kent and even further afield will be busy training for the Folkestone Half Marathon which takes place on 24 September. Ray Johnson, Race Director, said: &ldquo;The Folkestone Half Marathon is a great race &ndash; we have an amazing atmosphere, the route is great, especially with …]]></description>
-            <link>https://rdhct.org.uk/sports/18th-folkestone-half-marathon-to-take-place-in-september/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/sports/18th-folkestone-half-marathon-to-take-place-in-september/</guid>
-            <pubDate>Thu, 10 Aug 2023 09:24:37 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
+            <title><![CDATA[Buy an award winning photo to hang on your shoulder!]]></title>
+            <description><![CDATA[Gemma Adams, committee member, writes Events have had to postponed but our Lockdown Photographic Competition attracted some great images including the winner by Joe Bleach, pictured left, on the spot where he took his stunning photo. Joe’s winning photo will not only be hung at the newly refurbished…]]></description>
+            <link>https://sandgatesociety.com/2020/10/24/buy-an-award-winning-photo-to-hang-on-your-shoulder/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/10/24/buy-an-award-winning-photo-to-hang-on-your-shoulder/</guid>
+            <pubDate>Sat, 24 Oct 2020 12:00:48 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Thank you!]]></title>
-            <link>https://homestartshepway.org.uk/thank-you-3/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/thank-you-3/</guid>
-            <pubDate>Mon, 07 Aug 2023 07:05:21 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[Reverend David Railton M.C.]]></title>
+            <description><![CDATA[Reverend David Railton M.C The Tomb of the Unknown Warrior 17th October 2020 – 24th December2020 100 years ago, on the 11th November 1920 an Unknown Warrior was laid to rest at Westminster Abbey. This was to be the legacy of a remarkable man, David Railton. The Friends of St Mary’s and St Eanswythe’…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2020/10/08/reverend-david-railton-m-c/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2020/10/08/reverend-david-railton-m-c/</guid>
+            <pubDate>Thu, 08 Oct 2020 15:21:53 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[Volunteers Needed]]></title>
-            <description><![CDATA[Volunteering at SFH Do you have time to spare to help those in our community? Giving to others isn't always about money or giving a donation, it can also be offering your time and energy. We are always looking for local people who can help keep Sunflower House spick and span, do leaflet drops, or si…]]></description>
-            <link>https://sunflowerhouse.org.uk/volunteers-needed</link>
-            <guid isPermaLink="false">https://sunflowerhouse.org.uk/volunteers-needed</guid>
-            <pubDate>Wed, 05 Jul 2023 13:23:43 GMT</pubDate>
-            <organisation>Sunflower House</organisation>
+            <title><![CDATA[Story Mat: Threads of Creativity]]></title>
+            <description><![CDATA[The story mat was created in partnership with, and the active involvement of, the Nepalese Community (Cheriton Stitch &amp; Chat), Age UK, Folkestone Mind, Friends of Folkestone Museum and local schoolchildren as part of the Folkestone HEART National Lottery Heritage Fund Project. It was designed an…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2020/09/10/story-mat-threads-of-creativity/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2020/09/10/story-mat-threads-of-creativity/</guid>
+            <pubDate>Thu, 10 Sep 2020 08:52:59 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
         </item>
         <item>
-            <title><![CDATA[Turner School Talks]]></title>
-            <description><![CDATA[Two members of the Sunflower House were thrilled to be involved in the hugely successful Folkestone Talks event recently hosted by The Turners Schools. Both Jon O’Connor and Marketa Patelova visited a number of schools on different mornings, where they met with children of all ages. The secondary Tu…]]></description>
-            <link>https://sunflowerhouse.org.uk/turner-school-talks</link>
-            <guid isPermaLink="false">https://sunflowerhouse.org.uk/turner-school-talks</guid>
-            <pubDate>Mon, 03 Jul 2023 12:25:06 GMT</pubDate>
-            <organisation>Sunflower House</organisation>
+            <title><![CDATA[Photographic competition]]></title>
+            <description><![CDATA[The Sandgate Society Lockdown Photographic Competition 2020 Thank you to everybody who submitted images &#8211; the village has now voted and the winners are&#8230; 1st: Joe Bleach 2nd: Lindsay Satchell 3rd: Annie Bamford Congratulations to Joe – your winning photo will be on display in the Chichest…]]></description>
+            <link>https://sandgatesociety.com/2020/08/04/photographic-competition/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/08/04/photographic-competition/</guid>
+            <pubDate>Tue, 04 Aug 2020 08:37:05 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[You’re Invited to the Party!]]></title>
-            <description><![CDATA[Come and join us at Sunflower House on 19th July at 8:00pm for a sparkling evening of music, fun and great company. There will be a bar, a tombola and an opportunity to dance and sing-along to the most extraordinary stellar line-up, including the brilliant Sophia Stutchbury, Katie Bradley, Sarah Qui…]]></description>
-            <link>https://sunflowerhouse.org.uk/youre-invited-to-the-party</link>
-            <guid isPermaLink="false">https://sunflowerhouse.org.uk/youre-invited-to-the-party</guid>
-            <pubDate>Mon, 03 Jul 2023 07:13:45 GMT</pubDate>
-            <organisation>Sunflower House</organisation>
+            <title><![CDATA[Sandgate: How many and why Martellos?]]></title>
+            <description><![CDATA[Come to the archive team&#8217;s new exhibition open 24/7 Free admission Refreshments available at home!]]></description>
+            <link>https://sandgatesociety.com/2020/06/09/sandgate-how-many-and-why-martellos/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/06/09/sandgate-how-many-and-why-martellos/</guid>
+            <pubDate>Tue, 09 Jun 2020 14:54:33 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[The Smiling Sessions help bring joy to residents in Folkestone care homes]]></title>
-            <description><![CDATA[Shapeshifter Productions is combatting loneliness and bringing joy to residents of six care homes in Folkestone. The Smiling Sessions are a participatory singing activity aimed at bringing music and social interaction to older people living in sheltered housing and care homes. Professional singers a…]]></description>
-            <link>https://rdhct.org.uk/healthand-wellbeing/the-smiling-sessions-help-bring-joy-to-residents-in-folkestone-care-homes/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/healthand-wellbeing/the-smiling-sessions-help-bring-joy-to-residents-in-folkestone-care-homes/</guid>
-            <pubDate>Tue, 27 Jun 2023 13:21:07 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
+            <title><![CDATA[NEW Sandgate Design Statement 2020]]></title>
+            <description><![CDATA[Click to access 9668b-sdsfinal19520.pdf]]></description>
+            <link>https://sandgatesociety.com/2020/05/26/new-sandgate-design-statement-2020/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/05/26/new-sandgate-design-statement-2020/</guid>
+            <pubDate>Tue, 26 May 2020 13:50:40 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Leas Cliff Hall Partnership 2023-2024]]></title>
-            <link>https://homestartshepway.org.uk/leas-cliff-hall-partnership-2023-2024/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/leas-cliff-hall-partnership-2023-2024/</guid>
-            <pubDate>Fri, 09 Jun 2023 09:33:12 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[Photographic competition 2020]]></title>
+            <description><![CDATA[Now we are allowed a bit more freedom, we wonder if you were able to help us? These may be very difficult times, but we are living through history –the history of Sandgate. The Committee and Archives Team feel it is important that this period is recorded for posterity with as many photographs as pos…]]></description>
+            <link>https://sandgatesociety.com/2020/05/23/photographic-competition-2020/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/05/23/photographic-competition-2020/</guid>
+            <pubDate>Sat, 23 May 2020 12:55:14 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Drusilla’s 2023]]></title>
-            <link>https://homestartshepway.org.uk/babble-chatter-talking-matters/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/babble-chatter-talking-matters/</guid>
-            <pubDate>Fri, 26 May 2023 13:53:00 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
+            <title><![CDATA[Coronavirus]]></title>
+            <description><![CDATA[In line with HM Government advice our events programme and Saturday open mornings at the Old Fire Station are suspended until further notice. Stay safe.]]></description>
+            <link>https://sandgatesociety.com/2020/03/18/conovirus/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/03/18/conovirus/</guid>
+            <pubDate>Wed, 18 Mar 2020 19:01:00 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Thank you!]]></title>
-            <link>https://homestartshepway.org.uk/thank-you-2/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/thank-you-2/</guid>
-            <pubDate>Mon, 08 May 2023 14:26:55 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Domestic Abuse One Stop Shop]]></title>
-            <link>https://homestartshepway.org.uk/domestic-abuse-one-stop-shop/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/domestic-abuse-one-stop-shop/</guid>
-            <pubDate>Mon, 01 May 2023 11:00:11 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
-        </item>
-        <item>
-            <title><![CDATA[FASCINATING FORAGING]]></title>
-            <description><![CDATA[Foraging is fascinating &#8211; and the results are tasty! Lucia and Eva from the Wild Kitchen held a group of 30 spell-bound at the Lad&#8217;s Club in Saltwood. Lucia, an experienced forager, talked through the different environments in Kent, from chalky cliffs, to woodlands and seaside, their for…]]></description>
-            <link>https://hytheenvironmental.community/fascinating-foraging/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/fascinating-foraging/</guid>
-            <pubDate>Mon, 17 Apr 2023 20:58:58 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Folkestone Repair Café]]></title>
-            <description><![CDATA[Re-use, repair, recycle It&#8217;s been a year since the Folkestone Repair Café first got off the ground with a like-minded group of people coming together to add value to our community. The Repair Café is part of a worldwide network of organisations where volunteer experts share their repair skills…]]></description>
-            <link>https://sunflowerhouse.org.uk/folkestone-repair-cafe</link>
-            <guid isPermaLink="false">https://sunflowerhouse.org.uk/folkestone-repair-cafe</guid>
-            <pubDate>Mon, 17 Apr 2023 13:30:10 GMT</pubDate>
-            <organisation>Sunflower House</organisation>
-        </item>
-        <item>
-            <title><![CDATA[BROCKHILL STUDENT POWER – in action at the Community Orchard]]></title>
-            <description><![CDATA[On Tuesday this week the orchard took a huge step forward &#8211; we now have a path from end to end! A small, but very energetic and committed, team of Brockhill students joined a morning working party and worked like demons to cut out the path turf and then to lay some chippings kindly supplied by…]]></description>
-            <link>https://hytheenvironmental.community/brockhill-student-power-in-action-at-the-community-orchard/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/brockhill-student-power-in-action-at-the-community-orchard/</guid>
-            <pubDate>Fri, 24 Feb 2023 21:34:47 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
-            <title><![CDATA[2022/2023 Newsletter]]></title>
-            <description><![CDATA[Here&#8217;s our Newsletter summarising what we have achieved in 2022 and what we have planned in 2023. .fusion-button.button-1 {border-radius:2px;}.fusion-button.button-1 .fusion-button-text {text-transform:uppercase;}2022/23 Newsletter.fusion-body .fusion-builder-column-16{width:100% !important;ma…]]></description>
-            <link>https://hytheenvironmental.community/2022-2023-newsletter/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/2022-2023-newsletter/</guid>
-            <pubDate>Mon, 13 Feb 2023 14:45:36 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Help lonely and isolated people in 2023]]></title>
-            <description><![CDATA[Do you want to make a difference in 2023? Why not support lonely and socially isolated people in our local community? The Caring Altogether on Romney Marsh (CARM) charity, which received &pound;5000 funding from Roger De Haan Charitable Trust in 2022, is looking for volunteers for its befriending se…]]></description>
-            <link>https://rdhct.org.uk/healthand-wellbeing/help-lonely-and-isolated-people-in-2023/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/healthand-wellbeing/help-lonely-and-isolated-people-in-2023/</guid>
-            <pubDate>Fri, 09 Dec 2022 14:13:19 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Local community choirs to perform throughout December]]></title>
-            <description><![CDATA[Choirs run by the Music and Arts for Shepway Community charity are performing throughout the festive period in the run up to Christmas. The children&rsquo;s choirs, Primary Singers and Youth Voices are preforming two dates free of charge, though donations to the charity are welcome. Shepway Voices, …]]></description>
-            <link>https://rdhct.org.uk/artsandculture/local-community-choirs-to-perform-throughout-december/</link>
-            <guid isPermaLink="false">https://rdhct.org.uk/artsandculture/local-community-choirs-to-perform-throughout-december/</guid>
-            <pubDate>Wed, 07 Dec 2022 09:50:04 GMT</pubDate>
-            <organisation>The Roger De Haan Charitable Trust</organisation>
+            <title><![CDATA[NEW: Events programme 2020 for your diary]]></title>
+            <description><![CDATA[More details to follow]]></description>
+            <link>https://sandgatesociety.com/2020/02/19/new-events-programme-2020-for-your-diary/</link>
+            <guid isPermaLink="false">https://sandgatesociety.com/2020/02/19/new-events-programme-2020-for-your-diary/</guid>
+            <pubDate>Wed, 19 Feb 2020 10:25:24 GMT</pubDate>
+            <organisation>The Sandgate Society</organisation>
         </item>
     </channel>
 </rss>
