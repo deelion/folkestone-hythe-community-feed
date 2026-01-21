@@ -60,22 +60,31 @@ async function generateFeed() {
 
   for (const source of rssSources) {
     try {
-      const feed = await parser.parseURL(source.rssUrl);
-      const feedItems = feed.items.slice(0, 20);
+      if (isSubstackUrl(source.rssUrl)) {
+        console.log(`Using Substack JSON: ${source.rssUrl}`);
+        const substackItems = await fetchSubstackPosts(
+          source.rssUrl,
+          source.name,
+        );
+        items.push(...substackItems);
+      } else {
+        const feed = await parser.parseURL(source.rssUrl);
+        const feedItems = feed.items.slice(0, 20);
 
-      feedItems.forEach((item) => {
-        items.push({
-          title: item.title,
-          link: item.link,
-          date: item.isoDate || item.pubDate,
-          description:
-            item["content:encoded"] ||
-            item.contentSnippet ||
-            item.content ||
-            "",
-          organisation: source.name,
+        feedItems.forEach((item) => {
+          items.push({
+            title: item.title,
+            link: item.link,
+            date: item.isoDate || item.pubDate,
+            description:
+              item["content:encoded"] ||
+              item.contentSnippet ||
+              item.content ||
+              "",
+            organisation: source.name,
+          });
         });
-      });
+      }
     } catch (err) {
       console.warn(`RSS failed: ${source.rssUrl}`);
       console.warn(err.message);
@@ -119,6 +128,49 @@ async function generateFeed() {
 // ----------------------------
 // HELPERS
 // ----------------------------
+
+function isSubstackUrl(url) {
+  try {
+    const { hostname } = new URL(url);
+    return hostname.endsWith("substack.com");
+  } catch {
+    return false;
+  }
+}
+
+function getSubstackJsonUrl(rssUrl) {
+  const url = new URL(rssUrl);
+
+  // strip paths like /feed, /archive, etc.
+  url.pathname = "";
+
+  return `${url.origin}/api/v1/posts`;
+}
+
+async function fetchSubstackPosts(rssUrl, organisation) {
+  const jsonUrl = getSubstackJsonUrl(rssUrl);
+
+  const res = await fetch(jsonUrl, {
+    headers: {
+      "User-Agent": "CommunityFeedBot/1.0",
+      Accept: "application/json",
+    },
+  });
+
+  if (!res.ok) {
+    throw new Error(`Substack JSON failed: ${res.status}`);
+  }
+
+  const posts = await res.json();
+
+  return posts.slice(0, 20).map((post) => ({
+    title: post.title,
+    link: post.canonical_url,
+    date: post.post_date,
+    description: post.body_html || post.subtitle || "",
+    organisation,
+  }));
+}
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
