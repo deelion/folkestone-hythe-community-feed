@@ -60,34 +60,40 @@ async function generateFeed() {
 
   for (const source of rssSources) {
     try {
-      if (isSubstackUrl(source.rssUrl)) {
-        console.log(`Using Substack JSON: ${source.rssUrl}`);
-        const substackItems = await fetchSubstackPosts(
-          source.rssUrl,
-          source.name,
-        );
-        items.push(...substackItems);
-      } else {
-        const feed = await parser.parseURL(source.rssUrl);
-        const feedItems = feed.items.slice(0, 20);
+      const feed = await parser.parseURL(source.rssUrl);
+      const feedItems = feed.items.slice(0, 20);
 
-        feedItems.forEach((item) => {
-          items.push({
-            title: item.title,
-            link: item.link,
-            date: item.isoDate || item.pubDate,
-            description:
-              item["content:encoded"] ||
-              item.contentSnippet ||
-              item.content ||
-              "",
-            organisation: source.name,
-          });
+      feedItems.forEach((item) => {
+        items.push({
+          title: item.title,
+          link: item.link,
+          date: item.isoDate || item.pubDate,
+          description:
+            item["content:encoded"] ||
+            item.contentSnippet ||
+            item.content ||
+            "",
+          organisation: source.name,
         });
-      }
-    } catch (err) {
+      });
+    } catch (rssErr) {
       console.warn(`RSS failed: ${source.rssUrl}`);
-      console.warn(err.message);
+
+      if (isSubstackUrl(source.rssUrl)) {
+        try {
+          console.log(`Falling back to Substack JSON`);
+          const substackItems = await fetchSubstackPosts(
+            source.rssUrl,
+            source.name,
+          );
+          items.push(...substackItems);
+        } catch (jsonErr) {
+          console.warn(`Substack JSON failed: ${source.rssUrl}`);
+          console.warn(jsonErr.message);
+        }
+      } else {
+        console.warn(rssErr.message);
+      }
     }
   }
 
@@ -132,7 +138,7 @@ async function generateFeed() {
 function isSubstackUrl(url) {
   try {
     const { hostname } = new URL(url);
-    return hostname.endsWith("substack.com");
+    return hostname === "substack.com" || hostname.endsWith(".substack.com");
   } catch {
     return false;
   }
@@ -148,7 +154,14 @@ function getSubstackJsonUrl(rssUrl) {
 }
 
 async function fetchSubstackPosts(rssUrl, organisation) {
-  const jsonUrl = getSubstackJsonUrl(rssUrl);
+  const head = await fetch(rssUrl, {
+    method: "HEAD",
+    redirect: "follow",
+  });
+
+  const finalUrl = head.url;
+  const url = new URL(finalUrl);
+  const jsonUrl = `${url.origin}/api/v1/posts`;
 
   const res = await fetch(jsonUrl, {
     headers: {
