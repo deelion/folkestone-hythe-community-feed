@@ -24,10 +24,16 @@ async function generateFeed() {
   const parser = new Parser({
     headers: {
       "User-Agent":
-        "CommunityFeedBot/1.0 (+https://github.com/deelion/folkestone-hythe-community-feed)",
+        "Mozilla/5.0 (compatible; CommunityFeedBot/1.0; +https://github.com/deelion/folkestone-hythe-community-feed)",
+      Accept: "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+      "Accept-Language": "en-GB,en;q=0.9",
+      Connection: "keep-alive",
     },
     customFields: {
       item: ["content:encoded"],
+    },
+    requestOptions: {
+      followRedirects: true,
     },
   });
 
@@ -76,6 +82,8 @@ async function generateFeed() {
     }
   }
 
+  await sleep(500);
+
   items.sort((a, b) => new Date(b.date) - new Date(a.date));
   const latestItems = items.slice(0, MAX_ITEMS);
 
@@ -111,6 +119,10 @@ async function generateFeed() {
 // ----------------------------
 // HELPERS
 // ----------------------------
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 function plainText(text, maxLength = 300) {
   if (!text) return "";
