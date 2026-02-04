@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 12:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 01:17:12 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Council commitment to affordable homes continues ]]></title>
+            <description><![CDATA[Six new homes are to be provided by the council in the rural village of Lyminge as part of a pledge to create more affordable, energy efficient homes in the district.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/401/council-commitment-to-affordable-homes-continues</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/401/council-commitment-to-affordable-homes-continues</guid>
+            <pubDate>Tue, 03 Feb 2026 14:43:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Cliff work before the fun can begin]]></title>
             <description><![CDATA[The first major step towards an exciting new era for the Lower Leas Coastal Park play area in Folkestone will be taken next week.]]></description>
@@ -377,14 +385,6 @@
             <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</guid>
             <pubDate>Mon, 17 Nov 2025 15:40:28 GMT</pubDate>
             <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Plan for greener district, now for action]]></title>
-            <description><![CDATA[A blueprint for a net zero district by 2041 has been unanimously backed by cabinet members.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/381/plan-for-greener-district-now-for-action</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/381/plan-for-greener-district-now-for-action</guid>
-            <pubDate>Mon, 17 Nov 2025 10:29:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[November Coffee Afternoon]]></title>
