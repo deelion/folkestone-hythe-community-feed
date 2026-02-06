@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 12:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 01:17:15 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -22,6 +22,14 @@
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/armed-forces-day-2026-sponsorship-opportunity/</guid>
             <pubDate>Thu, 05 Feb 2026 10:01:03 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Have your say on local government reorganisation]]></title>
+            <description><![CDATA[Government ministers have launched a consultation on the future number of councils in Kent and Medway and the areas they should cover.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/402/have-your-say-on-local-government-reorganisation</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/402/have-your-say-on-local-government-reorganisation</guid>
+            <pubDate>Wed, 04 Feb 2026 10:55:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Council commitment to affordable homes continues ]]></title>
@@ -345,14 +353,6 @@
             <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/22/christmas-lights-switch-on/</guid>
             <pubDate>Sat, 22 Nov 2025 12:37:37 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Three unitary option backed by Folkestone & Hythe]]></title>
-            <description><![CDATA[Local Government Reorganisation (LGR) in east Kent should be delivered by joining together the council areas covered by Folkestone & Hythe with those of Dover, Thanet, Ashford and Canterbury.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/382/three-unitary-option-backed-by-folkestone-hythe</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/382/three-unitary-option-backed-by-folkestone-hythe</guid>
-            <pubDate>Thu, 20 Nov 2025 09:20:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Launch of Crowdfunder]]></title>
