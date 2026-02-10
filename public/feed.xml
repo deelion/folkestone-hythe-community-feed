@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 01:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 12:54:36 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Getting parking policy right in the district]]></title>
+            <description><![CDATA[Feedback on a new joined-up approach to the implementation of Controlled Parking Zones (CPZs) across the district is being invited.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/405/getting-parking-policy-right-in-the-district</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/405/getting-parking-policy-right-in-the-district</guid>
+            <pubDate>Tue, 10 Feb 2026 11:50:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Scheme supporting those who need it most]]></title>
             <description><![CDATA[An improved council tax reduction scheme which will further help working age, low-income households will come into effect in April.]]></description>
@@ -322,14 +330,6 @@
             <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/27/december-2025-newsletter-2/</guid>
             <pubDate>Thu, 27 Nov 2025 21:12:16 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Talking about what matters to you]]></title>
-            <description><![CDATA[Suggestions for topics to be discussed by Folkestone & Hythe District Council’s overview and scrutiny committee in 2026/27 are now being welcomed.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/384/talking-about-what-matters-to-you</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/384/talking-about-what-matters-to-you</guid>
-            <pubDate>Thu, 27 Nov 2025 09:04:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[November Talk: 29th Folkestone Fragments]]></title>
