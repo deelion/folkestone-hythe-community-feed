@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 12:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 01:16:19 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WILD LEEKS – STOP THE INVASION]]></title>
+            <description><![CDATA[Wild Leeks are an invasive species that are smothering many of our gardens and public spaces. Here&#8217;s what you should know. .fusion-body .fusion-builder-column-0{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-0 > .fusion-column-wrapper {padding-top : 0px !im…]]></description>
+            <link>https://hytheenvironmental.community/wild-leeks-stop-the-invasion/</link>
+            <guid isPermaLink="false">https://hytheenvironmental.community/wild-leeks-stop-the-invasion/</guid>
+            <pubDate>Thu, 19 Feb 2026 22:13:27 GMT</pubDate>
+            <organisation>Hythe Environmental Community Group</organisation>
+        </item>
         <item>
             <title><![CDATA[Open Call]]></title>
             <description><![CDATA[SICK OF IT EGG-XHIBITION OPEN CALLFRI 27 MAR &#8211; SUN 12 APRThis year, for our very first Fourth Wall Folkestone pop up &#8211; we’re combining our annual ‘Sick of It’ festival with our fundraising ‘Egg-xhibition’.The Sick Of It Egg-xhibition will encompass all of Fourth Wall Folkestone’s core in…]]></description>
@@ -624,7 +632,7 @@
         </item>
         <item>
             <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
-            <description><![CDATA[.fusion-body .fusion-builder-column-0{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-0 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
+            <description><![CDATA[.fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
             <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
             <guid isPermaLink="false">https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</guid>
             <pubDate>Fri, 25 Jul 2025 14:41:24 GMT</pubDate>
@@ -789,14 +797,6 @@
             <guid isPermaLink="false">https://sustainablefuturesforum.com/2025/02/01/1714/</guid>
             <pubDate>Sat, 01 Feb 2025 11:57:55 GMT</pubDate>
             <organisation>Sustainable Futures Forum</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Fourth Wall Birthday Party]]></title>
-            <description><![CDATA[Join us to celebrate Fourth Wall Folkestone&#8217;s Fourth Birthday! On Friday 28 November, between 5-8pm, we&#8217;ll be opening up our Christmas-Not-Christmas Design + Art Fair late and cracking out the bubbles to mark our 4th anniversary. We&#8217;d love for you to join us! We&#8217;ve also annou…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
-            <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
         </item>
     </channel>
 </rss>
