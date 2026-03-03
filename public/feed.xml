@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 01:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 01:22:46 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -121,7 +121,7 @@
         </item>
         <item>
             <title><![CDATA[Armed Forces Day 2026!]]></title>
-            <description><![CDATA[&nbsp; ARMED FORCES DAY FOLKESTONE 2026 – FREE FAMILY FUN DAY WITH AIR DISPLAYS on Saturday 26th June 10am – 6pm THE LEAS BANDSTAND, ARENA AREA &amp; THE LEAS, CT20 2XL &nbsp; Folkestone Town Council are proud and delighted to announce that its 14th annual Armed Forces &amp; Community Fun Day will i…]]></description>
+            <description><![CDATA[&nbsp; ARMED FORCES DAY FOLKESTONE 2026 – FREE FAMILY FUN DAY WITH AIR DISPLAYS on Saturday 27th June 10am – 6pm THE LEAS BANDSTAND, ARENA AREA &amp; THE LEAS, CT20 2XL &nbsp; Folkestone Town Council are proud and delighted to announce that its 14th annual Armed Forces &amp; Community Fun Day will i…]]></description>
             <link>https://www.folkestone-tc.gov.uk/armed-forces-day-2026/</link>
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/armed-forces-day-2026/</guid>
             <pubDate>Thu, 05 Feb 2026 10:22:53 GMT</pubDate>
@@ -150,6 +150,14 @@
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/401/council-commitment-to-affordable-homes-continues</guid>
             <pubDate>Tue, 03 Feb 2026 14:43:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[2026 Newsletter]]></title>
+            <description><![CDATA[Here&#8217;s our 2026 Newsletter which gives a run down of what we have been doing in 2025, and our plans for the rest of the year. ENJOY!! .fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-to…]]></description>
+            <link>https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</link>
+            <guid isPermaLink="false">https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</guid>
+            <pubDate>Mon, 02 Feb 2026 22:47:16 GMT</pubDate>
+            <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
             <title><![CDATA[Cliff work before the fun can begin]]></title>
@@ -649,7 +657,7 @@
         </item>
         <item>
             <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
-            <description><![CDATA[.fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
+            <description><![CDATA[.fusion-body .fusion-builder-column-2{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-2 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
             <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
             <guid isPermaLink="false">https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</guid>
             <pubDate>Fri, 25 Jul 2025 14:41:24 GMT</pubDate>
@@ -789,14 +797,6 @@
             <link>https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</link>
             <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</guid>
             <pubDate>Thu, 06 Feb 2025 12:13:37 GMT</pubDate>
-            <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
-            <title><![CDATA[The Marsh Bee is here]]></title>
-            <description><![CDATA[We are really pleased to announce the Launch of our Dial a Ride Service We are really pleased to be able to launch our newest initiative today, The Marsh Bee. This is a membership dial a ride service for people living on the Romney Marsh to access medical appointments at their GP surgeries or local …]]></description>
-            <link>https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</link>
-            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</guid>
-            <pubDate>Thu, 06 Feb 2025 12:08:22 GMT</pubDate>
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
     </channel>
