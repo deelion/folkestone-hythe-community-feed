@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 01:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 12:38:07 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Giving a historic building an exciting future]]></title>
+            <description><![CDATA[An important step towards bringing an iconic Folkestone building back into public use is to be made next week.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/412/giving-a-historic-building-an-exciting-future</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/412/giving-a-historic-building-an-exciting-future</guid>
+            <pubDate>Wed, 04 Mar 2026 08:55:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Folkestone's brighter future is halfway there]]></title>
             <description><![CDATA[A £22m project to regenerate Folkestone town centre is now more than halfway complete.]]></description>
@@ -276,14 +284,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/392/skill-up-your-business-for-the-new-year-and-beyond</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/392/skill-up-your-business-for-the-new-year-and-beyond</guid>
             <pubDate>Fri, 09 Jan 2026 12:05:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Taking a look at our financial future]]></title>
-            <description><![CDATA[Residents have the opportunity to comment on Folkestone & Hythe District Council’s budget strategy for 2026/27.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/391/taking-a-look-at-our-financial-future</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/391/taking-a-look-at-our-financial-future</guid>
-            <pubDate>Mon, 05 Jan 2026 10:17:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
