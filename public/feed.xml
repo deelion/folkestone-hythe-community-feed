@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 01:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 12:36:43 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Beach management work gets underway again]]></title>
+            <description><![CDATA[A beach management programme which successfully defended homes from Storm Goretti in January will resume next week.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/413/beach-management-work-gets-underway-again</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/413/beach-management-work-gets-underway-again</guid>
+            <pubDate>Fri, 06 Mar 2026 08:40:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Giving a historic building an exciting future]]></title>
             <description><![CDATA[An important step towards bringing an iconic Folkestone building back into public use is to be made next week.]]></description>
@@ -276,14 +284,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/393/storm-goretti-folkestone-hythe-update</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/393/storm-goretti-folkestone-hythe-update</guid>
             <pubDate>Fri, 09 Jan 2026 14:46:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Skill up your business for the new year and beyond]]></title>
-            <description><![CDATA[An exciting skills programme to strengthen the local economy and support small business growth across the district has been launched.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/392/skill-up-your-business-for-the-new-year-and-beyond</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/392/skill-up-your-business-for-the-new-year-and-beyond</guid>
-            <pubDate>Fri, 09 Jan 2026 12:05:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
