@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 01:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 12:53:09 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Folkestone ANPR trial comes to an end]]></title>
+            <description><![CDATA[The Sandgate Road car park in Folkestone will return to a traditional pay and display system following feedback on a trial using cameras.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/415/folkestone-anpr-trial-comes-to-an-end</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/415/folkestone-anpr-trial-comes-to-an-end</guid>
+            <pubDate>Mon, 16 Mar 2026 09:15:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Working together for our brave veterans]]></title>
             <description><![CDATA[Charities and organisations have pledged to further improve support for military veterans and active personnel at an event organised by Folkestone & Hythe District Council.]]></description>
@@ -276,14 +284,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/395/future-of-swimming-pools-under-spotlight</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/395/future-of-swimming-pools-under-spotlight</guid>
             <pubDate>Mon, 19 Jan 2026 11:47:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Recognition for a community of volunteers]]></title>
-            <description><![CDATA[Do you know a community hero who dedicates their own time and skills on behalf of others? Well, we want to hear about them.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/394/recognition-for-a-community-of-volunteers</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/394/recognition-for-a-community-of-volunteers</guid>
-            <pubDate>Thu, 15 Jan 2026 12:39:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
