@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 12:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 01:20:07 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Anti-litter poster competition launched]]></title>
+            <description><![CDATA[Folkestone & Hythe District Council is calling on young artists to help champion a cleaner, greener environment by creating eye‑catching anti‑litter posters.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/416/anti-litter-poster-competition-launched</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/416/anti-litter-poster-competition-launched</guid>
+            <pubDate>Thu, 19 Mar 2026 15:49:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Garage Sale April 2026 Booking Form]]></title>
             <link>https://www.lyminge.org.uk/2026/03/18/garage-sale-april-2026-booking-form/</link>
@@ -299,14 +307,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/396/positive-steps-forward-for-folca</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/396/positive-steps-forward-for-folca</guid>
             <pubDate>Mon, 19 Jan 2026 14:54:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Future of swimming pools under spotlight]]></title>
-            <description><![CDATA[Financially supporting the re-opening of Folkestone Sports Centre pool and funding improvements to Hythe Pool are due to be discussed by councillors.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/395/future-of-swimming-pools-under-spotlight</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/395/future-of-swimming-pools-under-spotlight</guid>
-            <pubDate>Mon, 19 Jan 2026 11:47:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
