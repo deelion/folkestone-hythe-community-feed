@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 12:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 12:52:48 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -711,14 +711,6 @@
             <organisation>Rainbow Centre</organisation>
         </item>
         <item>
-            <title><![CDATA[BREAKING NEWS – BBC Children In Need]]></title>
-            <description><![CDATA[Home-Start Shepway awarded £44,997 by BBC Children in Need Home-Start Shepway in Folkestone and Hythe District has been awarded a grant of £44,997 over three years starting 4th July by BBC Children in Need. This grant will enable us to develop our Three and Thriving Project to support young children…]]></description>
-            <link>https://homestartshepway.org.uk/bbc-children-in-need/</link>
-            <guid isPermaLink="false">https://homestartshepway.org.uk/bbc-children-in-need/</guid>
-            <pubDate>Mon, 07 Jul 2025 09:21:18 GMT</pubDate>
-            <organisation>HomeStart Shepway</organisation>
-        </item>
-        <item>
             <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
             <description><![CDATA[HOW I DESIGNED THE DAM IN VENICE &#8211; #1 Artist blog series by Nina Shen # In early 2023, CT20’s director Nina Shen was invited by the activist-curator David Hevey to work out how to put on a show in Venice &#8211; CRIP ARTE SPAZIO: The DAM in Venice &#8211; which showcases for the first time, on…]]></description>
             <link>https://www.ct-20.org/2025/07/07/howidesignedthedaminvenice_pt1/</link>
@@ -796,6 +788,14 @@
             <link>https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</link>
             <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</guid>
             <pubDate>Thu, 06 Feb 2025 12:13:37 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[The Marsh Bee is here]]></title>
+            <description><![CDATA[We are really pleased to announce the Launch of our Dial a Ride Service We are really pleased to be able to launch our newest initiative today, The Marsh Bee. This is a membership dial a ride service for people living on the Romney Marsh to access medical appointments at their GP surgeries or local …]]></description>
+            <link>https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:08:22 GMT</pubDate>
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
     </channel>
