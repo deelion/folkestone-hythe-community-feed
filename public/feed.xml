@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 12:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 01:28:36 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Town Mayor’s Community Awards 2025/26]]></title>
+            <description><![CDATA[Every year, around March, the Town Mayor of Folkestone has the privilege of awarding local people a Town Mayor’s Community Award. Previous recipients of this award have varied from volunteers of a local church to people working to support those most in need. This year, it was the turn of Councillor …]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-town-mayors-community-awards-2025-26/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayors-community-awards-2025-26/</guid>
+            <pubDate>Wed, 25 Mar 2026 14:30:19 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Otterpool Park collaboration agreement renewed]]></title>
             <description><![CDATA[A new planning collaboration agreement has been signed aimed at supporting and accelerating the delivery of Otterpool Park Garden Town.]]></description>
@@ -349,14 +357,6 @@
             <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Christmas Opening Hours]]></title>
-            <description><![CDATA[The post Christmas Opening Hours appeared first on Folkestone Rainbow Centre.]]></description>
-            <link>https://www.rainbow-centre.org/christmas-opening-hours-3/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/christmas-opening-hours-3/</guid>
-            <pubDate>Thu, 11 Dec 2025 14:17:11 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
             <title><![CDATA[The Town Mayor’s Year 6 Christmas Carol Concert 2025]]></title>
             <description><![CDATA[Each year the Town Mayor of Folkestone holds a Christmas Carol Concert for all Year Six Primary School children within Folkestone, held at the St Mary &amp; St Eanswythe Church, The Bayle. This year, the Town Mayor, Cllr Lucy McGirr was delighted to welcome almost 300 children from nine schools with…]]></description>
             <link>https://www.folkestone-tc.gov.uk/town-mayor-of-folkestones-year-6-christmas-carol-concert-2025/</link>
@@ -442,22 +442,6 @@
             <organisation>Rainbow Centre</organisation>
         </item>
         <item>
-            <title><![CDATA[Reverse Advent Calendar]]></title>
-            <description><![CDATA[Published 18 November 2025 Can you support us this December by completing a Reverse Advent Calendar? What is Reverse Advent Calendar? Each day you put a present, in the form of a food item, in a box and at the end of the month you donate the box of goodies to Rainbow Centre so we can use these in ou…]]></description>
-            <link>https://www.rainbow-centre.org/reverse-advent-calendar/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/reverse-advent-calendar/</guid>
-            <pubDate>Tue, 18 Nov 2025 12:11:50 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Walk Of Kings 2026]]></title>
-            <description><![CDATA[published 17 November 2025 Why not walk off your Christmas calories by joining our annual sponsored walk, the &#8216;Walk of Kings&#8217;, which takes place on Saturday 3rd January 2026. Walk with your friends, family, dogs or just by yourself, all are welcome at the church, where we will have lunch…]]></description>
-            <link>https://www.rainbow-centre.org/walk-of-kings-2026/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/walk-of-kings-2026/</guid>
-            <pubDate>Mon, 17 Nov 2025 16:04:00 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
             <title><![CDATA[State and marginalisation: Brazil and the UK 1970-1990]]></title>
             <description><![CDATA[State and marginalisation: Brazil and the UK 1970-1990 Magdalena Araus Sieber # The Brazilian civil-military dictatorship (1964-1985) and Margaret Thatcher’s government in the UK (1979-1990) overlapped for several years. Despite crucial differences, most notably that Thatcher governed within a democ…]]></description>
             <link>https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</link>
@@ -527,14 +511,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/art-fair-2025/</guid>
             <pubDate>Fri, 31 Oct 2025 10:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[The Town Mayor’s Raffle Prize Request 2025]]></title>
-            <description><![CDATA[&nbsp; &#8220;As Town Mayor of Folkestone for 2025-26, part of my role is to raise money for local charities. I have held various charity events so far, such as an afternoon tea event and a quiz night. At my charity events we usually hold a raffle, and we would be extremely grateful for donations. T…]]></description>
-            <link>https://www.folkestone-tc.gov.uk/the-town-mayors-raffle-prize-request-2025/</link>
-            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayors-raffle-prize-request-2025/</guid>
-            <pubDate>Tue, 28 Oct 2025 14:24:12 GMT</pubDate>
-            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[Remembrance 2025]]></title>
@@ -797,6 +773,30 @@
             <guid isPermaLink="false">https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</guid>
             <pubDate>Thu, 06 Feb 2025 12:08:22 GMT</pubDate>
             <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[SFF 2023]]></title>
+            <description><![CDATA[Connect &#8211; Be Inspired &#8211; Collaborate; to create a more sustainable futures for our district. On Sat 29th April 2023 the Folkestone &amp; Hythe Sustainable Futures Forum bought together businesses, community groups and individuals to deliver inspiring talks and ideas from local professiona…]]></description>
+            <link>https://sustainablefuturesforum.com/2025/02/01/1714/</link>
+            <guid isPermaLink="false">https://sustainablefuturesforum.com/2025/02/01/1714/</guid>
+            <pubDate>Sat, 01 Feb 2025 11:57:55 GMT</pubDate>
+            <organisation>Sustainable Futures Forum</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Fourth Wall Birthday Party]]></title>
+            <description><![CDATA[Join us to celebrate Fourth Wall Folkestone&#8217;s Fourth Birthday! On Friday 28 November, between 5-8pm, we&#8217;ll be opening up our Christmas-Not-Christmas Design + Art Fair late and cracking out the bubbles to mark our 4th anniversary. We&#8217;d love for you to join us! We&#8217;ve also annou…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
+            <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Still Sick of It]]></title>
+            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
+            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
         </item>
     </channel>
 </rss>
