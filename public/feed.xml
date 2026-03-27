@@ -4,9 +4,32 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 01:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 12:44:43 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[April 2026 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2026/03/27/april-2026-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/03/27/april-2026-newsletter/</guid>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Updated CPZ framework agreed by cabinet]]></title>
+            <description><![CDATA[A joined-up approach to the implementation of Controlled Parking Zones (CPZs) has been approved.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/419/updated-cpz-framework-agreed-by-cabinet</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/419/updated-cpz-framework-agreed-by-cabinet</guid>
+            <pubDate>Thu, 26 Mar 2026 12:28:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Supporting Folkestone Sports Centre reopening]]></title>
+            <description><![CDATA[A £2.4m grant which will enable the reopening of swimming facilities at Folkestone Sports Centre has been supported.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/418/supporting-folkestone-sports-centre-reopening</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/418/supporting-folkestone-sports-centre-reopening</guid>
+            <pubDate>Thu, 26 Mar 2026 09:05:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[The Town Mayor’s Community Awards 2025/26]]></title>
             <description><![CDATA[Every year, around March, the Town Mayor of Folkestone has the privilege of awarding local people a Town Mayor’s Community Award. Previous recipients of this award have varied from volunteers of a local church to people working to support those most in need. This year, it was the turn of Councillor …]]></description>
@@ -120,7 +143,7 @@
         </item>
         <item>
             <title><![CDATA[Sick Of It: The Egg-Xhibition]]></title>
-            <description><![CDATA[We are delighted to announce our first pop up: Sick Of It: The Egg-Xhibition! We’re doing things a little differently this year. After moving out of our space on the Old High Street we’re kicking this new journey off by combining our well loved Sick Of It festival with our fundraising Egg-Xhibition.…]]></description>
+            <description><![CDATA[We’re doing things a little differently this year. After moving out of our space on the Old High Street we’re kicking this new journey off by combining our well loved Sick Of It festival with our fundraising Egg-Xhibition. We have invited a wonderful group of artists to take part in creating a trail…]]></description>
             <link>https://fourthwallfolkestone.co.uk/sick-of-it-the-egg-xhibition/</link>
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/sick-of-it-the-egg-xhibition/</guid>
             <pubDate>Wed, 25 Feb 2026 15:50:09 GMT</pubDate>
@@ -294,28 +317,12 @@
             <organisation>The Lyminge Association</organisation>
         </item>
         <item>
-            <title><![CDATA[Exciting next step for Folkestone regeneration]]></title>
-            <description><![CDATA[Work on a key aspect of a £20m project regenerating Folkestone town centre is to begin later this week.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/398/exciting-next-step-for-folkestone-regeneration</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/398/exciting-next-step-for-folkestone-regeneration</guid>
-            <pubDate>Mon, 26 Jan 2026 13:15:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
             <title><![CDATA[Spectacular Anglo-Saxon Sword to go on display at Folkestone Museum]]></title>
             <description><![CDATA[Finds from a top-secret Anglo-Saxon cemetery in East Kent, including a complete sixth century sword with silver-gilt hilt fittings, will go on display at Folkestone Museum in July 2026. This sword was featured on Digging for Britain last year. It is one of the finest Anglo-Saxon swords ever found in…]]></description>
             <link>https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</link>
             <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</guid>
             <pubDate>Wed, 21 Jan 2026 11:51:54 GMT</pubDate>
             <organisation>Folkestone Museum</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Change the tide with café opportunity]]></title>
-            <description><![CDATA[A new beachside destination at Greatstone is to be known as the Changing Tides Coastal Centre when it opens this year.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/397/change-the-tide-with-caf-opportunity</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/397/change-the-tide-with-caf-opportunity</guid>
-            <pubDate>Wed, 21 Jan 2026 11:50:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[January talk: History of the Clifton Hotel]]></title>
@@ -541,13 +548,6 @@
             <link>https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</link>
             <guid isPermaLink="false">https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</guid>
             <pubDate>Thu, 02 Oct 2025 09:38:44 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[October 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/09/26/october-2025-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/09/26/october-2025-newsletter/</guid>
-            <pubDate>Fri, 26 Sep 2025 11:00:00 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
         </item>
         <item>
