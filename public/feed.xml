@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 12:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 01:27:06 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Folkestone Museum Receives Funding from the Royal Society]]></title>
+            <description><![CDATA[Folkestone Museum has been awarded funding by the Royal Society in the latest round of its Places of Science scheme. Twenty-seven small museums across the UK will use this funding to engage communities with their local science stories.The Places of Science scheme celebrate projects that evoke curios…]]></description>
+            <link>https://www.folkestonemuseum.co.uk/2026/04/01/folkestone-museum-receives-funding-from-the-royal-society/</link>
+            <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2026/04/01/folkestone-museum-receives-funding-from-the-royal-society/</guid>
+            <pubDate>Wed, 01 Apr 2026 11:05:03 GMT</pubDate>
+            <organisation>Folkestone Museum</organisation>
+        </item>
         <item>
             <title><![CDATA[April 2026 Newsletter]]></title>
             <link>https://www.lyminge.org.uk/2026/03/27/april-2026-newsletter/</link>
@@ -788,14 +796,6 @@
             <link>https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</link>
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
             <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Still Sick of It]]></title>
-            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
-            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
     </channel>
