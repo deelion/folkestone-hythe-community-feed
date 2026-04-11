@@ -4,9 +4,23 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 01:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 01:26:32 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Garage Sale 2026 – Addresses]]></title>
+            <link>https://www.lyminge.org.uk/2026/04/10/garage-sale-2026-addresses/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/10/garage-sale-2026-addresses/</guid>
+            <pubDate>Fri, 10 Apr 2026 17:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Spring Garage Sale 2026 – Map]]></title>
+            <link>https://www.lyminge.org.uk/2026/04/10/spring-garage-sale-2026/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/10/spring-garage-sale-2026/</guid>
+            <pubDate>Fri, 10 Apr 2026 17:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[Folkestone Museum Receives Funding from the Royal Society]]></title>
             <description><![CDATA[Folkestone Museum has been awarded funding by the Royal Society in the latest round of its Places of Science scheme. Twenty-seven small museums across the UK will use this funding to engage communities with their local science stories.The Places of Science scheme celebrate projects that evoke curios…]]></description>
@@ -497,13 +511,6 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[November 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/11/03/november-2025-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/03/november-2025-newsletter/</guid>
-            <pubDate>Mon, 03 Nov 2025 12:08:29 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[Studio Sale]]></title>
             <description><![CDATA[We&#8217;re leaving our current space and we can&#8217;t take everything with us! Pop along to our studio sale to grab a bargain or two! Open 12-4pm on the following dates (or until we run out of things to sell!):Thu 22 JanFri 23 JanSat 24 JanSun 25 JanWed 28 JanThu 29 JanFri 30 JanSat 31 JanSun 01 …]]></description>
             <link>https://fourthwallfolkestone.co.uk/studio-sale/</link>
@@ -550,13 +557,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/coffee-afternoon-legislative-theatre/</guid>
             <pubDate>Wed, 08 Oct 2025 20:21:32 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Annual General Meeting]]></title>
-            <link>https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</guid>
-            <pubDate>Thu, 02 Oct 2025 09:38:44 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[How to Get Involved in Folkestone’s Future (Even if You’re Busy)]]></title>
