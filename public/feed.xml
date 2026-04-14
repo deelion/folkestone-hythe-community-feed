@@ -4,22 +4,16 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 01:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 01:50:22 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Garage Sale 2026 – Addresses]]></title>
-            <link>https://www.lyminge.org.uk/2026/04/10/garage-sale-2026-addresses/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/10/garage-sale-2026-addresses/</guid>
-            <pubDate>Fri, 10 Apr 2026 17:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Spring Garage Sale 2026 – Map]]></title>
-            <link>https://www.lyminge.org.uk/2026/04/10/spring-garage-sale-2026/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/10/spring-garage-sale-2026/</guid>
-            <pubDate>Fri, 10 Apr 2026 17:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
+            <title><![CDATA[Helping to fund Road of Remembrance repair]]></title>
+            <description><![CDATA[Folkestone & Hythe District Council is to contribute £236,000 towards the work required to reopen the Road of Remembrance.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/420/helping-to-fund-road-of-remembrance-repair</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/420/helping-to-fund-road-of-remembrance-repair</guid>
+            <pubDate>Mon, 13 Apr 2026 09:09:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Folkestone Museum Receives Funding from the Royal Society]]></title>
@@ -316,14 +310,6 @@
             <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Help shape the district's future economic growth]]></title>
-            <description><![CDATA[A comprehensive strategy and action plan to support sustainable and inclusive economic growth across our district has been commissioned.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/399/help-shape-the-district-s-future-economic-growth</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/399/help-shape-the-district-s-future-economic-growth</guid>
-            <pubDate>Thu, 29 Jan 2026 08:52:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
             <title><![CDATA[FTC Potential Purchase of the Grace Hill Building]]></title>
             <description><![CDATA[&nbsp; &nbsp; Following a resolution by Folkestone Town Council at their meeting on 22 January 2026, a letter has been sent to Kent County Council setting out the strong local community interest in the potential purchase of the freehold of the Grace Hill Library building for a nominal sum. &nbsp; Th…]]></description>
             <link>https://www.folkestone-tc.gov.uk/ftc-potential-purchase-of-the-grace-hill-building/</link>
@@ -511,6 +497,13 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
+            <title><![CDATA[November 2025 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2025/11/03/november-2025-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/03/november-2025-newsletter/</guid>
+            <pubDate>Mon, 03 Nov 2025 12:08:29 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
+        <item>
             <title><![CDATA[Studio Sale]]></title>
             <description><![CDATA[We&#8217;re leaving our current space and we can&#8217;t take everything with us! Pop along to our studio sale to grab a bargain or two! Open 12-4pm on the following dates (or until we run out of things to sell!):Thu 22 JanFri 23 JanSat 24 JanSun 25 JanWed 28 JanThu 29 JanFri 30 JanSat 31 JanSun 01 …]]></description>
             <link>https://fourthwallfolkestone.co.uk/studio-sale/</link>
@@ -559,6 +552,13 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
+            <title><![CDATA[Annual General Meeting]]></title>
+            <link>https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</guid>
+            <pubDate>Thu, 02 Oct 2025 09:38:44 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
+        <item>
             <title><![CDATA[How to Get Involved in Folkestone’s Future (Even if You’re Busy)]]></title>
             <description><![CDATA[We all want to live in a town that feels welcoming, inspiring, and cared for. But for many of us, the thought of “getting involved” feels daunting. Who has hours of spare time these days? The good news is that supporting Folkestone’s future doesn’t require huge amounts of time. With Go Folkestone, t…]]></description>
             <link>https://gofolkestone.org.uk/how-to-get-involved-in-folkestones-future-even-if-youre-busy/</link>
@@ -589,6 +589,38 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/coffee-afternoon-11th-september/</guid>
             <pubDate>Wed, 10 Sep 2025 10:17:26 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Large Format Cameras]]></title>
+            <description><![CDATA[Step into the world of large format photography! We’ll cover the essentials—from camera setup and proper film loading and handling, to mastering light metering for accurate exposures. We&#8217;ll also explore advanced camera movements like tilt, shift, and swing—powerful tools for creative control a…]]></description>
+            <link>https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</link>
+            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</guid>
+            <pubDate>Mon, 25 Aug 2025 08:32:08 GMT</pubDate>
+            <organisation>Folkeshare</organisation>
+        </item>
+        <item>
+            <title><![CDATA[b&w Film Developing]]></title>
+            <description><![CDATA[Take creative control over your photography by learning how to develop black &amp; white film at home. From contrast to grain, home development lets you shape your images exactly how you envision them. Our hands-on class is perfect for beginners and enthusiasts alike &#8211; no prior experience need…]]></description>
+            <link>https://folkeshare.org.uk/2025/08/25/develop-film/</link>
+            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/develop-film/</guid>
+            <pubDate>Mon, 25 Aug 2025 07:35:18 GMT</pubDate>
+            <organisation>Folkeshare</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Been out with the Cambo]]></title>
+            <description><![CDATA[decided to give farge format photography a try since I read so much about it. It&#8217;s quite a steep learning curve with room for improvement but practice makes perfect.]]></description>
+            <link>https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</link>
+            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</guid>
+            <pubDate>Sat, 23 Aug 2025 07:52:42 GMT</pubDate>
+            <organisation>Folkeshare</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Developed my first film!]]></title>
+            <description><![CDATA[Always wanted to do that but the cost of buying all the quipment put me off. With Folkeshare I can hire the bits I need at very low cost and don&#8217;t have to store more stuff. They include everything needed apart from the chemistry. For that we have 2 camera shops near by.]]></description>
+            <link>https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</link>
+            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</guid>
+            <pubDate>Sat, 23 Aug 2025 07:41:48 GMT</pubDate>
+            <organisation>Folkeshare</organisation>
         </item>
         <item>
             <title><![CDATA[Shuffler Launch at Our Hub]]></title>
@@ -765,38 +797,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
             <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Still Sick of It]]></title>
-            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
-            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Closing Celebrations]]></title>
-            <description><![CDATA[It&#8217;s a wrap for Still Sick Of It!Fri 31 OctDrop in: 12:00-16:00 Join Sarah Lloyd (Still Sick of It Curator / Fourth Wall Folkestone Director) for an informal mingle and chat to celebrate and round off the Still Sick of It programme. This is an open invite for anyone who has been along to any o…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/closing-celebrations/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/closing-celebrations/</guid>
-            <pubDate>Tue, 28 Jan 2025 14:51:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Hawkinge School Police Mini Cadets donate to the Winter Shelter]]></title>
-            <description><![CDATA[Little people have the biggest hearts. And this was proved beyond doubt when, on a busy December day at the Rainbow Centre, a surprise delivery arrived. No. Not Father Christmas. It was Kent Police PCSO’s Samantha Maxwell and PCSO Georgia Sutcliffe, with PCSO Janet Rumley, bearing gifts for our Wint…]]></description>
-            <link>https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</guid>
-            <pubDate>Wed, 18 Dec 2024 09:46:00 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Family Contact Centre is now NACCC Accredited]]></title>
-            <description><![CDATA[We are so pleased that our Family Contact Centre has become an Accredited Member of the National Association of Child Contact Centres. The NACCC explains their accreditation: &#8220;NACCC has an accreditation process which ensures members meet national standards. An assessor visits every three years…]]></description>
-            <link>https://www.rainbow-centre.org/family-contact-centre-is-now-naccc-accredited/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/family-contact-centre-is-now-naccc-accredited/</guid>
-            <pubDate>Thu, 08 Aug 2024 12:01:01 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
         </item>
     </channel>
 </rss>
