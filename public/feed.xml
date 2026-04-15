@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 01:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 01:46:22 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -156,14 +156,6 @@
             <guid isPermaLink="false">https://www.lyminge.org.uk/2026/02/25/march-2026-newsletter/</guid>
             <pubDate>Wed, 25 Feb 2026 17:36:30 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Sick Of It: The Egg-Xhibition]]></title>
-            <description><![CDATA[We’re doing things a little differently this year. After moving out of our space on the Old High Street we’re kicking this new journey off by combining our well loved Sick Of It festival with our fundraising Egg-Xhibition. We have invited a wonderful group of artists to take part in creating a trail…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/sick-of-it-the-egg-xhibition/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/sick-of-it-the-egg-xhibition/</guid>
-            <pubDate>Wed, 25 Feb 2026 15:50:09 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
             <title><![CDATA[First preview of new Coastal Park play area]]></title>
@@ -357,7 +349,7 @@
         </item>
         <item>
             <title><![CDATA[Past Events + Exhibitions]]></title>
-            <description><![CDATA[Studio Sale Tangled Christmas-Not-Christmas Design + Art Fair 2025 Fourth Wall&#8217;s Fourth Birthday Party Still Sick Of It Riots Not Diets Returns Still out of CONtext Every Body: A Community Life Drawing Celebration Ageing Without Children Embodied The Body Room The Joy Of Fat We&#8217;ve Been H…]]></description>
+            <description><![CDATA[Sick Of It: The Egg-Xhibition &amp; Trail Studio Sale Tangled Christmas-Not-Christmas Design + Art Fair 2025 Fourth Wall&#8217;s Fourth Birthday Party Still Sick Of It Riots Not Diets Returns Still out of CONtext Every Body: A Community Life Drawing Celebration Ageing Without Children Embodied The B…]]></description>
             <link>https://fourthwallfolkestone.co.uk/past-events/</link>
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/past-events/</guid>
             <pubDate>Wed, 31 Dec 2025 10:45:24 GMT</pubDate>
@@ -487,6 +479,14 @@
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/remembrance-in-folkestone-2025/</guid>
             <pubDate>Wed, 12 Nov 2025 16:16:04 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Sick Of It: The Egg-Xhibition]]></title>
+            <description><![CDATA[We’re doing things a little differently this year. After moving out of our space on the Old High Street we’re kicking this new journey off by combining our well loved Sick Of It festival with our fundraising Egg-Xhibition. We have invited a wonderful group of artists to take part in creating a trail…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/sick-of-it-the-egg-xhibition/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/sick-of-it-the-egg-xhibition/</guid>
+            <pubDate>Wed, 12 Nov 2025 15:50:09 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
             <title><![CDATA[Open Call]]></title>
