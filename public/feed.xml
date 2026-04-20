@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 01:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 01:55:59 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Next talk: 25 April – George Fox: Founder of the Quakers by Jean Hatton]]></title>
+            <description><![CDATA[For full details and to book, see the event page. The post Next talk: 25 April – George Fox: Founder of the Quakers by Jean Hatton first appeared on New Folkestone Society.]]></description>
+            <link>https://www.newfolkestonesociety.org.uk/next-talk-25-april-george-fox-founder-of-the-quakers-by-jean-hatton/</link>
+            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-25-april-george-fox-founder-of-the-quakers-by-jean-hatton/</guid>
+            <pubDate>Sun, 19 Apr 2026 14:03:33 GMT</pubDate>
+            <organisation>New Folkestone Society</organisation>
+        </item>
         <item>
             <title><![CDATA[Coastal Park play time gets a step closer]]></title>
             <description><![CDATA[Work to deliver an exciting new era for the Lower Leas Coastal Park play area is about to get underway.]]></description>
@@ -77,13 +85,6 @@
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/416/anti-litter-poster-competition-launched</guid>
             <pubDate>Thu, 19 Mar 2026 15:49:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Garage Sale April 2026 Booking Form]]></title>
-            <link>https://www.lyminge.org.uk/2026/03/18/garage-sale-april-2026-booking-form/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/03/18/garage-sale-april-2026-booking-form/</guid>
-            <pubDate>Wed, 18 Mar 2026 23:10:19 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Folkestone ANPR trial comes to an end]]></title>
@@ -214,8 +215,8 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Next Talk: 28 February – Islameque by Diana Darke]]></title>
-            <description><![CDATA[For full details, see event page. The post Next Talk: 28 February – Islameque by Diana Darke first appeared on New Folkestone Society.]]></description>
+            <title><![CDATA[Next Talk: 28 February – Islamesque by Diana Darke]]></title>
+            <description><![CDATA[For full details, see event page. The post Next Talk: 28 February – Islamesque by Diana Darke first appeared on New Folkestone Society.]]></description>
             <link>https://www.newfolkestonesociety.org.uk/next-talk-28-february-islameque-by-diana-darke/</link>
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-28-february-islameque-by-diana-darke/</guid>
             <pubDate>Sun, 15 Feb 2026 11:39:48 GMT</pubDate>
@@ -372,11 +373,12 @@
             <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Christmas Present Delivery]]></title>
-            <link>https://www.lyminge.org.uk/2025/12/03/christmas-present-delivery/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/12/03/christmas-present-delivery/</guid>
-            <pubDate>Wed, 03 Dec 2025 14:18:13 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
+            <title><![CDATA[In 2025, Gabriela Golder’s ‘Conversation Piece’ has an urgent message]]></title>
+            <description><![CDATA[In 2025, Gabriela Golder’s ‘Conversation Piece’ has an urgent message Eleanor Peake # Eleanor Peake reflects on Gabriela Golder’s ‘Conversation Piece’. She asks, in a world of YouTube radicalisation and political isolation, what would happen if the far right spoke to their grandmothers? Three genera…]]></description>
+            <link>https://www.ct-20.org/2025/12/03/in-2025-gabriela-golders-conversation-piece-has-an-urgent-message/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/12/03/in-2025-gabriela-golders-conversation-piece-has-an-urgent-message/</guid>
+            <pubDate>Wed, 03 Dec 2025 15:36:28 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[The Town Mayor’s Christmas Card Competition 2025]]></title>
@@ -385,6 +387,14 @@
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayor-of-folkestones-christmas-card-competition-2025/</guid>
             <pubDate>Mon, 01 Dec 2025 09:21:05 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Watching ‘O Espírito da TV’]]></title>
+            <description><![CDATA[Watching &#8216;O Espírito da TV&#8217; Daisy Whittle # In the first season of REEL BRAZIL: Mutinies in Video Art, the film O Espírito da TV spotlights the Waiãpi people of the Amazon Rainforest. It shows their bold fight to hold onto their land and traditions against the push of new technology and …]]></description>
+            <link>https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</guid>
+            <pubDate>Sun, 30 Nov 2025 13:21:52 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[December 2025 Newsletter]]></title>
@@ -410,13 +420,6 @@
             <organisation>Rainbow Centre</organisation>
         </item>
         <item>
-            <title><![CDATA[Christmas Lights Switch On]]></title>
-            <link>https://www.lyminge.org.uk/2025/11/22/christmas-lights-switch-on/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/22/christmas-lights-switch-on/</guid>
-            <pubDate>Sat, 22 Nov 2025 12:37:37 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[Launch of Crowdfunder]]></title>
             <description><![CDATA[The Board of Trustees of the Romney Marsh Community Hub charity, which this year marks its 50th anniversary serving the Marsh, has launched an urgent fundraising appeal to raise £150,000 to safeguard essential services for local residents. The charity has been hit hard by a combination of soaring op…]]></description>
             <link>https://rmch.org.uk/uncategorized/launch-of-crowdfunder/</link>
@@ -431,6 +434,22 @@
             <guid isPermaLink="false">https://www.rainbow-centre.org/matthews-volunteering-journey/</guid>
             <pubDate>Tue, 18 Nov 2025 13:41:29 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[State and marginalisation: Brazil and the UK 1970-1990]]></title>
+            <description><![CDATA[State and marginalisation: Brazil and the UK 1970-1990 Magdalena Araus Sieber # The Brazilian civil-military dictatorship (1964-1985) and Margaret Thatcher’s government in the UK (1979-1990) overlapped for several years. Despite crucial differences, most notably that Thatcher governed within a democ…]]></description>
+            <link>https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</guid>
+            <pubDate>Mon, 17 Nov 2025 15:49:14 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Queer resistance during Brazil’s dictatorship]]></title>
+            <description><![CDATA[Carnival of 1984, Salvador. Luiz Mott and members of the Grupo Gay da Bahia. Source: Grupo Gay Da Bahia ‘Lampião da Esquina’ one of the first publications directed at the homosexual public in Brazil, 1978. Source: Wikimedia Commons Protest against the police patrols, 1980 James Green Collection. Sou…]]></description>
+            <link>https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</guid>
+            <pubDate>Mon, 17 Nov 2025 15:40:28 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[November Coffee Afternoon]]></title>
@@ -527,6 +546,13 @@
             <organisation>The Lyminge Association</organisation>
         </item>
         <item>
+            <title><![CDATA[October 2025 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2025/09/26/october-2025-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/09/26/october-2025-newsletter/</guid>
+            <pubDate>Fri, 26 Sep 2025 11:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
+        <item>
             <title><![CDATA[How to Get Involved in Folkestone’s Future (Even if You’re Busy)]]></title>
             <description><![CDATA[We all want to live in a town that feels welcoming, inspiring, and cared for. But for many of us, the thought of “getting involved” feels daunting. Who has hours of spare time these days? The good news is that supporting Folkestone’s future doesn’t require huge amounts of time. With Go Folkestone, t…]]></description>
             <link>https://gofolkestone.org.uk/how-to-get-involved-in-folkestones-future-even-if-youre-busy/</link>
@@ -551,12 +577,11 @@
             <organisation>Go Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Coffee Afternoon – 11th September]]></title>
-            <description><![CDATA[OneFolkestone Community Concept The next coffee afternoon will be&nbsp;September &#8211; 11th &#8211; OneFolkestone with Jon O&#8217;Connor.&nbsp; The OneFolkestone concept was founded at the &#8216;Community 50/50&#8217; event the Society held back in January.&nbsp; Since then, Jon has been hard at…]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/coffee-afternoon-11th-september/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/coffee-afternoon-11th-september/</guid>
-            <pubDate>Wed, 10 Sep 2025 10:17:26 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
+            <title><![CDATA[September 2025 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2025/08/27/september-2025-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/08/27/september-2025-newsletter/</guid>
+            <pubDate>Wed, 27 Aug 2025 06:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Introduction to Large Format Cameras]]></title>
@@ -631,6 +656,13 @@
             <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
+            <title><![CDATA[August 2025 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2025/07/24/august-2025-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/07/24/august-2025-newsletter/</guid>
+            <pubDate>Thu, 24 Jul 2025 18:33:19 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
+        <item>
             <title><![CDATA[Latest News From The Leas Lift]]></title>
             <description><![CDATA[Dear Go Folkestone Member, You may be interested to read the latest update on The Leas Lift. Nicola Tolson Membership Secretary]]></description>
             <link>https://gofolkestone.org.uk/latest-news-from-the-leas-lift/</link>
@@ -661,6 +693,14 @@
             <guid isPermaLink="false">https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</guid>
             <pubDate>Wed, 16 Jul 2025 14:56:15 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
+            <description><![CDATA[HOW I DESIGNED THE DAM IN VENICE &#8211; #1 Artist blog series by Nina Shen # In early 2023, CT20’s director Nina Shen was invited by the activist-curator David Hevey to work out how to put on a show in Venice &#8211; CRIP ARTE SPAZIO: The DAM in Venice &#8211; which showcases for the first time, on…]]></description>
+            <link>https://www.ct-20.org/2025/07/07/howidesignedthedaminvenice_pt1/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/07/07/howidesignedthedaminvenice_pt1/</guid>
+            <pubDate>Sun, 06 Jul 2025 23:41:14 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[Ellis’s story]]></title>
@@ -757,46 +797,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
             <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Still Sick of It]]></title>
-            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
-            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Closing Celebrations]]></title>
-            <description><![CDATA[It&#8217;s a wrap for Still Sick Of It!Fri 31 OctDrop in: 12:00-16:00 Join Sarah Lloyd (Still Sick of It Curator / Fourth Wall Folkestone Director) for an informal mingle and chat to celebrate and round off the Still Sick of It programme. This is an open invite for anyone who has been along to any o…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/closing-celebrations/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/closing-celebrations/</guid>
-            <pubDate>Tue, 28 Jan 2025 14:51:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Hawkinge School Police Mini Cadets donate to the Winter Shelter]]></title>
-            <description><![CDATA[Little people have the biggest hearts. And this was proved beyond doubt when, on a busy December day at the Rainbow Centre, a surprise delivery arrived. No. Not Father Christmas. It was Kent Police PCSO’s Samantha Maxwell and PCSO Georgia Sutcliffe, with PCSO Janet Rumley, bearing gifts for our Wint…]]></description>
-            <link>https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</guid>
-            <pubDate>Wed, 18 Dec 2024 09:46:00 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Gutenberg Editor]]></title>
-            <description><![CDATA[Of Mountains &amp; Printing Presses The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll noti…]]></description>
-            <link>https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</link>
-            <guid isPermaLink="false">https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</guid>
-            <pubDate>Wed, 18 Sep 2024 18:21:02 GMT</pubDate>
-            <organisation>Treat Me Right CIC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Family Contact Centre is now NACCC Accredited]]></title>
-            <description><![CDATA[We are so pleased that our Family Contact Centre has become an Accredited Member of the National Association of Child Contact Centres. The NACCC explains their accreditation: &#8220;NACCC has an accreditation process which ensures members meet national standards. An assessor visits every three years…]]></description>
-            <link>https://www.rainbow-centre.org/family-contact-centre-is-now-naccc-accredited/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/family-contact-centre-is-now-naccc-accredited/</guid>
-            <pubDate>Thu, 08 Aug 2024 12:01:01 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
         </item>
     </channel>
 </rss>
