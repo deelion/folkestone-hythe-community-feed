@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 01:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 01:45:34 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[FTC and KCC Reach Agreement for 2 Grace Hill, Folkestone]]></title>
+            <description><![CDATA[Folkestone Town Council are delighted to confirm that agreement has been reached, subject to contract, to acquire 2 Grace Hill, Folkestone – securing the long-term future of this much-loved building as a community asset. After Kent County Council confirmed early in 2026 that it intended to dispose o…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/ftc-and-kcc-reach-agreement-for-2-grace-hill-folkestone/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/ftc-and-kcc-reach-agreement-for-2-grace-hill-folkestone/</guid>
+            <pubDate>Fri, 24 Apr 2026 10:59:18 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Next talk: 25 April – George Fox: Founder of the Quakers by Jean Hatton]]></title>
             <description><![CDATA[For full details and to book, see the event page. The post Next talk: 25 April – George Fox: Founder of the Quakers by Jean Hatton first appeared on New Folkestone Society.]]></description>
@@ -458,14 +466,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/november-coffee-afternoon/</guid>
             <pubDate>Thu, 13 Nov 2025 10:01:12 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Remembrance in Folkestone 2025]]></title>
-            <description><![CDATA[Each year Remembrance events are held around the Country to ensure that we never forget the cost of peace. It is a time to remember those who sacrificed their lives, the families of those that endured unbearable losses and the resilience of humanity that emerged from the chaos to rebuild and never f…]]></description>
-            <link>https://www.folkestone-tc.gov.uk/remembrance-in-folkestone-2025/</link>
-            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/remembrance-in-folkestone-2025/</guid>
-            <pubDate>Wed, 12 Nov 2025 16:16:04 GMT</pubDate>
-            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[Sick Of It: The Egg-Xhibition]]></title>
