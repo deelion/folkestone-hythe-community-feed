@@ -4,9 +4,25 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 02:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 14:10:39 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Positive steps forward for Otterpool Park]]></title>
+            <description><![CDATA[A crucial part of the Otterpool Park development has been approved taking the project a step closer to delivery.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/425/positive-steps-forward-for-otterpool-park</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/425/positive-steps-forward-for-otterpool-park</guid>
+            <pubDate>Wed, 13 May 2026 13:34:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Green investment continues for council homes]]></title>
+            <description><![CDATA[Folkestone & Hythe District Council has begun its first dedicated solar installation programme for council-owned homes.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/424/green-investment-continues-for-council-homes</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/424/green-investment-continues-for-council-homes</guid>
+            <pubDate>Wed, 13 May 2026 12:55:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Hythe to Sandgate Open Gardens]]></title>
             <description><![CDATA[JUNE 2027 across Hythe, Saltwood, Seabrook &amp; Sandgate Do you live in Saltwood, Hythe, Seabrook or Sandgate? Would you like to be involved in this new community project? We are looking for gardens / allotments / community spaces etc to open to the public in June 2027. Whether your space is large …]]></description>
@@ -340,22 +356,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-28-february-islameque-by-diana-darke/</guid>
             <pubDate>Sun, 15 Feb 2026 11:39:48 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Getting parking policy right in the district]]></title>
-            <description><![CDATA[Feedback on a new joined-up approach to the implementation of Controlled Parking Zones (CPZs) across the district is being invited.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/405/getting-parking-policy-right-in-the-district</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/405/getting-parking-policy-right-in-the-district</guid>
-            <pubDate>Tue, 10 Feb 2026 11:50:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Scheme supporting those who need it most]]></title>
-            <description><![CDATA[An improved council tax reduction scheme which will further help working age, low-income households will come into effect in April.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/404/scheme-supporting-those-who-need-it-most</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/404/scheme-supporting-those-who-need-it-most</guid>
-            <pubDate>Mon, 09 Feb 2026 09:57:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Are You Proud of Folkestone?  Have your say!]]></title>
