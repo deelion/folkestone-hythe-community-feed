@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 13:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 14:57:11 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Funding boost for community green schemes]]></title>
+            <description><![CDATA[A £250,000 package of support for organisations to deliver sustainable and carbon reducing projects in the Folkestone & Hythe district has been agreed.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/427/funding-boost-for-community-green-schemes</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/427/funding-boost-for-community-green-schemes</guid>
+            <pubDate>Mon, 18 May 2026 14:09:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[New bins, extra crews and e-bikes to tackle beach litter]]></title>
             <description><![CDATA[Folkestone & Hythe District Council will be tackling litter this summer with new high capacity compactor bins, additional crews and the return of e bike collections at key coastal hotspots.]]></description>
@@ -332,14 +340,6 @@
             <guid isPermaLink="false">https://gofolkestone.org.uk/25-years-of-go-folkestone-festival/</guid>
             <pubDate>Tue, 24 Feb 2026 06:04:03 GMT</pubDate>
             <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Delivering affordable green homes at Risborough]]></title>
-            <description><![CDATA[Folkestone & Hythe District Council is celebrating a major milestone as the first council tenants move into new affordable rent homes at the Risborough Barracks development.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/407/delivering-affordable-green-homes-at-risborough</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/407/delivering-affordable-green-homes-at-risborough</guid>
-            <pubDate>Mon, 23 Feb 2026 16:08:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[WILD LEEKS – STOP THE INVASION]]></title>
