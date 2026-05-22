@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 14:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 02:37:15 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
+            <description><![CDATA[HOW I DESIGNED THE DAM IN VENICE &#8211; #1 Artist blog series by Nina Shen # In early 2023, CT20’s director Nina Shen was invited by the activist-curator David Hevey to work out how to put on a show in Venice &#8211; CRIP ARTE SPAZIO: The DAM in Venice &#8211; which showcases for the first time, on…]]></description>
+            <link>https://www.ct-20.org/2026/05/21/howidesignedthedaminvenice_pt1/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2026/05/21/howidesignedthedaminvenice_pt1/</guid>
+            <pubDate>Wed, 20 May 2026 23:41:14 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
+        </item>
         <item>
             <title><![CDATA[Funding boost for community green schemes]]></title>
             <description><![CDATA[A £250,000 package of support for organisations to deliver sustainable and carbon reducing projects in the Folkestone & Hythe district has been agreed.]]></description>
@@ -144,13 +152,6 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[May 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/04/28/may-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/28/may-2026-newsletter/</guid>
-            <pubDate>Tue, 28 Apr 2026 19:46:52 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[FTC and KCC Reach Agreement for 2 Grace Hill, Folkestone]]></title>
             <description><![CDATA[Folkestone Town Council are delighted to confirm that agreement has been reached, subject to contract, to acquire 2 Grace Hill, Folkestone – securing the long-term future of this much-loved building as a community asset. After Kent County Council confirmed early in 2026 that it intended to dispose o…]]></description>
             <link>https://www.folkestone-tc.gov.uk/ftc-and-kcc-reach-agreement-for-2-grace-hill-folkestone/</link>
@@ -189,13 +190,6 @@
             <guid isPermaLink="false">https://www.folkestonemuseum.co.uk/2026/04/01/folkestone-museum-receives-funding-from-the-royal-society/</guid>
             <pubDate>Wed, 01 Apr 2026 11:05:03 GMT</pubDate>
             <organisation>Folkestone Museum</organisation>
-        </item>
-        <item>
-            <title><![CDATA[April 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/03/27/april-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/03/27/april-2026-newsletter/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Updated CPZ framework agreed by cabinet]]></title>
@@ -310,14 +304,6 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[March 2026 Newsletter]]></title>
-            <description><![CDATA[/]]></description>
-            <link>https://www.lyminge.org.uk/2026/02/25/march-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/02/25/march-2026-newsletter/</guid>
-            <pubDate>Wed, 25 Feb 2026 17:36:30 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[First preview of new Coastal Park play area]]></title>
             <description><![CDATA[Folkestone’s Lower Leas Coastal Park play area has delighted two generations of children over the past quarter of a century.]]></description>
             <link>https://www.folkestone-hythe.gov.uk/news/article/408/first-preview-of-new-coastal-park-play-area</link>
@@ -414,13 +400,6 @@
             <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
-            <title><![CDATA[February 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/01/26/february-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/01/26/february-2026-newsletter/</guid>
-            <pubDate>Mon, 26 Jan 2026 15:36:04 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[Spectacular Anglo-Saxon Sword to go on display at Folkestone Museum]]></title>
             <description><![CDATA[Finds from a top-secret Anglo-Saxon cemetery in East Kent, including a complete sixth century sword with silver-gilt hilt fittings, will go on display at Folkestone Museum in July 2026. This sword was featured on Digging for Britain last year. It is one of the finest Anglo-Saxon swords ever found in…]]></description>
             <link>https://www.folkestonemuseum.co.uk/2026/01/21/anglo-saxon-sword/</link>
@@ -435,13 +414,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/january-talk-history-of-the-clifton-hotel/</guid>
             <pubDate>Mon, 12 Jan 2026 17:33:51 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[January 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/01/01/january-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/01/01/january-2026-newsletter/</guid>
-            <pubDate>Thu, 01 Jan 2026 14:00:38 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Mindful Messy Making 2026]]></title>
@@ -490,13 +462,6 @@
             <guid isPermaLink="false">https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</guid>
             <pubDate>Sun, 30 Nov 2025 13:21:52 GMT</pubDate>
             <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[December 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/11/27/december-2025-newsletter-2/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/27/december-2025-newsletter-2/</guid>
-            <pubDate>Thu, 27 Nov 2025 21:12:16 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[November Talk: 29th Folkestone Fragments]]></title>
@@ -571,13 +536,6 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[November 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/11/03/november-2025-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/03/november-2025-newsletter/</guid>
-            <pubDate>Mon, 03 Nov 2025 12:08:29 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[Studio Sale]]></title>
             <description><![CDATA[We&#8217;re leaving our current space and we can&#8217;t take everything with us! Pop along to our studio sale to grab a bargain or two! Open 12-4pm on the following dates (or until we run out of things to sell!):Thu 22 JanFri 23 JanSat 24 JanSun 25 JanWed 28 JanThu 29 JanFri 30 JanSat 31 JanSun 01 …]]></description>
             <link>https://fourthwallfolkestone.co.uk/studio-sale/</link>
@@ -626,20 +584,6 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Annual General Meeting]]></title>
-            <link>https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/10/02/annual-general-meeting/</guid>
-            <pubDate>Thu, 02 Oct 2025 09:38:44 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[October 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/09/26/october-2025-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/09/26/october-2025-newsletter/</guid>
-            <pubDate>Fri, 26 Sep 2025 11:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[How to Get Involved in Folkestone’s Future (Even if You’re Busy)]]></title>
             <description><![CDATA[We all want to live in a town that feels welcoming, inspiring, and cared for. But for many of us, the thought of “getting involved” feels daunting. Who has hours of spare time these days? The good news is that supporting Folkestone’s future doesn’t require huge amounts of time. With Go Folkestone, t…]]></description>
             <link>https://gofolkestone.org.uk/how-to-get-involved-in-folkestones-future-even-if-youre-busy/</link>
@@ -662,13 +606,6 @@
             <guid isPermaLink="false">https://gofolkestone.org.uk/small-acts-big-change-how-community-projects-shape-a-town/</guid>
             <pubDate>Wed, 24 Sep 2025 15:18:36 GMT</pubDate>
             <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[September 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/08/27/september-2025-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/08/27/september-2025-newsletter/</guid>
-            <pubDate>Wed, 27 Aug 2025 06:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Introduction to Large Format Cameras]]></title>
@@ -775,14 +712,6 @@
             <organisation>Rainbow Centre</organisation>
         </item>
         <item>
-            <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
-            <description><![CDATA[HOW I DESIGNED THE DAM IN VENICE &#8211; #1 Artist blog series by Nina Shen # In early 2023, CT20’s director Nina Shen was invited by the activist-curator David Hevey to work out how to put on a show in Venice &#8211; CRIP ARTE SPAZIO: The DAM in Venice &#8211; which showcases for the first time, on…]]></description>
-            <link>https://www.ct-20.org/2025/07/07/howidesignedthedaminvenice_pt1/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2025/07/07/howidesignedthedaminvenice_pt1/</guid>
-            <pubDate>Sun, 06 Jul 2025 23:41:14 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
             <title><![CDATA[Ellis’s story]]></title>
             <description><![CDATA[Homelessness can happen to anyone. Meet Ellis*. At 42 years old he became homeless, living in a tent and unable to afford even basic necessities. Ellis is a skilled carpenter and plasterer. He was in a relationship and had full-time employment. But when he and his partner split up, he turned to alco…]]></description>
             <link>https://www.rainbow-centre.org/impact-story-ellis/</link>
@@ -797,6 +726,86 @@
             <guid isPermaLink="false">https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</guid>
             <pubDate>Mon, 19 May 2025 19:26:22 GMT</pubDate>
             <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[App (v1.0.0) Launched – We need your feedback!]]></title>
+            <description><![CDATA[Our app is now in open beta phase, and we’d love your feedback! Please complete the form below if you have anything you wish to share. As a new platform in its infancy, we are aware of a small number of issues and are working hard to resolve these as quickly as possible. If you […] The post App (v1.…]]></description>
+            <link>https://folkestonemusic.co.uk/app-launched/</link>
+            <guid isPermaLink="false">https://folkestonemusic.co.uk/app-launched/</guid>
+            <pubDate>Fri, 02 May 2025 13:42:10 GMT</pubDate>
+            <organisation>Folkestone Music Town</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Being a Trustee]]></title>
+            <description><![CDATA[by Marion Howard-Healy How did that happen?Having some spare time, I wondered how I could volunteer locally. What to do? The Romney Marsh Community Hub came to mind. After an initial inquiry, I was directed to the website and saw the Hub was looking for Trustees. Thinking my business skills might be…]]></description>
+            <link>https://rmch.org.uk/uncategorized/being-a-trustee/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/being-a-trustee/</guid>
+            <pubDate>Wed, 30 Apr 2025 16:02:48 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Hamlet Hotel Planning Application Accepted]]></title>
+            <description><![CDATA[19th March 2025 The Rainbow Centre is pleased to announce that yesterday, Folkestone and Hythe District Council, gave the green light for the conversion of a Folkestone hotel into accommodation for local people experiencing homelessness. Dr Peter Le Feuvre, the Chair of Trustees, confirmed that the …]]></description>
+            <link>https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</guid>
+            <pubDate>Wed, 19 Mar 2025 12:48:29 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Musical Walkabout]]></title>
+            <description><![CDATA[The Musical Walkabout were able to run its Coastal Project through the summer of 2024 with the help of funds from RDHCT. The Walkabout works with people with dementia, their carers and health and social care professionals to enjoy music as a weekly event. The group sing songs in the Lower Leas Coast…]]></description>
+            <link>https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</link>
+            <guid isPermaLink="false">https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</guid>
+            <pubDate>Wed, 19 Feb 2025 09:59:07 GMT</pubDate>
+            <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[40 Challenges Fundraiser]]></title>
+            <description><![CDATA[This year the Rainbow Centre marks 40 years supporting the most vulnerable in our community. We want to raise 40K to help fund our vital services. Can you, or someone you know, help by taking one of our fun 40 Challenges? These fundraising activities are for individuals, the whole family or groups o…]]></description>
+            <link>https://www.rainbow-centre.org/40-challenges-for-40-years/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/40-challenges-for-40-years/</guid>
+            <pubDate>Wed, 12 Feb 2025 16:13:40 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Volunteering Opportunities]]></title>
+            <description><![CDATA[Do You have some time to give back to your community? New Volunteering Opportunities We are pleased to announce that we have 2 new volunteering opportunities:Hub On the Beach &#8211; we need volunteers to help in the café Monday &#8211; Sunday, there are 2 shifts, 09.30 &#8211; 13.30 or 12.00 &#8211…]]></description>
+            <link>https://rmch.org.uk/uncategorized/volunteering-opportunities/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/volunteering-opportunities/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:14:47 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Launch of Hub on the beach]]></title>
+            <description><![CDATA[We Officially Launch and Open the Hub On The Beach On Monday 2nd of September we officially launched our latest project, the Hub On The Beach.&nbsp; Our longest standing volunteer, Margaret Edwards, did the honours of cutting the ribbon and declaring the Hub open. Entertainment was provided by the E…]]></description>
+            <link>https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:13:37 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[The Marsh Bee is here]]></title>
+            <description><![CDATA[We are really pleased to announce the Launch of our Dial a Ride Service We are really pleased to be able to launch our newest initiative today, The Marsh Bee. This is a membership dial a ride service for people living on the Romney Marsh to access medical appointments at their GP surgeries or local …]]></description>
+            <link>https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/the-marsh-bee-is-here/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:08:22 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[SFF 2023]]></title>
+            <description><![CDATA[Connect &#8211; Be Inspired &#8211; Collaborate; to create a more sustainable futures for our district. On Sat 29th April 2023 the Folkestone &amp; Hythe Sustainable Futures Forum bought together businesses, community groups and individuals to deliver inspiring talks and ideas from local professiona…]]></description>
+            <link>https://sustainablefuturesforum.com/2025/02/01/1714/</link>
+            <guid isPermaLink="false">https://sustainablefuturesforum.com/2025/02/01/1714/</guid>
+            <pubDate>Sat, 01 Feb 2025 11:57:55 GMT</pubDate>
+            <organisation>Sustainable Futures Forum</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Fourth Wall Birthday Party]]></title>
+            <description><![CDATA[Join us to celebrate Fourth Wall Folkestone&#8217;s Fourth Birthday! On Friday 28 November, between 5-8pm, we&#8217;ll be opening up our Christmas-Not-Christmas Design + Art Fair late and cracking out the bubbles to mark our 4th anniversary. We&#8217;d love for you to join us! We&#8217;ve also annou…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
+            <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
         </item>
     </channel>
 </rss>
