@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 02:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 02:47:38 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[When systems work and why belonging matters just as much as access]]></title>
+            <description><![CDATA[In my previous Insight, I explored what happens when national systems aren’t designed with disability in mind, and the barriers this creates for people simply trying to access the support they need. I want to take that conversation further, because our experience shows that when environments are des…]]></description>
+            <link>https://www.touchbasecare.org/when-systems-work-belonging-matters-as-much-as-access/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-systems-work-belonging-matters-as-much-as-access</link>
+            <guid isPermaLink="false">https://www.touchbasecare.org/when-systems-work-belonging-matters-as-much-as-access/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-systems-work-belonging-matters-as-much-as-access</guid>
+            <pubDate>Fri, 05 Jun 2026 15:47:29 GMT</pubDate>
+            <organisation>Touchbase Care</organisation>
+        </item>
         <item>
             <title><![CDATA[Council supports day of action to curb illegal sales]]></title>
             <description><![CDATA[A joint operation has taken place in the Folkestone & Hythe district aimed at combatting suspected illegal tobacco and vape sales and alleged criminal activity.]]></description>
@@ -788,14 +796,6 @@
             <link>https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</link>
             <guid isPermaLink="false">https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</guid>
             <pubDate>Wed, 16 Jul 2025 14:56:15 GMT</pubDate>
-            <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Ellis’ story]]></title>
-            <description><![CDATA[Homelessness can happen to anyone. Meet Ellis*. At 42 years old he became homeless, living in a tent and unable to afford even basic necessities. Ellis is a skilled carpenter and plasterer. He was in a relationship and had full-time employment. But when he and his partner split up, he turned to alco…]]></description>
-            <link>https://www.rainbow-centre.org/impact-story-ellis/</link>
-            <guid isPermaLink="false">https://www.rainbow-centre.org/impact-story-ellis/</guid>
-            <pubDate>Tue, 27 May 2025 13:08:15 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
         </item>
     </channel>
