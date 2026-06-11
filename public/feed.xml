@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 14:56:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 15:38:54 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Exhibition on next steps for Otterpool Park to be held this month]]></title>
+            <description><![CDATA[Otterpool Park LLP is holding an exhibition later this month to update the public on the next steps for the new sustainable garden town near Hythe.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/432/exhibition-on-next-steps-for-otterpool-park-to-be-held-this-month</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/432/exhibition-on-next-steps-for-otterpool-park-to-be-held-this-month</guid>
+            <pubDate>Thu, 11 Jun 2026 12:42:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Folkestone Celebrates William Harvey Sunday 2026]]></title>
             <description><![CDATA[&nbsp; Folkestone marked William Harvey Sunday on 7 June with a commemorative event celebrating the life and legacy of one of England’s most significant medical pioneers at the William Harvey Statue on The Leas. &nbsp; The event, organised by Folkestone Town Council, brought together civic leaders, …]]></description>
@@ -376,14 +384,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/413/beach-management-work-gets-underway-again</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/413/beach-management-work-gets-underway-again</guid>
             <pubDate>Fri, 06 Mar 2026 08:40:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Giving a historic building an exciting future]]></title>
-            <description><![CDATA[An important step towards bringing an iconic Folkestone building back into public use is to be made next week.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/412/giving-a-historic-building-an-exciting-future</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/412/giving-a-historic-building-an-exciting-future</guid>
-            <pubDate>Wed, 04 Mar 2026 08:55:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
