@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 02:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 17:01:09 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Flytipping in district lands two in court]]></title>
+            <description><![CDATA[Environmental officers from Folkestone & Hythe District Council have tracked down two men who dumped household items, including a cooker and bed, at six different locations including roadside verges.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/433/flytipping-in-district-lands-two-in-court</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/433/flytipping-in-district-lands-two-in-court</guid>
+            <pubDate>Fri, 12 Jun 2026 14:27:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Exhibition on next steps for Otterpool Park to be held this month]]></title>
             <description><![CDATA[Otterpool Park LLP is holding an exhibition later this month to update the public on the next steps for the new sustainable garden town near Hythe.]]></description>
@@ -377,14 +385,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/coffee-afternoon-ministry-of-sewage-mermaid-beach/</guid>
             <pubDate>Thu, 12 Mar 2026 09:34:41 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Beach management work gets underway again]]></title>
-            <description><![CDATA[A beach management programme which successfully defended homes from Storm Goretti in January will resume next week.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/413/beach-management-work-gets-underway-again</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/413/beach-management-work-gets-underway-again</guid>
-            <pubDate>Fri, 06 Mar 2026 08:40:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Folkestone is a Library – A Town-Wide Celebration of Stories (and a World Record Book Swap!)]]></title>
