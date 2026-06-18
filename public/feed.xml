@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 02:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 14:52:00 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -695,38 +695,6 @@
             <organisation>Go Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[Introduction to Large Format Cameras]]></title>
-            <description><![CDATA[Step into the world of large format photography! We’ll cover the essentials—from camera setup and proper film loading and handling, to mastering light metering for accurate exposures. We&#8217;ll also explore advanced camera movements like tilt, shift, and swing—powerful tools for creative control a…]]></description>
-            <link>https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</guid>
-            <pubDate>Mon, 25 Aug 2025 08:32:08 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[b&w Film Developing]]></title>
-            <description><![CDATA[Take creative control over your photography by learning how to develop black &amp; white film at home. From contrast to grain, home development lets you shape your images exactly how you envision them. Our hands-on class is perfect for beginners and enthusiasts alike &#8211; no prior experience need…]]></description>
-            <link>https://folkeshare.org.uk/2025/08/25/develop-film/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/25/develop-film/</guid>
-            <pubDate>Mon, 25 Aug 2025 07:35:18 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Been out with the Cambo]]></title>
-            <description><![CDATA[decided to give farge format photography a try since I read so much about it. It&#8217;s quite a steep learning curve with room for improvement but practice makes perfect.]]></description>
-            <link>https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/been-out-with-the-cambo/</guid>
-            <pubDate>Sat, 23 Aug 2025 07:52:42 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Developed my first film!]]></title>
-            <description><![CDATA[Always wanted to do that but the cost of buying all the quipment put me off. With Folkeshare I can hire the bits I need at very low cost and don&#8217;t have to store more stuff. They include everything needed apart from the chemistry. For that we have 2 camera shops near by.]]></description>
-            <link>https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</link>
-            <guid isPermaLink="false">https://folkeshare.org.uk/2025/08/23/developed-my-first-film/</guid>
-            <pubDate>Sat, 23 Aug 2025 07:41:48 GMT</pubDate>
-            <organisation>Folkeshare</organisation>
-        </item>
-        <item>
             <title><![CDATA[Shuffler Launch at Our Hub]]></title>
             <description><![CDATA[We are proud to be one of only three sites in Kent chosen to launch and test the SHUFFLER® — a new portable seated exercise device. The SHUFFLER® was co-designed by an NHS doctor to help improve mobility and stability in a simple, hassle-free way. It is suitable for people of all abilities — includi…]]></description>
             <link>https://rmch.org.uk/uncategorized/shuffler-launch-at-our-hub/</link>
@@ -797,6 +765,38 @@
             <guid isPermaLink="false">https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</guid>
             <pubDate>Wed, 16 Jul 2025 14:56:15 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Ellis’ story]]></title>
+            <description><![CDATA[Homelessness can happen to anyone. Meet Ellis*. At 42 years old he became homeless, living in a tent and unable to afford even basic necessities. Ellis is a skilled carpenter and plasterer. He was in a relationship and had full-time employment. But when he and his partner split up, he turned to alco…]]></description>
+            <link>https://www.rainbow-centre.org/impact-story-ellis/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/impact-story-ellis/</guid>
+            <pubDate>Tue, 27 May 2025 13:08:15 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[The Sports Trust Saves Folkestone Sports Centre]]></title>
+            <description><![CDATA[The Sports Trust is delighted to announce that it has exchanged contracts to acquire the Folkestone Sports Centre. After many months of productive discussions with the Administrator and key stakeholders, it has finalised an agreement and anticipates taking ownership shortly. Dan Hulme, Chief Executi…]]></description>
+            <link>https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</link>
+            <guid isPermaLink="false">https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</guid>
+            <pubDate>Mon, 19 May 2025 19:26:22 GMT</pubDate>
+            <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[App (v1.0.0) Launched – We need your feedback!]]></title>
+            <description><![CDATA[Our app is now in open beta phase, and we’d love your feedback! Please complete the form below if you have anything you wish to share. As a new platform in its infancy, we are aware of a small number of issues and are working hard to resolve these as quickly as possible. If you […] The post App (v1.…]]></description>
+            <link>https://folkestonemusic.co.uk/app-launched/</link>
+            <guid isPermaLink="false">https://folkestonemusic.co.uk/app-launched/</guid>
+            <pubDate>Fri, 02 May 2025 13:42:10 GMT</pubDate>
+            <organisation>Folkestone Music Town</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Being a Trustee]]></title>
+            <description><![CDATA[by Marion Howard-Healy How did that happen?Having some spare time, I wondered how I could volunteer locally. What to do? The Romney Marsh Community Hub came to mind. After an initial inquiry, I was directed to the website and saw the Hub was looking for Trustees. Thinking my business skills might be…]]></description>
+            <link>https://rmch.org.uk/uncategorized/being-a-trustee/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/being-a-trustee/</guid>
+            <pubDate>Wed, 30 Apr 2025 16:02:48 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
         </item>
     </channel>
 </rss>
