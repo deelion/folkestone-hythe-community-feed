@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 14:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 02:41:55 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -426,36 +426,12 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Folkestone is a Library – A Town-Wide Celebration of Stories (and a World Record Book Swap!)]]></title>
-            <description><![CDATA[Folkestone has always been a place of creativity, connection and community &#8211; and now, we’re turning that spirit into something truly historic. This spring, the town comes alive with Folkestone is a Library, a bold, inclusive project that reimagines what a library can be… and brings everyone to…]]></description>
-            <link>https://gofolkestone.org.uk/folkestone-world-record-book-swap/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/folkestone-world-record-book-swap/</guid>
-            <pubDate>Tue, 03 Mar 2026 06:45:13 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Folkestone Victoria Pier: A Story of Ambition, Entertainment and Seaside Heritage]]></title>
-            <description><![CDATA[Folkestone has long been defined by its relationship with the sea &#8211; from the elegance of the Leas to the energy of its shoreline. Among its most ambitious Victorian projects was the Victoria Pier, a place that brought together engineering, entertainment, and the social life of the town. Before…]]></description>
-            <link>https://gofolkestone.org.uk/folkestone-victoria-pier-history/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/folkestone-victoria-pier-history/</guid>
-            <pubDate>Fri, 27 Feb 2026 11:21:36 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
             <title><![CDATA[March 2026 Newsletter]]></title>
             <description><![CDATA[/]]></description>
             <link>https://www.lyminge.org.uk/2026/02/25/march-2026-newsletter/</link>
             <guid isPermaLink="false">https://www.lyminge.org.uk/2026/02/25/march-2026-newsletter/</guid>
             <pubDate>Wed, 25 Feb 2026 17:36:30 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[25 Years of Go Folkestone: A Community Celebration]]></title>
-            <description><![CDATA[This summer, Go Folkestone turns 25, and we’re marking the moment the best way we know how: by bringing people together to celebrate everything that makes this town special. The Go Folkestone Anniversary Festival is more than a birthday party. It’s a day shaped by the people, places, and stories tha…]]></description>
-            <link>https://gofolkestone.org.uk/25-years-of-go-folkestone-festival/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/25-years-of-go-folkestone-festival/</guid>
-            <pubDate>Tue, 24 Feb 2026 06:04:03 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
         </item>
         <item>
             <title><![CDATA[WILD LEEKS – STOP THE INVASION]]></title>
@@ -679,30 +655,6 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
-            <title><![CDATA[How to Get Involved in Folkestone’s Future (Even if You’re Busy)]]></title>
-            <description><![CDATA[We all want to live in a town that feels welcoming, inspiring, and cared for. But for many of us, the thought of “getting involved” feels daunting. Who has hours of spare time these days? The good news is that supporting Folkestone’s future doesn’t require huge amounts of time. With Go Folkestone, t…]]></description>
-            <link>https://gofolkestone.org.uk/how-to-get-involved-in-folkestones-future-even-if-youre-busy/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/how-to-get-involved-in-folkestones-future-even-if-youre-busy/</guid>
-            <pubDate>Wed, 24 Sep 2025 15:23:34 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Why Local History Still Matters in a Modern Town]]></title>
-            <description><![CDATA[We live in a fast-paced world. Towns change, skylines shift, and new businesses come and go. It can be tempting to think heritage is something we leave in museums or history books. But in reality, local history is what gives a place its character &#8211; and without it, we risk losing not only our i…]]></description>
-            <link>https://gofolkestone.org.uk/why-local-history-still-matters-in-a-modern-town/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/why-local-history-still-matters-in-a-modern-town/</guid>
-            <pubDate>Wed, 24 Sep 2025 15:21:30 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Small Acts, Big Change: How Community Projects Shape a Town]]></title>
-            <description><![CDATA[When you picture the kind of projects that change a town, you might think of large-scale developments or huge investments. But often, the most lasting impact comes from the small, consistent actions of people who care. That’s the heart of what Go Folkestone has been doing for more than 20 years &#82…]]></description>
-            <link>https://gofolkestone.org.uk/small-acts-big-change-how-community-projects-shape-a-town/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/small-acts-big-change-how-community-projects-shape-a-town/</guid>
-            <pubDate>Wed, 24 Sep 2025 15:18:36 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
             <title><![CDATA[Introduction to Large Format Cameras]]></title>
             <description><![CDATA[Step into the world of large format photography! We’ll cover the essentials—from camera setup and proper film loading and handling, to mastering light metering for accurate exposures. We&#8217;ll also explore advanced camera movements like tilt, shift, and swing—powerful tools for creative control a…]]></description>
             <link>https://folkeshare.org.uk/2025/08/25/introduction-to-large-format-cameras/</link>
@@ -759,14 +711,6 @@
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
         <item>
-            <title><![CDATA[Go Folkestone July NEWS 2025]]></title>
-            <description><![CDATA[Dear Go Folkestone Member, Attached please find Go Folkestone July 2025 News. Kind regards Nicola Tolson Membership Secretary]]></description>
-            <link>https://gofolkestone.org.uk/go-folkestone-july-news-2025/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/go-folkestone-july-news-2025/</guid>
-            <pubDate>Tue, 29 Jul 2025 11:02:12 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
-        </item>
-        <item>
             <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
             <description><![CDATA[.fusion-body .fusion-builder-column-2{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-2 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
             <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
@@ -775,28 +719,84 @@
             <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
-            <title><![CDATA[Latest News From The Leas Lift]]></title>
-            <description><![CDATA[Dear Go Folkestone Member, You may be interested to read the latest update on The Leas Lift. Nicola Tolson Membership Secretary]]></description>
-            <link>https://gofolkestone.org.uk/latest-news-from-the-leas-lift/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/latest-news-from-the-leas-lift/</guid>
-            <pubDate>Thu, 24 Jul 2025 08:52:54 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
+            <title><![CDATA[Historic Annual Meeting highlights need for supported accommodation in Folkestone]]></title>
+            <description><![CDATA[On Friday, 4th July 2025, our charity held a special Annual Meeting, marking forty years since the Rainbow Centre was founded. Key figures from the organisation&#8217;s history shared their reflections on the charity&#8217;s past, while inspiring talks from Emeritus Professor Peter Taylor-Gooby (OBE…]]></description>
+            <link>https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</guid>
+            <pubDate>Wed, 16 Jul 2025 14:56:15 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
         </item>
         <item>
-            <title><![CDATA[Go Folkestone Litter Pick – Friday 25th July 2.00pm]]></title>
-            <description><![CDATA[Dear Go Folkestone Member We would love you to join us at The Leas Arch this Friday, 25th July at 2.00pm to take part in our monthly Litter Pick. Patty Key, our Litter Pick Leader, will be with Gary from FHDC and his white van to hand out the tools required to collect litter – i.e. gloves, pickers, …]]></description>
-            <link>https://gofolkestone.org.uk/go-folkestone-litter-pick-friday-25th-july-2-00pm/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/go-folkestone-litter-pick-friday-25th-july-2-00pm/</guid>
-            <pubDate>Thu, 24 Jul 2025 08:51:08 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
+            <title><![CDATA[Ellis’ story]]></title>
+            <description><![CDATA[Homelessness can happen to anyone. Meet Ellis*. At 42 years old he became homeless, living in a tent and unable to afford even basic necessities. Ellis is a skilled carpenter and plasterer. He was in a relationship and had full-time employment. But when he and his partner split up, he turned to alco…]]></description>
+            <link>https://www.rainbow-centre.org/impact-story-ellis/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/impact-story-ellis/</guid>
+            <pubDate>Tue, 27 May 2025 13:08:15 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
         </item>
         <item>
-            <title><![CDATA[General Meeting Minutes July 2025]]></title>
-            <description><![CDATA[Dear Go Folkestone Member Attached please find Minutes from our July meeting. We would love to see you at the next meeting on 13th August at The Burlington Hotel, Earls Avenue. 6.30 for 7.00pm start. Correction With apologies: Electrical Waste Recycling &#8211; Figures were incorrect in the July Min…]]></description>
-            <link>https://gofolkestone.org.uk/general-meeting-minutes-july-2025/</link>
-            <guid isPermaLink="false">https://gofolkestone.org.uk/general-meeting-minutes-july-2025/</guid>
-            <pubDate>Sun, 20 Jul 2025 09:57:40 GMT</pubDate>
-            <organisation>Go Folkestone</organisation>
+            <title><![CDATA[The Sports Trust Saves Folkestone Sports Centre]]></title>
+            <description><![CDATA[The Sports Trust is delighted to announce that it has exchanged contracts to acquire the Folkestone Sports Centre. After many months of productive discussions with the Administrator and key stakeholders, it has finalised an agreement and anticipates taking ownership shortly. Dan Hulme, Chief Executi…]]></description>
+            <link>https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</link>
+            <guid isPermaLink="false">https://rdhct.org.uk/sports/the-sports-trust-saves-folkestone-sports-centre/</guid>
+            <pubDate>Mon, 19 May 2025 19:26:22 GMT</pubDate>
+            <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[App (v1.0.0) Launched – We need your feedback!]]></title>
+            <description><![CDATA[Our app is now in open beta phase, and we’d love your feedback! Please complete the form below if you have anything you wish to share. As a new platform in its infancy, we are aware of a small number of issues and are working hard to resolve these as quickly as possible. If you […] The post App (v1.…]]></description>
+            <link>https://folkestonemusic.co.uk/app-launched/</link>
+            <guid isPermaLink="false">https://folkestonemusic.co.uk/app-launched/</guid>
+            <pubDate>Fri, 02 May 2025 13:42:10 GMT</pubDate>
+            <organisation>Folkestone Music Town</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Being a Trustee]]></title>
+            <description><![CDATA[by Marion Howard-Healy How did that happen?Having some spare time, I wondered how I could volunteer locally. What to do? The Romney Marsh Community Hub came to mind. After an initial inquiry, I was directed to the website and saw the Hub was looking for Trustees. Thinking my business skills might be…]]></description>
+            <link>https://rmch.org.uk/uncategorized/being-a-trustee/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/being-a-trustee/</guid>
+            <pubDate>Wed, 30 Apr 2025 16:02:48 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Hamlet Hotel Planning Application Accepted]]></title>
+            <description><![CDATA[19th March 2025 The Rainbow Centre is pleased to announce that yesterday, Folkestone and Hythe District Council, gave the green light for the conversion of a Folkestone hotel into accommodation for local people experiencing homelessness. Dr Peter Le Feuvre, the Chair of Trustees, confirmed that the …]]></description>
+            <link>https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</guid>
+            <pubDate>Wed, 19 Mar 2025 12:48:29 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Musical Walkabout]]></title>
+            <description><![CDATA[The Musical Walkabout were able to run its Coastal Project through the summer of 2024 with the help of funds from RDHCT. The Walkabout works with people with dementia, their carers and health and social care professionals to enjoy music as a weekly event. The group sing songs in the Lower Leas Coast…]]></description>
+            <link>https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</link>
+            <guid isPermaLink="false">https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</guid>
+            <pubDate>Wed, 19 Feb 2025 09:59:07 GMT</pubDate>
+            <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[40 Challenges Fundraiser]]></title>
+            <description><![CDATA[This year the Rainbow Centre marks 40 years supporting the most vulnerable in our community. We want to raise 40K to help fund our vital services. Can you, or someone you know, help by taking one of our fun 40 Challenges? These fundraising activities are for individuals, the whole family or groups o…]]></description>
+            <link>https://www.rainbow-centre.org/40-challenges-for-40-years/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/40-challenges-for-40-years/</guid>
+            <pubDate>Wed, 12 Feb 2025 16:13:40 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Volunteering Opportunities]]></title>
+            <description><![CDATA[Do You have some time to give back to your community? New Volunteering Opportunities We are pleased to announce that we have 2 new volunteering opportunities:Hub On the Beach &#8211; we need volunteers to help in the café Monday &#8211; Sunday, there are 2 shifts, 09.30 &#8211; 13.30 or 12.00 &#8211…]]></description>
+            <link>https://rmch.org.uk/uncategorized/volunteering-opportunities/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/volunteering-opportunities/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:14:47 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Launch of Hub on the beach]]></title>
+            <description><![CDATA[We Officially Launch and Open the Hub On The Beach On Monday 2nd of September we officially launched our latest project, the Hub On The Beach.&nbsp; Our longest standing volunteer, Margaret Edwards, did the honours of cutting the ribbon and declaring the Hub open. Entertainment was provided by the E…]]></description>
+            <link>https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:13:37 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
         </item>
     </channel>
 </rss>
