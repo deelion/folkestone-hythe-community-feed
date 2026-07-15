@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 13:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 01:30:07 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Canadian Memorial Service 2026]]></title>
+            <description><![CDATA[&nbsp; The annual Canada Day Service in Folkestone which commemorates the 305 Canadian soldiers who died during WWI and are buried in the Shorncliffe Military Cemetery took place on Wednesday 1 July. &nbsp; A memorial service takes place each year on or near Canada Day at the Canadian Servicemen&#82…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/canadian-memorial-service-2026/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/canadian-memorial-service-2026/</guid>
+            <pubDate>Tue, 14 Jul 2026 13:15:53 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Town Sunday Service 2026]]></title>
             <description><![CDATA[&nbsp; This year’s Town Sunday Service was held in the Parish Church of St Mary and St Eanswythe on Sunday 28 June at 1030 hours where this year’s Mayor, Cllr Jackie Meade was officially named. The Service was led by the Town Mayor’s Chaplain, Kate McNeice with Rev. Chris Johnson and Vicky Fredrich …]]></description>
@@ -14,6 +22,14 @@
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/town-sunday-service-2026/</guid>
             <pubDate>Tue, 14 Jul 2026 13:04:29 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Celebrating our Green Flags]]></title>
+            <description><![CDATA[Six of the district's most beloved parks and green spaces have again been awarded Green Flag status.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/438/celebrating-our-green-flags</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/438/celebrating-our-green-flags</guid>
+            <pubDate>Tue, 14 Jul 2026 11:20:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[The Town Mayor’s Raffle Prize Request 2026]]></title>
@@ -228,10 +244,10 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[New bins, extra crews and e-bikes to tackle beach litter]]></title>
+            <title><![CDATA[Love your Beach, new bins, extra crews and e-bikes to tackle beach litter]]></title>
             <description><![CDATA[Folkestone & Hythe District Council will be tackling litter this summer with new high capacity compactor bins, additional crews and the return of e bike collections at key coastal hotspots.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/426/new-bins-extra-crews-and-e-bikes-to-tackle-beach-litter</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/426/new-bins-extra-crews-and-e-bikes-to-tackle-beach-litter</guid>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/426/love-your-beach-new-bins-extra-crews-and-e-bikes-to-tackle-beach-litter</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/426/love-your-beach-new-bins-extra-crews-and-e-bikes-to-tackle-beach-litter</guid>
             <pubDate>Thu, 14 May 2026 13:36:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
@@ -416,22 +432,6 @@
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/419/updated-cpz-framework-agreed-by-cabinet</guid>
             <pubDate>Thu, 26 Mar 2026 12:28:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Supporting Folkestone Sports Centre reopening]]></title>
-            <description><![CDATA[A £2.4m grant which will enable the reopening of swimming facilities at Folkestone Sports Centre has been supported.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/418/supporting-folkestone-sports-centre-reopening</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/418/supporting-folkestone-sports-centre-reopening</guid>
-            <pubDate>Thu, 26 Mar 2026 09:05:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[The Town Mayor’s Community Awards 2025/26]]></title>
-            <description><![CDATA[Every year, around March, the Town Mayor of Folkestone has the privilege of awarding local people a Town Mayor’s Community Award. Previous recipients of this award have varied from volunteers of a local church to people working to support those most in need. This year, it was the turn of Councillor …]]></description>
-            <link>https://www.folkestone-tc.gov.uk/the-town-mayors-community-awards-2025-26/</link>
-            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayors-community-awards-2025-26/</guid>
-            <pubDate>Wed, 25 Mar 2026 14:30:19 GMT</pubDate>
-            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[Coffee Afternoon – Ministry of Sewage – Mermaid Beach]]></title>
