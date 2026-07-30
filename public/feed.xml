@@ -4,9 +4,24 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 01:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 01:42:27 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Top rating for council's housing standards]]></title>
+            <description><![CDATA[Folkestone & Hythe District Council has been recognised as one of the country’s best performing council housing landlords after being awarded the highest possible consumer standards judgement.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/441/top-rating-for-council-s-housing-standards</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/441/top-rating-for-council-s-housing-standards</guid>
+            <pubDate>Wed, 29 Jul 2026 08:04:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[August 2026 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2026/07/29/august-2026-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/07/29/august-2026-newsletter/</guid>
+            <pubDate>Wed, 29 Jul 2026 06:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[Designer Dylan wins poster competition ]]></title>
             <description><![CDATA[A 13-year-old from Littlestone has put his design talents to work encouraging the district’s residents and visitors to put their litter in the bin.]]></description>
@@ -411,14 +426,6 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
-            <title><![CDATA[Coastal Park play time gets a step closer]]></title>
-            <description><![CDATA[Work to deliver an exciting new era for the Lower Leas Coastal Park play area is about to get underway.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/421/coastal-park-play-time-gets-a-step-closer</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/421/coastal-park-play-time-gets-a-step-closer</guid>
-            <pubDate>Fri, 17 Apr 2026 10:51:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
             <title><![CDATA[Folkestone Museum Receives Funding from the Royal Society]]></title>
             <description><![CDATA[Folkestone Museum has been awarded funding by the Royal Society in the latest round of its Places of Science scheme. Twenty-seven small museums across the UK will use this funding to engage communities with their local science stories.The Places of Science scheme celebrate projects that evoke curios…]]></description>
             <link>https://www.folkestonemuseum.co.uk/2026/04/01/folkestone-museum-receives-funding-from-the-royal-society/</link>
@@ -566,13 +573,6 @@
             <guid isPermaLink="false">https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</guid>
             <pubDate>Sun, 30 Nov 2025 13:21:52 GMT</pubDate>
             <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[December 2025 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2025/11/27/december-2025-newsletter-2/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2025/11/27/december-2025-newsletter-2/</guid>
-            <pubDate>Thu, 27 Nov 2025 21:12:16 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[November Talk: 29th Folkestone Fragments]]></title>
