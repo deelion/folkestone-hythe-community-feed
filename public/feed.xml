@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 01:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 13:46:12 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Celebrating the Commonwealth Games in Folkestone!]]></title>
+            <description><![CDATA[&nbsp; Held every four years since 1930, the Games is an international sporting event for countries that are part of the Commonwealth of Nations, a voluntary association of 56 sovereign states which serves as a platform for cooperation and friendship. This time the Games were staged from 23 July 202…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/celebrating-the-commonwealth-games-in-folkestone/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/celebrating-the-commonwealth-games-in-folkestone/</guid>
+            <pubDate>Wed, 05 Aug 2026 11:14:12 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Head down for play area's official opening]]></title>
             <description><![CDATA[An exciting new era for the Lower Leas Coastal Park play area has begun.]]></description>
@@ -408,14 +416,6 @@
             <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/28/may-2026-newsletter/</guid>
             <pubDate>Tue, 28 Apr 2026 19:46:52 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[FTC and KCC Reach Agreement for 2 Grace Hill, Folkestone]]></title>
-            <description><![CDATA[Folkestone Town Council are delighted to confirm that agreement has been reached, subject to contract, to acquire 2 Grace Hill, Folkestone – securing the long-term future of this much-loved building as a community asset. After Kent County Council confirmed early in 2026 that it intended to dispose o…]]></description>
-            <link>https://www.folkestone-tc.gov.uk/ftc-and-kcc-reach-agreement-for-2-grace-hill-folkestone/</link>
-            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/ftc-and-kcc-reach-agreement-for-2-grace-hill-folkestone/</guid>
-            <pubDate>Fri, 24 Apr 2026 10:59:18 GMT</pubDate>
-            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[Next talk: 25 April – George Fox: Founder of the Quakers by Jean Hatton]]></title>
