@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 13:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 02:11:33 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Breakwater repair work agreed by council]]></title>
+            <description><![CDATA[A breakwater damaged by Storm Goretti is to be repaired.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/443/breakwater-repair-work-agreed-by-council</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/443/breakwater-repair-work-agreed-by-council</guid>
+            <pubDate>Thu, 06 Aug 2026 10:15:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Celebrating the Commonwealth Games in Folkestone!]]></title>
             <description><![CDATA[&nbsp; Held every four years since 1930, the Games is an international sporting event for countries that are part of the Commonwealth of Nations, a voluntary association of 56 sovereign states which serves as a platform for cooperation and friendship. This time the Games were staged from 23 July 202…]]></description>
@@ -369,14 +377,6 @@
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/new-mayor-of-folkestone-2026-27/</guid>
             <pubDate>Fri, 08 May 2026 07:54:39 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[New dog-walking map launches as Paws for Thought Event Returns]]></title>
-            <description><![CDATA[Dog owners across the district are being encouraged to make the most of the outdoors this summer with the launch of an updated dog-walking map.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/423/new-dog-walking-map-launches-as-paws-for-thought-event-returns</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/423/new-dog-walking-map-launches-as-paws-for-thought-event-returns</guid>
-            <pubDate>Thu, 07 May 2026 15:17:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Sandgate Tale 13: Lilla, The Countess of Chichester & The Chichester Memorial Hall]]></title>
