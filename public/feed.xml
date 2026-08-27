@@ -4,9 +4,16 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 12:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 05:57:22 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Booking Form For Garage Sale – 19th September]]></title>
+            <link>https://www.lyminge.org.uk/2026/08/26/booking-form-for-garage-sale-19th-september/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/08/26/booking-form-for-garage-sale-19th-september/</guid>
+            <pubDate>Wed, 26 Aug 2026 15:11:43 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[Blooming marvellous tenants celebrate successful garden competition results]]></title>
             <description><![CDATA[Council tenants have been recognised for their impressive efforts in the annual Folkestone & Hythe District Council (F&HDC) gardening competition.]]></description>
@@ -518,13 +525,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/january-talk-history-of-the-clifton-hotel/</guid>
             <pubDate>Mon, 12 Jan 2026 17:33:51 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[January 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/01/01/january-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/01/01/january-2026-newsletter/</guid>
-            <pubDate>Thu, 01 Jan 2026 14:00:38 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Mindful Messy Making 2026]]></title>
