@@ -4,9 +4,16 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 04:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 15:58:36 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[September 2026 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2026/08/29/september-2026-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/08/29/september-2026-newsletter/</guid>
+            <pubDate>Sat, 29 Aug 2026 12:19:58 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[Message of Hope to the Nepalese Community]]></title>
             <description><![CDATA[&nbsp; Message of Hope from Folkestone Town Council to the Nepalese Community &nbsp; The Town Council extends its deepest sympathies to all those affected by the devastating landslides and flash floods on the Nepal-Tibet border. Our thoughts are with the families who have lost loved ones, those who …]]></description>
@@ -14,13 +21,6 @@
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/message-of-hope/</guid>
             <pubDate>Thu, 27 Aug 2026 14:23:00 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[September 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/08/27/september-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/08/27/september-2026-newsletter/</guid>
-            <pubDate>Thu, 27 Aug 2026 11:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Booking Form For Garage Sale – 19th September]]></title>
