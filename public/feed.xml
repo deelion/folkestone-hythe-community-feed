@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 16:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 02:15:14 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New Local Plan being worked on for district]]></title>
+            <description><![CDATA[Preparation of a new Local Plan for the district has begun and residents, businesses and local communities are being invited to get involved.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/448/new-local-plan-being-worked-on-for-district</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/448/new-local-plan-being-worked-on-for-district</guid>
+            <pubDate>Mon, 07 Sep 2026 17:04:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Better play time for young people of Cheriton]]></title>
             <description><![CDATA[New dynamic play equipment specifically aimed at toddlers and teenagers has been added to Cheriton Recreation Ground.]]></description>
@@ -335,14 +343,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-30-may-history-of-coolinge-lane/</guid>
             <pubDate>Sun, 24 May 2026 09:10:45 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Get scam smart at community safety event]]></title>
-            <description><![CDATA[Folkestone & Hythe District Council is leading a community safety event to help residents protect themselves and their families against scams.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/428/get-scam-smart-at-community-safety-event</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/428/get-scam-smart-at-community-safety-event</guid>
-            <pubDate>Fri, 22 May 2026 13:52:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
