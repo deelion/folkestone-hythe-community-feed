@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 02:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 15:35:57 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Making sure support gets to the right people]]></title>
+            <description><![CDATA[Over £1.25m of funds claimed fraudulently or in error has been identified in the past year.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/452/making-sure-support-gets-to-the-right-people</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/452/making-sure-support-gets-to-the-right-people</guid>
+            <pubDate>Fri, 11 Sep 2026 11:25:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Your District Today well worth a read]]></title>
             <description><![CDATA[There is a whole load of interesting news and information in the latest edition of Your District Today magazine, out from this week.]]></description>
@@ -265,14 +273,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/433/flytipping-in-district-lands-two-in-court</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/433/flytipping-in-district-lands-two-in-court</guid>
             <pubDate>Fri, 12 Jun 2026 14:27:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Exhibition on next steps for Otterpool Park to be held this month]]></title>
-            <description><![CDATA[Otterpool Park LLP is holding an exhibition later this month to update the public on the next steps for the new sustainable garden town near Hythe.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/432/exhibition-on-next-steps-for-otterpool-park-to-be-held-this-month</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/432/exhibition-on-next-steps-for-otterpool-park-to-be-held-this-month</guid>
-            <pubDate>Thu, 11 Jun 2026 12:42:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
