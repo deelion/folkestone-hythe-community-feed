@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 15:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 02:32:21 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Residents have to leave homes after hotel fire]]></title>
+            <description><![CDATA[Updated 11am 20 September 2026: Residents living near to the fire-damaged Grand Burstin Hotel in Folkestone have been relocated for safety reasons.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/454/residents-have-to-leave-homes-after-hotel-fire</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/454/residents-have-to-leave-homes-after-hotel-fire</guid>
+            <pubDate>Sat, 19 Sep 2026 22:45:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Garage Sale Map September 2026]]></title>
             <link>https://www.lyminge.org.uk/2026/09/18/garage-sale-map-september-2026/</link>
@@ -295,14 +303,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/435/new-council-owned-flats-to-support-households-in-need</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/435/new-council-owned-flats-to-support-households-in-need</guid>
             <pubDate>Wed, 24 Jun 2026 14:32:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Call to share improvement ideas for district play areas]]></title>
-            <description><![CDATA[Exciting improvements are being planned for key play areas across the Folkestone & Hythe district as part of the council’s Corporate Plan commitment to invest in local communities.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/434/call-to-share-improvement-ideas-for-district-play-areas</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/434/call-to-share-improvement-ideas-for-district-play-areas</guid>
-            <pubDate>Tue, 23 Jun 2026 09:53:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
