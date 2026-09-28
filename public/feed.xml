@@ -4,9 +4,16 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 16:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 02:45:46 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[October 2026 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2026/09/27/october-2026-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/09/27/october-2026-newsletter/</guid>
+            <pubDate>Sun, 27 Sep 2026 22:55:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[Working together after Grand Burstin fire]]></title>
             <description><![CDATA[Work to support residents who were evacuated following the fire at the Grand Burstin Hotel in Folkestone is continuing.]]></description>
@@ -445,13 +452,6 @@
             <guid isPermaLink="false">https://sandgatesociety.com/2026/04/30/sandgate-tale-12-the-sandgate-railway-from-departure-to-demise/</guid>
             <pubDate>Thu, 30 Apr 2026 19:05:10 GMT</pubDate>
             <organisation>The Sandgate Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[May 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/04/28/may-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/04/28/may-2026-newsletter/</guid>
-            <pubDate>Tue, 28 Apr 2026 19:46:52 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
         </item>
         <item>
             <title><![CDATA[Next talk: 25 April – George Fox: Founder of the Quakers by Jean Hatton]]></title>
