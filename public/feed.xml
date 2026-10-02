@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 03:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 17:07:28 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Town Mayor’s Community Awards 2026]]></title>
+            <description><![CDATA[&nbsp; The Town Mayor of Folkestone, Councillor Jackie Meade, is delighted to welcome nominations for the ‘Town Mayor’s Community Awards’. These annual Awards provide an opportunity for the Mayor to show her appreciation to members of the community who have done something particularly noteworthy in …]]></description>
+            <link>https://www.folkestone-tc.gov.uk/the-town-mayors-community-awards-2026/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/the-town-mayors-community-awards-2026/</guid>
+            <pubDate>Fri, 02 Oct 2026 10:30:23 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Flats re-opened following Folkestone hotel fire]]></title>
             <description><![CDATA[Residents who had to leave their homes following the Grand Burstin Hotel fire in Folkestone are now able to return to their flats.]]></description>
@@ -194,18 +202,10 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Super Nature Film at Folkestone Silver Screen]]></title>
-            <description><![CDATA[Showing in Folkestone on 2nd. Super Nature is an immersive documentary shot entirely on Super 8, bringing together footage from 40+ filmmakers, artists and storytellers across 25 countries to explore our relationship with nature through lived, local experience. Preview .fusion-body .fusion-builder-c…]]></description>
-            <link>https://hytheenvironmental.community/super-nature-film-at-folkestone-silver-screen/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/super-nature-film-at-folkestone-silver-screen/</guid>
-            <pubDate>Wed, 19 Aug 2026 09:40:14 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Strong start for Changing Places Coastal Centre]]></title>
+            <title><![CDATA[Strong start for Changing Tides Coastal Centre]]></title>
             <description><![CDATA[There has been a real energy around the Changing Tides Coastal Centre in Greatstone since its opening earlier this year.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-places-coastal-centre</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-places-coastal-centre</guid>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-tides-coastal-centre</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-tides-coastal-centre</guid>
             <pubDate>Tue, 18 Aug 2026 10:34:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
@@ -320,20 +320,20 @@
             <organisation>The Lyminge Association</organisation>
         </item>
         <item>
+            <title><![CDATA[Withdrawal of Planning Application]]></title>
+            <description><![CDATA[South Kent Methodist Circuit and Folkestone Rainbow Centre withdraw planning application for Sandgate Road 19 June 2026 The South Kent Methodist Circuit and the Folkestone Rainbow Centre have jointly agreed to withdraw their planning application for a new community facility on Sandgate Road, Folkest…]]></description>
+            <link>https://www.rainbow-centre.org/withdrawal-of-planning-application/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/withdrawal-of-planning-application/</guid>
+            <pubDate>Thu, 25 Jun 2026 09:47:52 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
             <title><![CDATA[Next talk: 27th June – The Last Maharaja]]></title>
             <description><![CDATA[For full details and to book, see the event page. The post Next talk: 27th June – The Last Maharaja first appeared on New Folkestone Society.]]></description>
             <link>https://www.newfolkestonesociety.org.uk/next-talk-27th-june-the-last-maharaja/</link>
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-27th-june-the-last-maharaja/</guid>
             <pubDate>Sat, 20 Jun 2026 10:19:07 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[District Councillors Unite to Support Grace Hill]]></title>
-            <description><![CDATA[Folkestone&#8217;s District Councillors Unite to Support the Future of the Grace Hill Building Folkestone Town Council is pleased to confirm that District Councillors have collectively pledged their support for the Grace Hill building, following its acquisition by Folkestone Town Council on 1 June. …]]></description>
-            <link>https://www.folkestone-tc.gov.uk/district-councillors-unite-to-support-grace-hill/</link>
-            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/district-councillors-unite-to-support-grace-hill/</guid>
-            <pubDate>Wed, 17 Jun 2026 13:31:13 GMT</pubDate>
-            <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
             <title><![CDATA[When systems work and why belonging matters just as much as access]]></title>
@@ -470,14 +470,6 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
-            <title><![CDATA[WILD LEEKS – STOP THE INVASION]]></title>
-            <description><![CDATA[Wild Leeks are an invasive species that are smothering many of our gardens and public spaces. Here&#8217;s what you should know. .fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-top : 0px !im…]]></description>
-            <link>https://hytheenvironmental.community/wild-leeks-stop-the-invasion/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/wild-leeks-stop-the-invasion/</guid>
-            <pubDate>Thu, 19 Feb 2026 22:13:27 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
             <title><![CDATA[Next Talk: 28 February – Islamesque by Diana Darke]]></title>
             <description><![CDATA[For full details, see event page. The post Next Talk: 28 February – Islamesque by Diana Darke first appeared on New Folkestone Society.]]></description>
             <link>https://www.newfolkestonesociety.org.uk/next-talk-28-february-islameque-by-diana-darke/</link>
@@ -492,14 +484,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/are-you-proud-of-folkestone-have-your-say/</guid>
             <pubDate>Sat, 07 Feb 2026 21:27:20 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[2026 Newsletter]]></title>
-            <description><![CDATA[Here&#8217;s our 2026 Newsletter which gives a run down of what we have been doing in 2025, and our plans for the rest of the year. ENJOY!! .fusion-body .fusion-builder-column-2{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-2 > .fusion-column-wrapper {padding-to…]]></description>
-            <link>https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</guid>
-            <pubDate>Mon, 02 Feb 2026 22:47:16 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
             <title><![CDATA[Spectacular Anglo-Saxon Sword to go on display at Folkestone Museum]]></title>
@@ -558,12 +542,28 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
+            <title><![CDATA[The BIG Sleep Out – Your Way]]></title>
+            <description><![CDATA[Brave the BIG Sleep Out &#8211; Your Way and raise money for Rainbow Centre&#8217;s homeless work Our BIG Sleep Out season runs from 1 December 25 until 28 February 26 alongside our Folkestone Churches Winter Shelter service, fundraising for our homeless work. What is the BIG Sleep Out &#8211; Your …]]></description>
+            <link>https://www.rainbow-centre.org/the-big-sleep-out-your-way-25-26/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/the-big-sleep-out-your-way-25-26/</guid>
+            <pubDate>Mon, 24 Nov 2025 13:40:31 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
             <title><![CDATA[Launch of Crowdfunder]]></title>
             <description><![CDATA[The Board of Trustees of the Romney Marsh Community Hub charity, which this year marks its 50th anniversary serving the Marsh, has launched an urgent fundraising appeal to raise £150,000 to safeguard essential services for local residents. The charity has been hit hard by a combination of soaring op…]]></description>
             <link>https://rmch.org.uk/uncategorized/launch-of-crowdfunder/</link>
             <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-crowdfunder/</guid>
             <pubDate>Tue, 18 Nov 2025 16:12:03 GMT</pubDate>
             <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Matthew’s Volunteering Journey]]></title>
+            <description><![CDATA[published 18/11/25 Article Update Since starting volunteering with us, Matthew has gone from strength to strength and we are so pleased to say he has now secured permanent employment, and he is continuing to volunteer for us too! Huge congratulations Matthew, the Warehouse Team and everyone at Rainb…]]></description>
+            <link>https://www.rainbow-centre.org/matthews-volunteering-journey/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/matthews-volunteering-journey/</guid>
+            <pubDate>Tue, 18 Nov 2025 13:41:29 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
         </item>
         <item>
             <title><![CDATA[State and marginalisation: Brazil and the UK 1970-1990]]></title>
@@ -694,12 +694,20 @@
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
         <item>
-            <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
-            <description><![CDATA[.fusion-body .fusion-builder-column-3{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-3 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
-            <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</guid>
-            <pubDate>Fri, 25 Jul 2025 14:41:24 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
+            <title><![CDATA[Historic Annual Meeting highlights need for supported accommodation in Folkestone]]></title>
+            <description><![CDATA[On Friday, 4th July 2025, our charity held a special Annual Meeting, marking forty years since the Rainbow Centre was founded. Key figures from the organisation&#8217;s history shared their reflections on the charity&#8217;s past, while inspiring talks from Emeritus Professor Peter Taylor-Gooby (OBE…]]></description>
+            <link>https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/historic-annual-meeting-highlights-need-for-supported-accommodation-in-folkestone/</guid>
+            <pubDate>Wed, 16 Jul 2025 14:56:15 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Ellis’ story]]></title>
+            <description><![CDATA[Homelessness can happen to anyone. Meet Ellis*. At 42 years old he became homeless, living in a tent and unable to afford even basic necessities. Ellis is a skilled carpenter and plasterer. He was in a relationship and had full-time employment. But when he and his partner split up, he turned to alco…]]></description>
+            <link>https://www.rainbow-centre.org/impact-story-ellis/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/impact-story-ellis/</guid>
+            <pubDate>Tue, 27 May 2025 13:08:15 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
         </item>
         <item>
             <title><![CDATA[The Sports Trust Saves Folkestone Sports Centre]]></title>
@@ -726,12 +734,28 @@
             <organisation>Romney Marsh Community Hub</organisation>
         </item>
         <item>
+            <title><![CDATA[Hamlet Hotel Planning Application Accepted]]></title>
+            <description><![CDATA[19th March 2025 The Rainbow Centre is pleased to announce that yesterday, Folkestone and Hythe District Council, gave the green light for the conversion of a Folkestone hotel into accommodation for local people experiencing homelessness. Dr Peter Le Feuvre, the Chair of Trustees, confirmed that the …]]></description>
+            <link>https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</guid>
+            <pubDate>Wed, 19 Mar 2025 12:48:29 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
             <title><![CDATA[Musical Walkabout]]></title>
             <description><![CDATA[The Musical Walkabout were able to run its Coastal Project through the summer of 2024 with the help of funds from RDHCT. The Walkabout works with people with dementia, their carers and health and social care professionals to enjoy music as a weekly event. The group sing songs in the Lower Leas Coast…]]></description>
             <link>https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</link>
             <guid isPermaLink="false">https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</guid>
             <pubDate>Wed, 19 Feb 2025 09:59:07 GMT</pubDate>
             <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[40 Challenges Fundraiser]]></title>
+            <description><![CDATA[This year the Rainbow Centre marks 40 years supporting the most vulnerable in our community. We want to raise 40K to help fund our vital services. Can you, or someone you know, help by taking one of our fun 40 Challenges? These fundraising activities are for individuals, the whole family or groups o…]]></description>
+            <link>https://www.rainbow-centre.org/40-challenges-for-40-years/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/40-challenges-for-40-years/</guid>
+            <pubDate>Wed, 12 Feb 2025 16:13:40 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
         </item>
         <item>
             <title><![CDATA[Volunteering Opportunities]]></title>
@@ -772,30 +796,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
             <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Still Sick of It]]></title>
-            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
-            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Closing Celebrations]]></title>
-            <description><![CDATA[It&#8217;s a wrap for Still Sick Of It!Fri 31 OctDrop in: 12:00-16:00 Join Sarah Lloyd (Still Sick of It Curator / Fourth Wall Folkestone Director) for an informal mingle and chat to celebrate and round off the Still Sick of It programme. This is an open invite for anyone who has been along to any o…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/closing-celebrations/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/closing-celebrations/</guid>
-            <pubDate>Tue, 28 Jan 2025 14:51:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Gutenberg Editor]]></title>
-            <description><![CDATA[Of Mountains &amp; Printing Presses The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll noti…]]></description>
-            <link>https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</link>
-            <guid isPermaLink="false">https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</guid>
-            <pubDate>Wed, 18 Sep 2024 18:21:02 GMT</pubDate>
-            <organisation>Treat Me Right CIC</organisation>
         </item>
     </channel>
 </rss>
