@@ -4,9 +4,25 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 18:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 18:14:24 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Local services unite to help residents this winter]]></title>
+            <description><![CDATA[Folkestone & Hythe District Council is inviting residents to a community event designed to help people access advice, information and practical support ahead of the colder months.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/460/local-services-unite-to-help-residents-this-winter</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/460/local-services-unite-to-help-residents-this-winter</guid>
+            <pubDate>Thu, 08 Oct 2026 13:36:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Next Coffee Afternoon: 8 October – Mapping Project]]></title>
+            <description><![CDATA[For full details, see the event page. The post Next Coffee Afternoon: 8 October – Mapping Project first appeared on New Folkestone Society.]]></description>
+            <link>https://www.newfolkestonesociety.org.uk/next-coffee-afternoon-8-october-mapping-project/</link>
+            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-coffee-afternoon-8-october-mapping-project/</guid>
+            <pubDate>Thu, 08 Oct 2026 11:20:51 GMT</pubDate>
+            <organisation>New Folkestone Society</organisation>
+        </item>
         <item>
             <title><![CDATA[Milestone for Otterpool Park as outline planning application is submitted ]]></title>
             <description><![CDATA[Otterpool Park LLP, working in collaboration with Homes England, has submitted updated information to F&HDC as part of the current outline planning application for Otterpool Park.]]></description>
@@ -226,14 +242,6 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Super Nature Film at Folkestone Silver Screen]]></title>
-            <description><![CDATA[Showing in Folkestone on 2nd. Super Nature is an immersive documentary shot entirely on Super 8, bringing together footage from 40+ filmmakers, artists and storytellers across 25 countries to explore our relationship with nature through lived, local experience. Preview .fusion-body .fusion-builder-c…]]></description>
-            <link>https://hytheenvironmental.community/super-nature-film-at-folkestone-silver-screen/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/super-nature-film-at-folkestone-silver-screen/</guid>
-            <pubDate>Wed, 19 Aug 2026 09:40:14 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
             <title><![CDATA[Strong start for Changing Tides Coastal Centre]]></title>
             <description><![CDATA[There has been a real energy around the Changing Tides Coastal Centre in Greatstone since its opening earlier this year.]]></description>
             <link>https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-tides-coastal-centre</link>
@@ -287,14 +295,6 @@
             <guid isPermaLink="false">https://www.lyminge.org.uk/2026/07/29/august-2026-newsletter/</guid>
             <pubDate>Wed, 29 Jul 2026 06:00:00 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Designer Dylan wins poster competition ]]></title>
-            <description><![CDATA[A 13-year-old from Littlestone has put his design talents to work encouraging the district’s residents and visitors to put their litter in the bin.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/440/designer-dylan-wins-poster-competition</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/440/designer-dylan-wins-poster-competition</guid>
-            <pubDate>Tue, 21 Jul 2026 14:56:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Canadian Memorial Service 2026]]></title>
@@ -380,6 +380,14 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-30-may-history-of-coolinge-lane/</guid>
             <pubDate>Sun, 24 May 2026 09:10:45 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
+        </item>
+        <item>
+            <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
+            <description><![CDATA[HOW I DESIGNED THE DAM IN VENICE &#8211; #1 Artist blog series by Nina Shen # In early 2023, CT20’s director Nina Shen was invited by the activist-curator David Hevey to work out how to put on a show in Venice &#8211; CRIP ARTE SPAZIO: The DAM in Venice &#8211; which showcases for the first time, on…]]></description>
+            <link>https://www.ct-20.org/2026/05/21/howidesignedthedaminvenice_pt1/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2026/05/21/howidesignedthedaminvenice_pt1/</guid>
+            <pubDate>Wed, 20 May 2026 23:41:14 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[Meeting Stanley]]></title>
@@ -470,14 +478,6 @@
             <organisation>New Folkestone Society</organisation>
         </item>
         <item>
-            <title><![CDATA[WILD LEEKS – STOP THE INVASION]]></title>
-            <description><![CDATA[Wild Leeks are an invasive species that are smothering many of our gardens and public spaces. Here&#8217;s what you should know. .fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-top : 0px !im…]]></description>
-            <link>https://hytheenvironmental.community/wild-leeks-stop-the-invasion/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/wild-leeks-stop-the-invasion/</guid>
-            <pubDate>Thu, 19 Feb 2026 22:13:27 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
             <title><![CDATA[Next Talk: 28 February – Islamesque by Diana Darke]]></title>
             <description><![CDATA[For full details, see event page. The post Next Talk: 28 February – Islamesque by Diana Darke first appeared on New Folkestone Society.]]></description>
             <link>https://www.newfolkestonesociety.org.uk/next-talk-28-february-islameque-by-diana-darke/</link>
@@ -492,14 +492,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/are-you-proud-of-folkestone-have-your-say/</guid>
             <pubDate>Sat, 07 Feb 2026 21:27:20 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[2026 Newsletter]]></title>
-            <description><![CDATA[Here&#8217;s our 2026 Newsletter which gives a run down of what we have been doing in 2025, and our plans for the rest of the year. ENJOY!! .fusion-body .fusion-builder-column-2{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-2 > .fusion-column-wrapper {padding-to…]]></description>
-            <link>https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/http-hytheenvironmental-community-wp-content-uploads-2022-02-2022-newsletter-pdf/</guid>
-            <pubDate>Mon, 02 Feb 2026 22:47:16 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
             <title><![CDATA[Spectacular Anglo-Saxon Sword to go on display at Folkestone Museum]]></title>
@@ -534,6 +526,22 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
+            <title><![CDATA[In 2025, Gabriela Golder’s ‘Conversation Piece’ has an urgent message]]></title>
+            <description><![CDATA[In 2025, Gabriela Golder’s ‘Conversation Piece’ has an urgent message Eleanor Peake # Eleanor Peake reflects on Gabriela Golder’s ‘Conversation Piece’. She asks, in a world of YouTube radicalisation and political isolation, what would happen if the far right spoke to their grandmothers? Three genera…]]></description>
+            <link>https://www.ct-20.org/2025/12/03/in-2025-gabriela-golders-conversation-piece-has-an-urgent-message/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/12/03/in-2025-gabriela-golders-conversation-piece-has-an-urgent-message/</guid>
+            <pubDate>Wed, 03 Dec 2025 15:36:28 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Watching ‘O Espírito da TV’]]></title>
+            <description><![CDATA[Watching &#8216;O Espírito da TV&#8217; Daisy Whittle # In the first season of REEL BRAZIL: Mutinies in Video Art, the film O Espírito da TV spotlights the Waiãpi people of the Amazon Rainforest. It shows their bold fight to hold onto their land and traditions against the push of new technology and …]]></description>
+            <link>https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</guid>
+            <pubDate>Sun, 30 Nov 2025 13:21:52 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
+        </item>
+        <item>
             <title><![CDATA[November Talk: 29th Folkestone Fragments]]></title>
             <description><![CDATA[Visit the Folkestone Fragments Talk Infomation Page for more details. The post November Talk: 29th Folkestone Fragments first appeared on New Folkestone Society.]]></description>
             <link>https://www.newfolkestonesociety.org.uk/november-talk-29th-folkestone-fragments/</link>
@@ -564,6 +572,22 @@
             <guid isPermaLink="false">https://www.rainbow-centre.org/matthews-volunteering-journey/</guid>
             <pubDate>Tue, 18 Nov 2025 13:41:29 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[State and marginalisation: Brazil and the UK 1970-1990]]></title>
+            <description><![CDATA[State and marginalisation: Brazil and the UK 1970-1990 Magdalena Araus Sieber # The Brazilian civil-military dictatorship (1964-1985) and Margaret Thatcher’s government in the UK (1979-1990) overlapped for several years. Despite crucial differences, most notably that Thatcher governed within a democ…]]></description>
+            <link>https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</guid>
+            <pubDate>Mon, 17 Nov 2025 15:49:14 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Queer resistance during Brazil’s dictatorship]]></title>
+            <description><![CDATA[Carnival of 1984, Salvador. Luiz Mott and members of the Grupo Gay da Bahia. Source: Grupo Gay Da Bahia ‘Lampião da Esquina’ one of the first publications directed at the homosexual public in Brazil, 1978. Source: Wikimedia Commons Protest against the police patrols, 1980 James Green Collection. Sou…]]></description>
+            <link>https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</link>
+            <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</guid>
+            <pubDate>Mon, 17 Nov 2025 15:40:28 GMT</pubDate>
+            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[November Coffee Afternoon]]></title>
@@ -612,14 +636,6 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/art-fair-2025/</guid>
             <pubDate>Fri, 31 Oct 2025 10:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Remembrance 2025]]></title>
-            <description><![CDATA[More information on this page The post Remembrance 2025 first appeared on New Folkestone Society.]]></description>
-            <link>https://www.newfolkestonesociety.org.uk/remembrance-2025/</link>
-            <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/remembrance-2025/</guid>
-            <pubDate>Mon, 20 Oct 2025 07:35:37 GMT</pubDate>
-            <organisation>New Folkestone Society</organisation>
         </item>
         <item>
             <title><![CDATA[Introduction to Large Format Cameras]]></title>
@@ -676,14 +692,6 @@
             <guid isPermaLink="false">https://rmch.org.uk/uncategorized/davids-80th-birthday-bucket-list-item-takes-off/</guid>
             <pubDate>Tue, 12 Aug 2025 08:19:47 GMT</pubDate>
             <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
-            <description><![CDATA[.fusion-body .fusion-builder-column-3{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-3 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
-            <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
-            <guid isPermaLink="false">https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</guid>
-            <pubDate>Fri, 25 Jul 2025 14:41:24 GMT</pubDate>
-            <organisation>Hythe Environmental Community Group</organisation>
         </item>
         <item>
             <title><![CDATA[Historic Annual Meeting highlights need for supported accommodation in Folkestone]]></title>
@@ -787,14 +795,6 @@
             <link>https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</link>
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
             <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
-            <organisation>Fourth Wall Folkestone</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Still Sick of It]]></title>
-            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
-            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
-            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
-            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
     </channel>
