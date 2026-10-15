@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 18:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 02:31:11 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Replacement pump for Hythe Pool]]></title>
+            <description><![CDATA[Hythe Pool will be closed for two days next week to allow essential maintenance works to be carried out.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/461/replacement-pump-for-hythe-pool</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/461/replacement-pump-for-hythe-pool</guid>
+            <pubDate>Wed, 14 Oct 2026 09:08:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[The Giving Tree 2026]]></title>
             <description><![CDATA[Folkestone Town Council is proud to present &nbsp; The Giving Tree &nbsp; Running from Tuesday 27 October 2026 &#8211; Saturday 28 November 2026 &nbsp; Each year families fleeing domestic abuse face upheaval and hardship as they try to rebuild their lives. Rising Sun are a fantastic local Charity co…]]></description>
@@ -295,14 +303,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/442/head-down-for-play-area-s-official-opening</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/442/head-down-for-play-area-s-official-opening</guid>
             <pubDate>Fri, 31 Jul 2026 10:46:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Top rating for council's housing standards]]></title>
-            <description><![CDATA[Folkestone & Hythe District Council has been recognised as one of the country’s best performing council housing landlords after being awarded the highest possible consumer standards judgement.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/441/top-rating-for-council-s-housing-standards</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/441/top-rating-for-council-s-housing-standards</guid>
-            <pubDate>Wed, 29 Jul 2026 08:04:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
