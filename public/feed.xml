@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 02:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 18:00:28 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Grace Hill Community Consultation]]></title>
+            <description><![CDATA[Shaping the Future of Grace Hill Folkestone Town Council is exploring how best to secure the long-term future of 2 Grace Hill, the former library building now owned by the Town Council. In 2026, the Council acquired Grace Hill to ensure this important historic building remained in community ownershi…]]></description>
+            <link>https://www.folkestone-tc.gov.uk/grace-hill-community-consultation/</link>
+            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/grace-hill-community-consultation/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:33:50 GMT</pubDate>
+            <organisation>Folkestone Town Council</organisation>
+        </item>
         <item>
             <title><![CDATA[7th November – Free Son et Lumière Remembrance Parade]]></title>
             <description><![CDATA[For full details, see the event page. The post 7th November – Free Son et Lumière Remembrance Parade first appeared on New Folkestone Society.]]></description>
@@ -350,14 +358,6 @@
             <link>https://www.folkestone-tc.gov.uk/canadian-memorial-service-2026/</link>
             <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/canadian-memorial-service-2026/</guid>
             <pubDate>Tue, 14 Jul 2026 13:15:53 GMT</pubDate>
-            <organisation>Folkestone Town Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Town Sunday Service 2026]]></title>
-            <description><![CDATA[&nbsp; This year’s Town Sunday Service was held in the Parish Church of St Mary and St Eanswythe on Sunday 28 June at 1030 hours where this year’s Mayor, Cllr Jackie Meade was officially named. The Service was led by the Town Mayor’s Chaplain, Kate McNeice with Rev. Chris Johnson and Vicky Fredrich …]]></description>
-            <link>https://www.folkestone-tc.gov.uk/town-sunday-service-2026/</link>
-            <guid isPermaLink="false">https://www.folkestone-tc.gov.uk/town-sunday-service-2026/</guid>
-            <pubDate>Tue, 14 Jul 2026 13:04:29 GMT</pubDate>
             <organisation>Folkestone Town Council</organisation>
         </item>
         <item>
