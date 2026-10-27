@@ -4,7 +4,7 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 18:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 17:06:25 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -382,22 +382,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-27th-june-the-last-maharaja/</guid>
             <pubDate>Sat, 20 Jun 2026 10:19:07 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[When systems work and why belonging matters just as much as access]]></title>
-            <description><![CDATA[CEO Insights Thoughts, reflections and updates from Richard Martin, CEO of Touchbase Care. In my previous Insight, I explored what happens when national systems aren’t designed with disability in mind, and the barriers this creates for people simply trying to access the support they need. I want to …]]></description>
-            <link>https://www.touchbasecare.org/when-systems-work-belonging-matters-as-much-as-access/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-systems-work-belonging-matters-as-much-as-access</link>
-            <guid isPermaLink="false">https://www.touchbasecare.org/when-systems-work-belonging-matters-as-much-as-access/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-systems-work-belonging-matters-as-much-as-access</guid>
-            <pubDate>Fri, 05 Jun 2026 15:47:29 GMT</pubDate>
-            <organisation>Touchbase Care</organisation>
-        </item>
-        <item>
-            <title><![CDATA[When the UK’s Biggest Institutions Fail People With Disabilities, the Consequences Are Real]]></title>
-            <description><![CDATA[Welcome to the first edition of CEO Insights. I want to share some thoughts on how the UK’s major institutions, including Parliament and the NHS, are falling short in supporting people with disabilities, and why this matters to all of us. Accessibility Barriers: A National Challenge Last week’s repo…]]></description>
-            <link>https://www.touchbasecare.org/uk-institutions-fail-people-with-disabilities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uk-institutions-fail-people-with-disabilities</link>
-            <guid isPermaLink="false">https://www.touchbasecare.org/uk-institutions-fail-people-with-disabilities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uk-institutions-fail-people-with-disabilities</guid>
-            <pubDate>Thu, 04 Jun 2026 15:42:56 GMT</pubDate>
-            <organisation>Touchbase Care</organisation>
         </item>
         <item>
             <title><![CDATA[November 2025 Newsletter]]></title>
@@ -796,6 +780,22 @@
             <guid isPermaLink="false">https://www.rainbow-centre.org/40-challenges-for-40-years/</guid>
             <pubDate>Wed, 12 Feb 2025 16:13:40 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Volunteering Opportunities]]></title>
+            <description><![CDATA[Do You have some time to give back to your community? New Volunteering Opportunities We are pleased to announce that we have 2 new volunteering opportunities:Hub On the Beach &#8211; we need volunteers to help in the café Monday &#8211; Sunday, there are 2 shifts, 09.30 &#8211; 13.30 or 12.00 &#8211…]]></description>
+            <link>https://rmch.org.uk/uncategorized/volunteering-opportunities/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/volunteering-opportunities/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:14:47 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Launch of Hub on the beach]]></title>
+            <description><![CDATA[We Officially Launch and Open the Hub On The Beach On Monday 2nd of September we officially launched our latest project, the Hub On The Beach.&nbsp; Our longest standing volunteer, Margaret Edwards, did the honours of cutting the ribbon and declaring the Hub open. Entertainment was provided by the E…]]></description>
+            <link>https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</link>
+            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-hub-on-the-beach/</guid>
+            <pubDate>Thu, 06 Feb 2025 12:13:37 GMT</pubDate>
+            <organisation>Romney Marsh Community Hub</organisation>
         </item>
     </channel>
 </rss>
