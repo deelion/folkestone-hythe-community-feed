@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 04:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 19:16:06 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Toilets at Lydd-On-Sea open all year round]]></title>
+            <description><![CDATA[The Lade car park public toilets at Lydd-on-Sea will now be available all year round thanks to a partnership between the council and a neighbouring business.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/465/toilets-at-lydd-on-sea-open-all-year-round</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/465/toilets-at-lydd-on-sea-open-all-year-round</guid>
+            <pubDate>Thu, 05 Nov 2026 09:55:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Providing excellent coastal flood protection]]></title>
             <description><![CDATA[Beach management work which helps protect coastal properties from a storm likely to occur once in every 200 years (1:200) begins this week.]]></description>
@@ -358,14 +366,6 @@
             <guid isPermaLink="false">https://hytheenvironmental.community/super-nature-film-at-folkestone-silver-screen/</guid>
             <pubDate>Wed, 19 Aug 2026 09:40:14 GMT</pubDate>
             <organisation>Hythe Environmental Community Group</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Strong start for Changing Tides Coastal Centre]]></title>
-            <description><![CDATA[There has been a real energy around the Changing Tides Coastal Centre in Greatstone since its opening earlier this year.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-tides-coastal-centre</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/445/strong-start-for-changing-tides-coastal-centre</guid>
-            <pubDate>Tue, 18 Aug 2026 10:34:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
             <title><![CDATA[Celebrating the Commonwealth Games in Folkestone!]]></title>
