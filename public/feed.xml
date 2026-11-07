@@ -4,9 +4,16 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 18:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 03:52:11 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nailbourne Event Cancelled]]></title>
+            <link>https://www.lyminge.org.uk/2026/11/06/nailbourne-event-cancelled/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/11/06/nailbourne-event-cancelled/</guid>
+            <pubDate>Fri, 06 Nov 2026 19:41:33 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[12th November – Leas Restoration Project – Free Coffee Afternoon]]></title>
             <description><![CDATA[For full details, see the event page. The post 12th November – Leas Restoration Project – Free Coffee Afternoon first appeared on New Folkestone Society.]]></description>
@@ -388,13 +395,6 @@
             <link>https://www.lyminge.org.uk/2026/07/29/august-2026-newsletter/</link>
             <guid isPermaLink="false">https://www.lyminge.org.uk/2026/07/29/august-2026-newsletter/</guid>
             <pubDate>Wed, 29 Jul 2026 06:00:00 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
-            <title><![CDATA[July 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/06/26/july-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/06/26/july-2026-newsletter/</guid>
-            <pubDate>Fri, 26 Jun 2026 11:07:54 GMT</pubDate>
             <organisation>The Lyminge Association</organisation>
         </item>
         <item>
