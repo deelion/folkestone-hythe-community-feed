@@ -4,9 +4,17 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 05:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 19:46:49 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A brighter future is in sight ]]></title>
+            <description><![CDATA[A £22m project to regenerate Folkestone town centre is more than 90% complete with the majority of works finished before the end of 2026.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/468/a-brighter-future-is-in-sight</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/468/a-brighter-future-is-in-sight</guid>
+            <pubDate>Wed, 18 Nov 2026 16:37:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[Plan for Folkestone's former bus station]]></title>
             <description><![CDATA[A planning application has been put forward to create a flexible retail or hospitality space on part of the ground floor of Folkestone’s former Bouverie Square bus station building.]]></description>
@@ -367,14 +375,6 @@
             <link>https://www.folkestone-hythe.gov.uk/news/article/449/help-bring-back-international-rail-services-to-kent</link>
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/449/help-bring-back-international-rail-services-to-kent</guid>
             <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[New Local Plan being worked on for district]]></title>
-            <description><![CDATA[Preparation of a new Local Plan for the district has begun and residents, businesses and local communities are being invited to get involved.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/448/new-local-plan-being-worked-on-for-district</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/448/new-local-plan-being-worked-on-for-district</guid>
-            <pubDate>Mon, 07 Sep 2026 17:04:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
