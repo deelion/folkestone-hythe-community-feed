@@ -4,9 +4,33 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 04:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 21:46:19 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lots to learn about in latest magazine]]></title>
+            <description><![CDATA[The latest edition of Your District Today – packed full of interesting local news and information – will start landing on doormats this week.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/472/lots-to-learn-about-in-latest-magazine</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/472/lots-to-learn-about-in-latest-magazine</guid>
+            <pubDate>Mon, 23 Nov 2026 14:41:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Putting down roots for generations to come]]></title>
+            <description><![CDATA[A new district-wide tree planting programme by Folkestone & Hythe District Council begins this month.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/470/putting-down-roots-for-generations-to-come</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/470/putting-down-roots-for-generations-to-come</guid>
+            <pubDate>Mon, 23 Nov 2026 09:17:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Waste collection schedule changes for Christmas]]></title>
+            <description><![CDATA[Most household waste and recycling collections will be moved by 24 hours over the Christmas period.]]></description>
+            <link>https://www.folkestone-hythe.gov.uk/news/article/471/waste-collection-schedule-changes-for-christmas</link>
+            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/471/waste-collection-schedule-changes-for-christmas</guid>
+            <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+            <organisation>Folkestone &amp; Hythe District Council</organisation>
+        </item>
         <item>
             <title><![CDATA[28th November – The History of Postling Vicarage]]></title>
             <description><![CDATA[For full details, see the event page. The post 28th November – The History of Postling Vicarage first appeared on New Folkestone Society.]]></description>
@@ -378,30 +402,6 @@
             <organisation>Folkestone &amp; Hythe District Council</organisation>
         </item>
         <item>
-            <title><![CDATA[Making sure support gets to the right people]]></title>
-            <description><![CDATA[Over £1.25m of funds claimed fraudulently or in error has been identified in the past year.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/452/making-sure-support-gets-to-the-right-people</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/452/making-sure-support-gets-to-the-right-people</guid>
-            <pubDate>Fri, 11 Sep 2026 11:25:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Your District Today well worth a read]]></title>
-            <description><![CDATA[There is a whole load of interesting news and information in the latest edition of Your District Today magazine, out from this week.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/451/your-district-today-well-worth-a-read</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/451/your-district-today-well-worth-a-read</guid>
-            <pubDate>Wed, 09 Sep 2026 07:06:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Community at heart of Folca planning application]]></title>
-            <description><![CDATA[An application aimed at preparing the Art Deco section of a former Folkestone department store to become an active mixed-used building with commercial units and a medical centre has been submitted.]]></description>
-            <link>https://www.folkestone-hythe.gov.uk/news/article/450/community-at-heart-of-folca-planning-application</link>
-            <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/450/community-at-heart-of-folca-planning-application</guid>
-            <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
-            <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
             <title><![CDATA[September 2026 Newsletter]]></title>
             <link>https://www.lyminge.org.uk/2026/08/29/september-2026-newsletter/</link>
             <guid isPermaLink="false">https://www.lyminge.org.uk/2026/08/29/september-2026-newsletter/</guid>
@@ -622,14 +622,6 @@
             <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
-            <title><![CDATA[Launch of Crowdfunder]]></title>
-            <description><![CDATA[The Board of Trustees of the Romney Marsh Community Hub charity, which this year marks its 50th anniversary serving the Marsh, has launched an urgent fundraising appeal to raise £150,000 to safeguard essential services for local residents. The charity has been hit hard by a combination of soaring op…]]></description>
-            <link>https://rmch.org.uk/uncategorized/launch-of-crowdfunder/</link>
-            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/launch-of-crowdfunder/</guid>
-            <pubDate>Tue, 18 Nov 2025 16:12:03 GMT</pubDate>
-            <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
             <title><![CDATA[Matthew’s Volunteering Journey]]></title>
             <description><![CDATA[published 18/11/25 Article Update Since starting volunteering with us, Matthew has gone from strength to strength and we are so pleased to say he has now secured permanent employment, and he is continuing to volunteer for us too! Huge congratulations Matthew, the Warehouse Team and everyone at Rainb…]]></description>
             <link>https://www.rainbow-centre.org/matthews-volunteering-journey/</link>
@@ -726,30 +718,6 @@
             <organisation>Folkeshare</organisation>
         </item>
         <item>
-            <title><![CDATA[Shuffler Launch at Our Hub]]></title>
-            <description><![CDATA[We are proud to be one of only three sites in Kent chosen to launch and test the SHUFFLER® — a new portable seated exercise device. The SHUFFLER® was co-designed by an NHS doctor to help improve mobility and stability in a simple, hassle-free way. It is suitable for people of all abilities — includi…]]></description>
-            <link>https://rmch.org.uk/uncategorized/shuffler-launch-at-our-hub/</link>
-            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/shuffler-launch-at-our-hub/</guid>
-            <pubDate>Tue, 12 Aug 2025 08:33:40 GMT</pubDate>
-            <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Fantastic Funday Fundraiser]]></title>
-            <description><![CDATA[Lindau Residential Home in New Romney held a funday on Saturday 9 August. It was a busy and happy day. There was live music from Driss, a BBQ, a cake stall, face painting, line dancing, and the biggest raffle we have ever seen. The sun was shining. Residents enjoyed the day with their family and fri…]]></description>
-            <link>https://rmch.org.uk/uncategorized/fantastic-funday-fundraiser/</link>
-            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/fantastic-funday-fundraiser/</guid>
-            <pubDate>Tue, 12 Aug 2025 08:26:08 GMT</pubDate>
-            <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
-            <title><![CDATA[David’s 80th Birthday Bucket List Item Takes Off!]]></title>
-            <description><![CDATA[Our amazing volunteer, David Stokes, decided to celebrate his upcoming 80th birthday in the most adventurous way possible — by doing a wing walk! On Friday 1 August, David climbed onto the top of a plane at Headcorn Aerodrome and soared through the skies, ticking off a top item from his bucket list.…]]></description>
-            <link>https://rmch.org.uk/uncategorized/davids-80th-birthday-bucket-list-item-takes-off/</link>
-            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/davids-80th-birthday-bucket-list-item-takes-off/</guid>
-            <pubDate>Tue, 12 Aug 2025 08:19:47 GMT</pubDate>
-            <organisation>Romney Marsh Community Hub</organisation>
-        </item>
-        <item>
             <title><![CDATA[Volunteers Urgently needed for Electrical Recycling Drop Off]]></title>
             <description><![CDATA[.fusion-body .fusion-builder-column-3{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-3 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 1.92%;padding-bottom : 0px !important;padding-left : 0px !important;margin-…]]></description>
             <link>https://hytheenvironmental.community/volunteers-urgently-needed-for-electrical-recycling-drop-off/</link>
@@ -790,12 +758,44 @@
             <organisation>Folkestone Music Town</organisation>
         </item>
         <item>
-            <title><![CDATA[Being a Trustee]]></title>
-            <description><![CDATA[by Marion Howard-Healy How did that happen?Having some spare time, I wondered how I could volunteer locally. What to do? The Romney Marsh Community Hub came to mind. After an initial inquiry, I was directed to the website and saw the Hub was looking for Trustees. Thinking my business skills might be…]]></description>
-            <link>https://rmch.org.uk/uncategorized/being-a-trustee/</link>
-            <guid isPermaLink="false">https://rmch.org.uk/uncategorized/being-a-trustee/</guid>
-            <pubDate>Wed, 30 Apr 2025 16:02:48 GMT</pubDate>
-            <organisation>Romney Marsh Community Hub</organisation>
+            <title><![CDATA[Hamlet Hotel Planning Application Accepted]]></title>
+            <description><![CDATA[19th March 2025 The Rainbow Centre is pleased to announce that yesterday, Folkestone and Hythe District Council, gave the green light for the conversion of a Folkestone hotel into accommodation for local people experiencing homelessness. Dr Peter Le Feuvre, the Chair of Trustees, confirmed that the …]]></description>
+            <link>https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/hamlet-hotel-planning-application-accepted/</guid>
+            <pubDate>Wed, 19 Mar 2025 12:48:29 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Musical Walkabout]]></title>
+            <description><![CDATA[The Musical Walkabout were able to run its Coastal Project through the summer of 2024 with the help of funds from RDHCT. The Walkabout works with people with dementia, their carers and health and social care professionals to enjoy music as a weekly event. The group sing songs in the Lower Leas Coast…]]></description>
+            <link>https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</link>
+            <guid isPermaLink="false">https://rdhct.org.uk/miscellaneous/the-league-of-amiable-songsters/</guid>
+            <pubDate>Wed, 19 Feb 2025 09:59:07 GMT</pubDate>
+            <organisation>The Roger De Haan Charitable Trust</organisation>
+        </item>
+        <item>
+            <title><![CDATA[40 Challenges Fundraiser]]></title>
+            <description><![CDATA[This year the Rainbow Centre marks 40 years supporting the most vulnerable in our community. We want to raise 40K to help fund our vital services. Can you, or someone you know, help by taking one of our fun 40 Challenges? These fundraising activities are for individuals, the whole family or groups o…]]></description>
+            <link>https://www.rainbow-centre.org/40-challenges-for-40-years/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/40-challenges-for-40-years/</guid>
+            <pubDate>Wed, 12 Feb 2025 16:13:40 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[SFF 2023]]></title>
+            <description><![CDATA[Connect &#8211; Be Inspired &#8211; Collaborate; to create a more sustainable futures for our district. On Sat 29th April 2023 the Folkestone &amp; Hythe Sustainable Futures Forum bought together businesses, community groups and individuals to deliver inspiring talks and ideas from local professiona…]]></description>
+            <link>https://sustainablefuturesforum.com/2025/02/01/1714/</link>
+            <guid isPermaLink="false">https://sustainablefuturesforum.com/2025/02/01/1714/</guid>
+            <pubDate>Sat, 01 Feb 2025 11:57:55 GMT</pubDate>
+            <organisation>Sustainable Futures Forum</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Fourth Wall Birthday Party]]></title>
+            <description><![CDATA[Join us to celebrate Fourth Wall Folkestone&#8217;s Fourth Birthday! On Friday 28 November, between 5-8pm, we&#8217;ll be opening up our Christmas-Not-Christmas Design + Art Fair late and cracking out the bubbles to mark our 4th anniversary. We&#8217;d love for you to join us! We&#8217;ve also annou…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
+            <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
         </item>
     </channel>
 </rss>
