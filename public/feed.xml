@@ -4,9 +4,16 @@
         <description><![CDATA[Updates from local community organisations]]></description>
         <link>https://folke.world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 05:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 20:31:17 GMT</lastBuildDate>
         <atom:link href="https://folke.world/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[December 2026 Newsletter]]></title>
+            <link>https://www.lyminge.org.uk/2026/11/27/december-2026-newsletter/</link>
+            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/11/27/december-2026-newsletter/</guid>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+            <organisation>The Lyminge Association</organisation>
+        </item>
         <item>
             <title><![CDATA[Lots to learn about in latest magazine]]></title>
             <description><![CDATA[The latest edition of Your District Today – packed full of interesting local news and information – will start landing on doormats this week.]]></description>
@@ -38,14 +45,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/28th-november-the-history-of-postling-vicarage/</guid>
             <pubDate>Sun, 22 Nov 2026 11:44:33 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[‘REEL ENGLAND’ REVEALS ANOTHER WORKING-CLASS KENT BEYOND THE HEADLINES]]></title>
-            <description><![CDATA[Film Still from &#8216;Aylesham Remembered by Sheila&#8217; by Nina Shen ‘REEL ENGLAND’ REVEALS ANOTHER WORKING-CLASS KENT BEYOND THE HEADLINES Film Still by Nina Shen Film still from &#8216;Aylesham Remembered by Sheila&#8217; Film Still from &#8216;Kerry&#8217;s World&#8217; by Nina Shen ‘REEL ENG…]]></description>
-            <link>https://www.ct-20.org/2026/11/20/reel-england-reveals-another-working-class-kent-beyond-the-headlines/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2026/11/20/reel-england-reveals-another-working-class-kent-beyond-the-headlines/</guid>
-            <pubDate>Fri, 20 Nov 2026 11:08:44 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[Folk and the Fields Oral History]]></title>
@@ -110,14 +109,6 @@
             <guid isPermaLink="false">https://www.folkestone-hythe.gov.uk/news/article/466/bringing-empty-units-back-to-life</guid>
             <pubDate>Thu, 12 Nov 2026 13:36:00 GMT</pubDate>
             <organisation>Folkestone &amp; Hythe District Council</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Nina Shen on the Making of the Aylesham Trilogy]]></title>
-            <description><![CDATA[Nina Shen on the Making of the Aylesham Trilogy Film Still by Nina Shen Image by Aylesham Carnival Committee Film Still by Joel Snowman Image by Nina Shen Nina Shen on the Making of the Aylesham Trilogy Nina Shen # Chinese British filmmaker Nina Shen spent more than 5 years observing the carnival ri…]]></description>
-            <link>https://www.ct-20.org/2026/11/12/nina-shen-on-the-making-of-the-aylesham-trilogy/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2026/11/12/nina-shen-on-the-making-of-the-aylesham-trilogy/</guid>
-            <pubDate>Thu, 12 Nov 2026 09:46:46 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[12th November – Leas Restoration Project – Free Coffee Afternoon]]></title>
@@ -204,14 +195,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-31st-october-the-battle-of-britain-and-the-memorial/</guid>
             <pubDate>Sat, 24 Oct 2026 12:18:34 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[David Hevey Cripping The Light Fantastic]]></title>
-            <description><![CDATA[David Hevey Cripping The Light Fantastic In CT20’s Reel England Image by David Hevey Image by David Hevey Boo! publicity card David Hevey Cripping The Light Fantastic David Hevey # David Hevey, director of the landmark BBC documentary Boo! reflects on his career from a photographer to a documentary …]]></description>
-            <link>https://www.ct-20.org/2026/10/23/david-hevey-cripping-the-light-fantastic/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2026/10/23/david-hevey-cripping-the-light-fantastic/</guid>
-            <pubDate>Fri, 23 Oct 2026 13:00:11 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[Positive changes made by waste operator]]></title>
@@ -439,13 +422,6 @@
             <organisation>The Lyminge Association</organisation>
         </item>
         <item>
-            <title><![CDATA[July 2026 Newsletter]]></title>
-            <link>https://www.lyminge.org.uk/2026/06/26/july-2026-newsletter/</link>
-            <guid isPermaLink="false">https://www.lyminge.org.uk/2026/06/26/july-2026-newsletter/</guid>
-            <pubDate>Fri, 26 Jun 2026 11:07:54 GMT</pubDate>
-            <organisation>The Lyminge Association</organisation>
-        </item>
-        <item>
             <title><![CDATA[Next talk: 27th June – The Last Maharaja]]></title>
             <description><![CDATA[For full details and to book, see the event page. The post Next talk: 27th June – The Last Maharaja first appeared on New Folkestone Society.]]></description>
             <link>https://www.newfolkestonesociety.org.uk/next-talk-27th-june-the-last-maharaja/</link>
@@ -476,14 +452,6 @@
             <guid isPermaLink="false">https://www.newfolkestonesociety.org.uk/next-talk-30-may-history-of-coolinge-lane/</guid>
             <pubDate>Sun, 24 May 2026 09:10:45 GMT</pubDate>
             <organisation>New Folkestone Society</organisation>
-        </item>
-        <item>
-            <title><![CDATA[HOW I DESIGNED THE DAM IN VENICE – #1]]></title>
-            <description><![CDATA[HOW I DESIGNED THE DAM IN VENICE &#8211; #1 Artist blog series by Nina Shen # In early 2023, CT20’s director Nina Shen was invited by the activist-curator David Hevey to work out how to put on a show in Venice &#8211; CRIP ARTE SPAZIO: The DAM in Venice &#8211; which showcases for the first time, on…]]></description>
-            <link>https://www.ct-20.org/2026/05/21/howidesignedthedaminvenice_pt1/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2026/05/21/howidesignedthedaminvenice_pt1/</guid>
-            <pubDate>Wed, 20 May 2026 23:41:14 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[Meeting Stanley]]></title>
@@ -606,44 +574,12 @@
             <organisation>Fourth Wall Folkestone</organisation>
         </item>
         <item>
-            <title><![CDATA[In 2025, Gabriela Golder’s ‘Conversation Piece’ has an urgent message]]></title>
-            <description><![CDATA[In 2025, Gabriela Golder’s ‘Conversation Piece’ has an urgent message Eleanor Peake # Eleanor Peake reflects on Gabriela Golder’s ‘Conversation Piece’. She asks, in a world of YouTube radicalisation and political isolation, what would happen if the far right spoke to their grandmothers? Three genera…]]></description>
-            <link>https://www.ct-20.org/2025/12/03/in-2025-gabriela-golders-conversation-piece-has-an-urgent-message/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2025/12/03/in-2025-gabriela-golders-conversation-piece-has-an-urgent-message/</guid>
-            <pubDate>Wed, 03 Dec 2025 15:36:28 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Watching ‘O Espírito da TV’]]></title>
-            <description><![CDATA[Watching &#8216;O Espírito da TV&#8217; Daisy Whittle # In the first season of REEL BRAZIL: Mutinies in Video Art, the film O Espírito da TV spotlights the Waiãpi people of the Amazon Rainforest. It shows their bold fight to hold onto their land and traditions against the push of new technology and …]]></description>
-            <link>https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2025/11/30/watching-o-espirito-da-tv/</guid>
-            <pubDate>Sun, 30 Nov 2025 13:21:52 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
             <title><![CDATA[Matthew’s Volunteering Journey]]></title>
             <description><![CDATA[published 18/11/25 Article Update Since starting volunteering with us, Matthew has gone from strength to strength and we are so pleased to say he has now secured permanent employment, and he is continuing to volunteer for us too! Huge congratulations Matthew, the Warehouse Team and everyone at Rainb…]]></description>
             <link>https://www.rainbow-centre.org/matthews-volunteering-journey/</link>
             <guid isPermaLink="false">https://www.rainbow-centre.org/matthews-volunteering-journey/</guid>
             <pubDate>Tue, 18 Nov 2025 13:41:29 GMT</pubDate>
             <organisation>Rainbow Centre</organisation>
-        </item>
-        <item>
-            <title><![CDATA[State and marginalisation: Brazil and the UK 1970-1990]]></title>
-            <description><![CDATA[State and marginalisation: Brazil and the UK 1970-1990 Magdalena Araus Sieber # The Brazilian civil-military dictatorship (1964-1985) and Margaret Thatcher’s government in the UK (1979-1990) overlapped for several years. Despite crucial differences, most notably that Thatcher governed within a democ…]]></description>
-            <link>https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/state-and-marginalisation-brazil-and-the-uk-1970-1990/</guid>
-            <pubDate>Mon, 17 Nov 2025 15:49:14 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
-        </item>
-        <item>
-            <title><![CDATA[Queer resistance during Brazil’s dictatorship]]></title>
-            <description><![CDATA[Carnival of 1984, Salvador. Luiz Mott and members of the Grupo Gay da Bahia. Source: Grupo Gay Da Bahia ‘Lampião da Esquina’ one of the first publications directed at the homosexual public in Brazil, 1978. Source: Wikimedia Commons Protest against the police patrols, 1980 James Green Collection. Sou…]]></description>
-            <link>https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</link>
-            <guid isPermaLink="false">https://www.ct-20.org/2025/11/17/queer-resistance-during-brazils-dictatorship/</guid>
-            <pubDate>Mon, 17 Nov 2025 15:40:28 GMT</pubDate>
-            <organisation>CT20 Projects CIC</organisation>
         </item>
         <item>
             <title><![CDATA[Sick Of It: The Egg-Xhibition]]></title>
@@ -796,6 +732,70 @@
             <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/fourth-wall-fourth-birthday/</guid>
             <pubDate>Thu, 30 Jan 2025 16:55:00 GMT</pubDate>
             <organisation>Fourth Wall Folkestone</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Still Sick of It]]></title>
+            <description><![CDATA[Still Sick Of It is a multidisciplinary series of creative events, talks, exhibitions and workshops exploring Women’s Health and diet culture because we&#8217;re STILL SICK OF IT! The Joy Of Fat: Mellissa Monsoon01-31 August A powerful exhibition that celebrates body diversity and challenges stigma.…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/still-sick-of-it/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/still-sick-of-it/</guid>
+            <pubDate>Wed, 29 Jan 2025 13:01:00 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Closing Celebrations]]></title>
+            <description><![CDATA[It&#8217;s a wrap for Still Sick Of It!Fri 31 OctDrop in: 12:00-16:00 Join Sarah Lloyd (Still Sick of It Curator / Fourth Wall Folkestone Director) for an informal mingle and chat to celebrate and round off the Still Sick of It programme. This is an open invite for anyone who has been along to any o…]]></description>
+            <link>https://fourthwallfolkestone.co.uk/closing-celebrations/</link>
+            <guid isPermaLink="false">https://fourthwallfolkestone.co.uk/closing-celebrations/</guid>
+            <pubDate>Tue, 28 Jan 2025 14:51:00 GMT</pubDate>
+            <organisation>Fourth Wall Folkestone</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Hawkinge School Police Mini Cadets donate to the Winter Shelter]]></title>
+            <description><![CDATA[Little people have the biggest hearts. And this was proved beyond doubt when, on a busy December day at the Rainbow Centre, a surprise delivery arrived. No. Not Father Christmas. It was Kent Police PCSO’s Samantha Maxwell and PCSO Georgia Sutcliffe, with PCSO Janet Rumley, bearing gifts for our Wint…]]></description>
+            <link>https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/hawkinge-school-police-mini-cadets-donate-to-the-winter-shelter/</guid>
+            <pubDate>Wed, 18 Dec 2024 09:46:00 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the Gutenberg Editor]]></title>
+            <description><![CDATA[Of Mountains &amp; Printing Presses The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll noti…]]></description>
+            <link>https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</link>
+            <guid isPermaLink="false">https://treatmeright.org.uk/2024/09/18/welcome-to-the-gutenberg-editor/</guid>
+            <pubDate>Wed, 18 Sep 2024 18:21:02 GMT</pubDate>
+            <organisation>Treat Me Right CIC</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Family Contact Centre is now NACCC Accredited]]></title>
+            <description><![CDATA[We are so pleased that our Family Contact Centre has become an Accredited Member of the National Association of Child Contact Centres. The NACCC explains their accreditation: &#8220;NACCC has an accreditation process which ensures members meet national standards. An assessor visits every three years…]]></description>
+            <link>https://www.rainbow-centre.org/family-contact-centre-is-now-naccc-accredited/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/family-contact-centre-is-now-naccc-accredited/</guid>
+            <pubDate>Thu, 08 Aug 2024 12:01:01 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Putting Food on the Table]]></title>
+            <description><![CDATA[If you are finding it hard to put food on the table our Pantry service may be able to help!! Find out more information below and apply for membership The post Putting Food on the Table appeared first on Folkestone Rainbow Centre.]]></description>
+            <link>https://www.rainbow-centre.org/putting-food-on-the-table/</link>
+            <guid isPermaLink="false">https://www.rainbow-centre.org/putting-food-on-the-table/</guid>
+            <pubDate>Wed, 24 Jul 2024 17:50:53 GMT</pubDate>
+            <organisation>Rainbow Centre</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Announcing the Future Sound of Folkestone!]]></title>
+            <description><![CDATA[The post Announcing the Future Sound of Folkestone! appeared first on Folkestone Music Town.]]></description>
+            <link>https://folkestonemusic.co.uk/announcing-the-future-sound-of-folkestone/</link>
+            <guid isPermaLink="false">https://folkestonemusic.co.uk/announcing-the-future-sound-of-folkestone/</guid>
+            <pubDate>Tue, 11 Jun 2024 19:45:42 GMT</pubDate>
+            <organisation>Folkestone Music Town</organisation>
+        </item>
+        <item>
+            <title><![CDATA[Screen South – Music Videos in May Showcase]]></title>
+            <description><![CDATA[The post Screen South – Music Videos in May Showcase appeared first on Folkestone Music Town.]]></description>
+            <link>https://folkestonemusic.co.uk/screen-south-music-videos-in-may-showcase/</link>
+            <guid isPermaLink="false">https://folkestonemusic.co.uk/screen-south-music-videos-in-may-showcase/</guid>
+            <pubDate>Thu, 16 May 2024 20:16:08 GMT</pubDate>
+            <organisation>Folkestone Music Town</organisation>
         </item>
     </channel>
 </rss>
